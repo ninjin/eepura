@@ -1,0 +1,4 @@
+train
+predict
+*.a
+*.o
