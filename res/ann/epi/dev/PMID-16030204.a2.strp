@@ -1,0 +1,6 @@
+T7	Methylation 1045 1056	methylation
+T8	Demethylation 1058 1071	demethylation
+E1	Methylation:T7 Theme:T3
+E2	Methylation:T7 Theme:T4
+E3	Demethylation:T8 Theme:T3
+E4	Demethylation:T8 Theme:T4
