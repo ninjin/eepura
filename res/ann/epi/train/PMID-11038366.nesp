@@ -1,0 +1,14 @@
+<sentence id="0">Carboxymethylation of the PP2A catalytic subunit in Saccharomyces cerevisiae is required for efficient interaction with the B-type subunits Cdc55p and Rts1p .</sentence>
+<sentence id="1">Protein phosphatase 2A ( PP2A ) is an essential eukaryotic serine/threonine phosphatase known to play important roles in cell cycle regulation .</sentence>
+<sentence id="2">Association of different B-type targeting subunits with the heterodimeric core ( A/C ) enzyme is known to be an important mechanism of regulating PP2A activity , substrate specificity , and localization .</sentence>
+<sentence id="3">However , how <scope type="spec" id="0"> the binding of these targeting subunits to the A/C heterodimer <cue type="spec" id="0">might</cue> be regulated</scope> is unknown .</sentence>
+<sentence id="4">We have used the budding yeast Saccharomyces cerevisiae as a model system to investigate the <scope type="spec" id="1"> <cue type="spec" id="1">hypothesis</cue> that covalent modification of the C subunit ( Pph21p/Pph22p ) carboxyl terminus modulates PP2A complex formation</scope> .</sentence>
+<sentence id="5">Two approaches were taken .</sentence>
+<sentence id="6">First , S. cerevisiae cells were generated whose survival depended on the expression of different carboxyl-terminal Pph21p mutants .</sentence>
+<sentence id="7">Second , the major S. cerevisiae methyltransferase ( Ppm1p ) that catalyzes the methylation of the PP2A C subunit carboxyl-terminal leucine was identified , and cells deleted for this methyltransferase were utilized for our studies .</sentence>
+<sentence id="8">Our results demonstrate that binding of the yeast B subunit , Cdc55p , to Pph21p was disrupted by either acidic substitution of <scope type="spec" id="2"> <cue type="spec" id="2">potential</cue> carboxyl-terminal phosphorylation sites</scope> on Pph21p or by deletion of the gene for Ppm1p .</sentence>
+<sentence id="9">Loss of Cdc55p association was accompanied in each case by a large reduction in binding of the yeast A subunit , Tpd3p , to Pph21p .</sentence>
+<sentence id="10">Moreover , decreased Cdc55p and Tpd3p binding invariably resulted in nocodazole sensitivity , a known phenotype of CDC55 or TPD3 deletion .</sentence>
+<sentence id="11">Furthermore , loss of methylation also greatly reduced the association of another yeast B-type subunit , Rts1p .</sentence>
+<sentence id="12">Thus , methylation of Pph21p is important for formation of PP2A trimeric and dimeric complexes , and consequently , for PP2A function .</sentence>
+<sentence id="13">Taken together , our results <scope type="spec" id="3"> <cue type="spec" id="3">indicate that</cue> methylation and phosphorylation <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> be mechanisms by which the cell dynamically regulates PP2A complex formation and function</scope></scope> .</sentence>

@@ -1,0 +1,14 @@
+<sentence id="0">Calcium/calmodulin-dependent protein kinase II downregulates both calcineurin and protein kinase C-mediated pathways for cytokine gene transcription in human T cells .</sentence>
+<sentence id="1">Engagement of the T cell receptor for antigen activates phospholipase C resulting in an increase in intracellular free calcium concentration ( [ Ca2+]i ) and activation of protein kinase C ( PKC ) .</sentence>
+<sentence id="2">Increased [Ca2+]i activates Ca2+/calmodulin-dependent kinases including the multifunctional Ca2+/calmodulin-dependent protein kinase II ( CaM-K II ) , as well as calcineurin , a type 2B protein phosphatase .</sentence>
+<sentence id="3">Recent studies have identified calcineurin as a key enzyme for interleukin (IL)-2 and IL-4 promoter activation .</sentence>
+<sentence id="4">However , <scope type="spec" id="0"> the role of CaM-K II remains <cue type="spec" id="0">unknown</cue></scope> .</sentence>
+<sentence id="5">We have used mutants of these kinases and phosphatases ( gamma B*CaM-K and delta CaM-AI , respectively ) to explore their relative role in cytokine gene transcription and their interactions with PKC-dependent signaling systems .</sentence>
+<sentence id="6">gamma B*CaM-K and delta CaM-AI , known to exhibit constitutive Ca(2+)-independent activity , were cotransfected ( alone or in combination ) in Jurkat T cells with a plasmid containing the intact IL-2 promoter driving the expression of the chloramphenicol acetyltransferase reporter gene .</sentence>
+<sentence id="7">Cotransfection of gamma B*CaM-K with the IL-2 promoter construct downregulated its transcription in response to stimulation with ionomycin and phorbol myristate acetate ( PMA ) .</sentence>
+<sentence id="8">The inhibitory effect of CaM-K II on IL-2 promoter was associated with decreased transcription of its AP-1 and NF-AT transactivating pathways .</sentence>
+<sentence id="9">Under the same conditions , delta CaM-AI superinduced IL-2 promoter activity ( approximately twofold increase ) .</sentence>
+<sentence id="10">When both mutants were used in combination , gamma B*CaM-K inhibited the induction of the IL-2 promoter by delta CaM-AI .</sentence>
+<sentence id="11">Similar results were obtained when a construct containing the IL-4 promoter also was used .</sentence>
+<sentence id="12">gamma B*CaM-K also downregulated the activation of AP-1 in response to transfection with a constitutively active mutant of PKC or stimulation with PMA .</sentence>
+<sentence id="13">These results <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> that CaM-K II <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> exert negative influences on cytokine gene transcription in human T cells</scope></scope> , and provide preliminary evidence for negative cross-talk with the calcineurin- and PKC- dependent signaling systems .</sentence>

@@ -1,0 +1,17 @@
+<sentence id="0">Sp1 and Sp3 transcription factors bind to the GC-box at position = = -==87/==-==78 of the A3G promoter</sentence>
+<sentence id="1">To investigate <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> the GC-box represents a binding site for the transcription factors Sp1 and Sp3</scope> , we performed EMSA analyses with nuclear extracts isolated from A3.01 T cells .</sentence>
+<sentence id="2">As probes , we radioactively labeled the unmodified E2 sequence ( nucleotides = = -==92/==-==63 of the A3G promoter , probe designated APO-Sp1/3 ) or the same region carrying the two point mutations described above ( probe designated APO-Sp1/3mut ) .</sentence>
+<sentence id="3">As control , we used a commercially available Sp1 consensus oligonucleotide ( Sp1cons ) , which is known to be recognized by Sp1 transcription factors .</sentence>
+<sentence id="4">Four DNA==-==protein complexes were observed in the presence of the APO-Sp1/3 probe ( Figure 6A ) .</sentence>
+<sentence id="5">The upper two complexes were specific since they disappeared in the presence of a 30-fold molar excess of unlabeled APO-Sp1/3 probe ( Figure 6A , lane 7 ) .</sentence>
+<sentence id="6">Further confirmation of the specificity of these DNA==-==protein complexes was demonstrated by the inability of the unlabeled APO-Sp1/3mut probe to abolish binding ( Figure 6A , lanes 12 and 13 ) .</sentence>
+<sentence id="7">As expected , the two specific complexes were also present in the case of the Sp1 cons control probe ( Figure 6A , lanes 2 and 3 ) .</sentence>
+<sentence id="8">In contrast , <scope type="neg" id="1"><cue type="neg" id="1">none</cue> of these specific complexes was observed when the mutated probe was used</scope> ( Figure 6A , lanes 10 and 11 ) , confirming that protein binding was dependent on the identified GC-box .</sentence>
+<sentence id="9">In order to characterize the complexes , we performed supershift experiments using Sp1- and Sp3-specific antibodies .</sentence>
+<sentence id="10">The upper of the complexes that appeared in combination with the <scope type="spec" id="2"> Sp1cons <cue type="spec" id="2">or</cue> APO-Sp1/3 probes</scope> , shifted in the presence of the Sp1 antibody ( Figure 6B , lanes 3 and 7 ) , whereas the lower complex shifted in the presence of the Sp3 antibody ( Figure 6B , lanes 4 and 8 ) .</sentence>
+<sentence id="11">Taken together , the EMSA demonstrated that the GC-box located on the A3G core promoter serves as a binding site for Sp1 and Sp3 .</sentence>
+<sentence id="12">To show binding of Sp1 and Sp3 factors also in the context of the endogenous A3G promoter , a chromatin immunoprecipitation ( ChIP ) assay was performed .</sentence>
+<sentence id="13">Sp1 and Sp3 antibodies , but <scope type="neg" id="3"><cue type="neg" id="3">not</cue> an actin antibody</scope> , immunoprecipitated the A3G promoter in A3.01 T cells ( Figure 6C , upper panel ) .</sentence>
+<sentence id="14">In contrast , <scope type="neg" id="4"><cue type="neg" id="4">no</cue> PCR signal was received with a primer pair recognizing a region in the A3G gene = = approximately==4000 bp downstream of the Sp1/Sp3==-==binding site ( Figure 6C , lower panel )</scope> .</sentence>
+<sentence id="15">Only the positive controls showed a DNA band , with an A3G expression plasmid or the sheared and cross-linked input DNA used as template .</sentence>
+<sentence id="16">This demonstrates the binding of Sp1 and Sp3 transcription factors to the endogenous A3G promoter .</sentence>

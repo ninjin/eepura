@@ -1,0 +1,11 @@
+<sentence id="0">The yeast Hex3.Slx8 heterodimer is a ubiquitin ligase stimulated by substrate sumoylation .</sentence>
+<sentence id="1">Hex3 and Slx8 are Saccharomyces cerevisiae proteins with important functions in DNA damage control and maintenance of genomic stability .</sentence>
+<sentence id="2">Both proteins have RING domains at their C termini .</sentence>
+<sentence id="3">Such domains are common in ubiquitin and ubiquitin-like protein ligases ( E3s ) , but little was known about the molecular functions of either protein .</sentence>
+<sentence id="4">In this study we identified HEX3 as a high-copy suppressor of a temperature-sensitive small ubiquitin-related modifier ( SUMO ) protease mutant , ulp1ts , <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> that it <scope type="spec" id="1"> <cue type="spec" id="1">may</cue> affect cellular SUMO dynamics</scope></scope> .</sentence>
+<sentence id="5">Remarkably , even a complete deletion of ULP1 is strongly suppressed .</sentence>
+<sentence id="6">Hex3 forms a heterodimer with Slx8 .</sentence>
+<sentence id="7">We found that the Hex3.Slx8 complex has a robust substrate-specific E3 ubiquitin ligase activity .</sentence>
+<sentence id="8">In this E3 complex , <scope type="spec" id="2"> Slx8 <cue type="spec" id="2">appears</cue> to bear the core ligase function , with Hex3 strongly enhancing its activity</scope> .</sentence>
+<sentence id="9">Notably , SUMO attachment to a substrate stimulates its Hex3.Slx8-dependent ubiquitination , primarily through direct noncovalent interactions between SUMO and Hex3 .</sentence>
+<sentence id="10">Our data reveal a novel mechanism of substrate targeting in which sumoylation of a protein can help trigger its subsequent ubiquitination by recruiting a SUMO-binding ubiquitin ligase .</sentence>

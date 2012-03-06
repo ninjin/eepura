@@ -1,0 +1,10 @@
+<sentence id="0">NBR1 cooperates with p62 in selective autophagy of ubiquitinated targets .</sentence>
+<sentence id="1">Selective degradation of intracellular targets , such as misfolded proteins and damaged organelles , is an important homeostatic function that autophagy has acquired in addition to its more general role in restoring the nutrient balance during stress and starvation .</sentence>
+<sentence id="2">Although <scope type="spec" id="0"> the exact mechanism underlying selection of autophagic substrates is <cue type="spec" id="0">not known</cue></scope> , ubiquitination is a candidate signal for autophagic degradation of misfolded and aggregated proteins .</sentence>
+<sentence id="3">p62/SQSTM1 was the first protein shown to bind both target-associated ubiquitin ( Ub ) and LC3 conjugated to the phagophore membrane , thereby effectively acting as an autophagic receptor for ubiquitinated targets .</sentence>
+<sentence id="4">Importantly , p62 <scope type="neg" id="1"><cue type="neg" id="1">not</cue> only mediates selective degradation but also promotes aggregation of ubiquitinated proteins that can be harmful in some cell types</scope> .</sentence>
+<sentence id="5">Is p62 the only autophagic receptor for selective autophagy ?</sentence>
+<sentence id="6">Looking for proteins that interact with ATG8 family proteins , we identified NBR1 ( neighbor of BRCA1 gene 1 ) as an additional LC3- and Ub-binding protein .</sentence>
+<sentence id="7">NBR1 is degraded by autophagy depending on its LC3-interacting region ( LIR ) but does <scope type="neg" id="2"><cue type="neg" id="2">not</cue> strictly require p62 for this process</scope> .</sentence>
+<sentence id="8">Like p62 , NBR1 accumulates and aggregates when autophagy is inhibited and is a part of pathological inclusions .</sentence>
+<sentence id="9">We <scope type="spec" id="3"> <cue type="spec" id="3">propose</cue> that NBR1 together with p62 promotes autophagic degradation of ubiquitinated targets and simultaneously regulates their aggregation when autophagy becomes limited</scope> .</sentence>

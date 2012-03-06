@@ -1,0 +1,11 @@
+<sentence id="0">Prolyl 4-hydroxylation regulates Argonaute 2 stability .</sentence>
+<sentence id="1">Human Argonaute ( Ago ) proteins are essential components of the RNA-induced silencing complexes ( RISCs ) .</sentence>
+<sentence id="2">Argonaute 2 ( Ago2 ) has a P-element-induced wimpy testis ( PIWI ) domain , which folds like RNase H and is responsible for target RNA cleavage in RNA interference .</sentence>
+<sentence id="3">Proteins such as Dicer , TRBP , MOV10 , RHA , RCK/p54 and KIAA1093 associate with Ago proteins and participate in small RNA processing , RISC loading and localization of Ago proteins in the cytoplasmic messenger RNA processing bodies .</sentence>
+<sentence id="4">However , mechanisms that regulate RNA interference remain obscure .</sentence>
+<sentence id="5">Here we report physical interactions between Ago2 and the alpha-(P4H-alpha(I)) and beta-(P4H-beta) subunits of the type I collagen prolyl-4-hydroxylase ( C-P4H(I) ) .</sentence>
+<sentence id="6">Mass spectrometric analysis identified hydroxylation of the endogenous Ago2 at proline 700 .</sentence>
+<sentence id="7">In vitro , both Ago2 and Ago4 <scope type="spec" id="0"> <cue type="spec" id="0">seem</cue> to be more efficiently hydroxylated than Ago1 and Ago3 by recombinant human C-P4H(I)</scope> .</sentence>
+<sentence id="8">Importantly , human cells depleted of P4H-alpha(I) or P4H-beta by short hairpin RNA and P4H-alpha(I) null mouse embryonic fibroblast cells showed reduced stability of Ago2 and impaired short interfering RNA programmed RISC activity .</sentence>
+<sentence id="9">Furthermore , mutation of proline 700 to alanine also resulted in destabilization of Ago2 , thus linking Ago2 P700 and hydroxylation at this residue to its stability regulation .</sentence>
+<sentence id="10">These findings identify hydroxylation as a post-translational modification important for Ago2 stability and effective RNA interference .</sentence>

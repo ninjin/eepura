@@ -1,0 +1,28 @@
+<sentence id="0">Runx3 and T-box factors control a complex program of transcriptional regulation during CTL differentiation</sentence>
+<sentence id="1">Collectively , these data provide evidence that Runx3 , together with T-box factors , orchestrates a complex program of transcriptional regulation in differentiating CTL ( Fig .</sentence>
+<sentence id="2">4 C ) .</sentence>
+<sentence id="3">Runx3 is present in naive CD8+ T cells before activation ( 12 ) .</sentence>
+<sentence id="4">It represses Runx1 and has a positive role in the induction of Eomes , granzyme B , perforin , and IFN-==gamma = = .</sentence>
+<sentence id="5">Runx3 binds to promoters and <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> regulatory regions of the latter three genes</scope> , <scope type="spec" id="1"> <cue type="spec" id="1">suggesting</cue> a direct effect on gene expression</scope> .</sentence>
+<sentence id="6">Additional experiments are needed to determine <scope type="spec" id="2"> <cue type="spec" id="2">whether</cue> Eomes and Runx1 are also direct target genes of Runx3</scope> .</sentence>
+<sentence id="7">Surprisingly , Runx3 contributed to the optimal expression of TNF , IL-2 , and IFN-==gamma = = at day 4 ( Fig .</sentence>
+<sentence id="8">S2 ) .</sentence>
+<sentence id="9">For TNF and IL-2 , the requirement for Runx3 subsides by day 6 ( Fig .</sentence>
+<sentence id="10">3 C ) , <scope type="spec" id="3"> <cue type="spec" id="3">possibly</cue> because of compensation</scope> by Runx1 , which is derepressed in Runx3==-==/==- = = cells ( Fig .</sentence>
+<sentence id="11">4 A ) .</sentence>
+<sentence id="12">Runx3 continues to be required for IFN-==gamma = = expression even at day 6 , <scope type="spec" id="4"> <cue type="spec" id="4">perhaps</cue> because of its role in the induction of Eomes expression ( Fig</scope> .</sentence>
+<sentence id="13">4 A ) .</sentence>
+<sentence id="14">An unexpected finding was that the two T-box transcription factors , T-bet and Eomes , are up-regulated with very different kinetics in CD8+ T cells under our culture conditions and have nonredundant roles in the subsequent expression of key effector proteins ( Fig .</sentence>
+<sentence id="15">4 C ) .</sentence>
+<sentence id="16">T-bet is needed early to confer on activated CD8+ T cells the competence to produce IFN-==gamma = = upon restimulation , but its function is less important at later times .</sentence>
+<sentence id="17">Eomes , which is induced late and functions downstream of Runx3 , <scope type="spec" id="5"> <cue type="spec" id="5">may</cue> substitute for T-bet in promoting the acute expression of IFN-==gamma = = in restimulated CTLs ( 8 )</scope> .</sentence>
+<sentence id="18">Indeed , T-bet and Eomes both contribute to perforin expression in NK cells ( 8 , 26 ) , and Eomes induces granzyme B as effectively as T-bet in developing Th2 cells ( 7 ) ; thus , the relative roles of these T-box transcription factors vary depending on cell type .</sentence>
+<sentence id="19">Surprisingly , however , Eomes and T-bet appeared nonredundant in their ability to induce two other markers of CTL function , Prf1 and Gzmb ( Fig .</sentence>
+<sentence id="20">4 C ) .</sentence>
+<sentence id="21">Rather , T-bet and Eomes were involved in regulating granzyme B and perforin expression , respectively : up-regulation of T-bet and Eomes mRNA and protein closely preceded up-regulation of Gzmb and Prf1 mRNA and protein , respectively .</sentence>
+<sentence id="22">T-bet had <scope type="neg" id="6"><cue type="neg" id="6">no</cue> role in perforin expression under our culture conditions</scope> , and Eo-VP16 did <scope type="neg" id="7"><cue type="neg" id="7">not</cue> affect granzyme B expression when expressed in T-bet==-==/==- = = or Runx3==-==/==- = = cells</scope> .</sentence>
+<sentence id="23">Because conventional Eomes-deficient mice die before precursor cells can be isolated for bone marrow transfers ( 27 ) and because T cells conditionally deficient in Eomes have only recently been described ( 9 ) , we were <scope type="neg" id="8"><cue type="neg" id="8">unable</cue> to introduce Runx3 into Eomes-deficient CD8+ T cells to test formally <scope type="spec" id="9"> <cue type="spec" id="9">whether</cue> Eomes cooperated with Runx3 to induce perforin expression</scope></scope> .</sentence>
+<sentence id="24">Collectively , our data are consistent with a transcriptional network in which preexisting Runx3 cooperates with the induced T-box factors T-bet and Eomes and IL-2R==beta = = signals ( unpublished data ) to orchestrate CTL differentiation ( Fig .</sentence>
+<sentence id="25">4 C ) .</sentence>
+<sentence id="26">Our data recall the = = " = = feed-forward = = " = = interaction between T-bet and Runx3 that we previously described in CD4+ ( Th1 ) T cells ( 15 ) but are distinct in two respects : in differentiating Th1 cells , T-bet is induced by TCR signals and IFN-==gamma = = , and in turn induces Runx3 ( 15 ) , whereas in differentiating CD8+ T cells , preexisting Runx3 is required to induce the T-box transcription factor Eomes .</sentence>
+<sentence id="27">Whole-genome experiments in these and other systems will be required to establish <scope type="spec" id="10"> <cue type="spec" id="10">whether</cue> cooperation between T-box and Runx family transcription factors is a general feature of cellular differentiation programs</scope> .</sentence>

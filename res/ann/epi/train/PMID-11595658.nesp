@@ -1,0 +1,9 @@
+<sentence id="0">N-glycosylation of CRF receptor type 1 is important for its ligand-specific interaction .</sentence>
+<sentence id="1">The corticotropin-releasing factor ( CRF ) receptor type 1 ( CRFR1 ) contains five <scope type="spec" id="0"> <cue type="spec" id="0">potential</cue> N-glycosylation sites</scope> : N38 , N45 , N78 , N90 , and N98 .</sentence>
+<sentence id="2">Cells expressing CRFR1 were treated with tunicamycin to block receptor glycosylation .</sentence>
+<sentence id="3">The nonglycosylated receptor did <scope type="neg" id="1"><cue type="neg" id="1">not</cue> bind the radioligand</scope> and had a decreased cAMP stimulation potency in response to CRF .</sentence>
+<sentence id="4">To determine which of the polysaccharide chain(s) is/are involved in ligand interaction , the polysaccharide chains were deleted using site-directed mutagenesis of the glycosylation consensus , N-X-S/T .</sentence>
+<sentence id="5">Two sets of mutations were performed for each glycosylation site : N to Q and S/T to A , respectively .</sentence>
+<sentence id="6">The single mutants Q38 , Q45 , Q78 , Q90 , Q98 , A40 , A47 , A80 , A92 , and A100 and the double mutants A40/A47 and A80/A100 were well expressed , bound CRF , sauvagine ( SVG ) , and urotensin-I ( UTS-I ) with a normal affinity , and increased cAMP accumulation with a high efficiency .</sentence>
+<sentence id="7">In contrast , the combined mutations A80/A92/A100 , A40/A80/A92/A100 , and A40/A47/A80/A92/A100 had low levels of expression , did <scope type="neg" id="2"><cue type="neg" id="2">not</cue> bind the radioligand</scope> , and had a decreased cAMP stimulation .</sentence>
+<sentence id="8">These data <scope type="spec" id="3"> <cue type="spec" id="3">indicate</cue> the requirement for three or more polysaccharide chains for normal CRFR1 function</scope> .</sentence>

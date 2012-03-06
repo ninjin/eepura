@@ -1,0 +1,14 @@
+<sentence id="0">N-glycosylation is requisite for the enzyme activity and Golgi retention of N-acetylglucosaminyltransferase III .</sentence>
+<sentence id="1">UDP-N-acetylglucosamine : beta-D-mannoside beta-1,4N-acetylglucosaminyltransferase III ( GnT-III , EC 2.4.1.144 ) is a glycoprotein involved in the biosynthesis of N-linked oligosaccharides .</sentence>
+<sentence id="2">Rat GnT-III contains three <scope type="spec" id="0"> <cue type="spec" id="0">potential</cue> N-glycosylation sites , <scope type="spec" id="1"> which have been <cue type="spec" id="1">predicted</cue> to be Asn243 , Asn261 , and Asn399</scope></scope> .</sentence>
+<sentence id="3">To study the roles of N-glycosylation in the GnT-III function , rat GnT-III was expressed in COS-1 cells under tunicamycin or castanospermine treatment .</sentence>
+<sentence id="4">The tunicamycin-treated GnT-III , <scope type="neg" id="2">which was <cue type="neg" id="2">not</cue> N-glycosylated</scope> , had almost <scope type="neg" id="3"><cue type="neg" id="3">no</cue> activity</scope> .</sentence>
+<sentence id="5"><scope type="neg" id="4">The castanospermine-treated GnT-III was <cue type="neg" id="4">not</cue> localized in the Golgi</scope> , but glucosylation did <scope type="neg" id="5"><cue type="neg" id="5">not</cue> affect its activity</scope> .</sentence>
+<sentence id="6">To clarify the role of individual N-glycosylations , we obtained a series of mutant cDNAs in which some or all of the <scope type="spec" id="6"> <cue type="spec" id="6">potential</cue> glycosylation sites</scope> were eliminated by site-directed mutagenesis , and expressed them in COS-1 cells .</sentence>
+<sentence id="7">All the mutants exhibited lower enzyme activity than the wild-type , but deglycosylation at individual sites had different effects on the enzyme activity .</sentence>
+<sentence id="8">The deglycosylation at Asn243 or Asn261 was more effective on the activity than that at Asn399 .</sentence>
+<sentence id="9">The enzyme activity decreased as the number of glycosylation sites decreased .</sentence>
+<sentence id="10">The null glycosylation mutant had <scope type="neg" id="7"><cue type="neg" id="7">no</cue> activity</scope> , corresponding to the case of tunicamycin-treated wild-type GnT-III .</sentence>
+<sentence id="11"><scope type="neg" id="8"><cue type="neg" id="8">Kinetic</cue> analysis revealed that the deglycosylation at Asn243 or Asn261 resulted in slightly lower affinity for the donor substrate</scope> , but the other mutation did not significantly change the K(m) value for either the donor or acceptor .</sentence>
+<sentence id="12">None of the mutant GnT-IIIs showed perinuclear localization or Golgi retention , that was observed for the wild-type protein .</sentence>
+<sentence id="13">This is the first demonstration that the glycosyltransferase localized in the Golgi apparatus requires N-glycosylation for its activity and retention .</sentence>

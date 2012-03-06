@@ -1,0 +1,12 @@
+<sentence id="0">IL-12 induces IFN regulating factor-1 ( IRF-1 ) gene expression in human NK and T cells .</sentence>
+<sentence id="1">IL-12 is a critical immunoregulatory cytokine that promotes cell-mediated immune responses and the differentiation of naive CD4+ cells to Th1 cells ; however , relatively few IL-12 target genes have been identified .</sentence>
+<sentence id="2">To better clarify the molecular basis of IL-12 action , we set out to characterize genes up-regulated by IL-12 , first by contrasting IL-12- and IFN-alpha-inducible genes .</sentence>
+<sentence id="3">We identified several genes up-regulated by IL-12 , namely , MIP-1alpha , MIP-1beta , IL-1RA , and IFN regulatory factor-1 ( IRF-1 ) .</sentence>
+<sentence id="4">IRF-1 is a transcription factor regulated by IFNs that is also essential for Th1 responses .</sentence>
+<sentence id="5">We demonstrated that IL-12 directly up-regulates IRF-1 to the same extent as IFN-alpha in normal human T cells and in NK cells .</sentence>
+<sentence id="6">We showed that IL-12 had a direct effect on IRF-1 , <scope type="neg" id="0">an effect <cue type="neg" id="0">not</cue> mediated indirectly by the induction of IFN-gamma production</scope> .</sentence>
+<sentence id="7">Furthermore , IL-2 and IL-12 synergistically induced IRF-1 , whereas IFN-alpha and IL-12 did <scope type="neg" id="1"><cue type="neg" id="1">not</cue></scope> .</sentence>
+<sentence id="8">The participation of STAT4 in the regulation of IRF-1 was demonstrated in two ways .</sentence>
+<sentence id="9">First , STAT4 was required for the IL-12-dependent transactivation of an IRF-1 reporter construct , and second , STAT4 binding to the IRF-1 promoter was shown using EMSA .</sentence>
+<sentence id="10">In contrast to IL-12 , <scope type="neg" id="2"><cue type="neg" id="2">no</cue> up-regulation of IRF-1 was found in IL-4-stimulated cells</scope> , and IL-4 did <scope type="neg" id="3"><cue type="neg" id="3">not</cue> block IL-12-dependent up-regulation of IRF-1</scope> .</sentence>
+<sentence id="11">Therefore , IRF-1 <scope type="spec" id="5"> <cue type="spec" id="5">may</cue> be an important contributor to IL-12 signaling</scope> , and we <scope type="spec" id="6"> <cue type="spec" id="6">speculate</cue> that the defective IL-12 responses seen in IRF-1-/- mice <scope type="spec" id="7"> <cue type="spec" id="7">might</cue> be attributable , in part , to the <scope type="neg" id="4"><cue type="neg" id="4">absence</cue> of this transcription factor</scope></scope></scope> .</sentence>

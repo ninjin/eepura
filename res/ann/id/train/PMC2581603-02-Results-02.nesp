@@ -1,0 +1,18 @@
+<sentence id="0">Extracellular DNA induces cell death by membrane perturbation and cell lysis</sentence>
+<sentence id="1">DNA is a highly anionic polymer due to the phosphates in the deoxyribose backbone .</sentence>
+<sentence id="2">This property , in combination with the fast-killing observed in response to extracellular DNA led us to <scope type="spec" id="0"> <cue type="spec" id="0">hypothesize</cue> that addition of exogenous DNA resulted in the loss of membrane integrity through cation chelation , in a manner similar to that observed with the known cation chelator EDTA [ 58</scope> ] .</sentence>
+<sentence id="3">The OM of P. aeruginosa contains a 20:1 ratio of Mg2+:Ca2+ cations [ 59 ] , which bind to and stabilize LPS in the outer leaflet of the OM [ 58 ] .</sentence>
+<sentence id="4">EDTA treatment of cells resulted in chelation and removal of divalent cations from the OM , leading to disruption of the OM [ 58 ] .</sentence>
+<sentence id="5">To determine the effect of DNA on membrane integrity , microscopic analysis in response to lethal concentrations of DNA and relevant controls was performed .</sentence>
+<sentence id="6">Lipoproteins are lipid-modified proteins anchored in the outer leaflet of the IM or the inner leaflet of the OM .</sentence>
+<sentence id="7">P. aeruginosa cells producing mCherry fluorescent membrane-anchored lipoproteins ( lipoChFP ) that are localized to either the OM or IM [ 60 ] , [ 61 ] were used as markers of OM and IM integrity .</sentence>
+<sentence id="8">LipoChFP-labelled P. aeruginosa cells showed dramatic membrane perturbations when exposed to 2 % ( w/v ) DNA , but showed uniform membrane staining patterns in untreated cells ( Fig 2A ) .</sentence>
+<sentence id="9">The OM perturbations in DNA-exposed cells included regions of patchy fluorescence and the release of OMVs , while the IM perturbations were visualized simply as patchy and irregular regions of membrane fluorescence ( Fig 2A ) .</sentence>
+<sentence id="10">EDTA , the known cation chelator caused comparable IM and OM perturbations as those observed in cells exposed to extracellular DNA .</sentence>
+<sentence id="11">Propidium iodide ( PI ) stains extracellular DNA and DNA in dead cells .</sentence>
+<sentence id="12">PI staining was observed in cells exposed to DNA and EDTA , confirming that this treatment was lethal ( Fig 2B ) .</sentence>
+<sentence id="13">PI staining also revealed the presence of long strands of genomic DNA , <scope type="spec" id="1"> <cue type="spec" id="1">presumably</cue> as a consequence of the loss of membrane integrity , cell lysis and release of cytoplasmic contents , including DNA ( Fig 2B</scope> ) .</sentence>
+<sentence id="14">The DNA released by lysed cells formed a mesh-like coating surrounding and connecting individual bacterial cells ( Fig 2B ) .</sentence>
+<sentence id="15">Degradation of these strands by DNAse treatment of lysed cells confirmed that these fibres were composed of DNA ( Fig S1 ) .</sentence>
+<sentence id="16">Pseudomonas specific semi-quantitative PCR ( qPCR ) was also performed to confirm that the DNA released following DNA or EDTA treated cells was in fact genomic DNA from P. aeruginosa ( Fig 2C ) .</sentence>
+<sentence id="17">Buffer treated control cells showed intense green staining with syto9 ( <scope type="spec" id="2"> <cue type="spec" id="2">indicating</cue> viability ) and a lack of PI staining ( <scope type="spec" id="3"> <cue type="spec" id="3">indicating</cue> no dead/dying cells or DNA release</scope> ) ( Fig S1 )</scope> .</sentence>

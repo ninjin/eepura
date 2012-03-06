@@ -1,0 +1,9 @@
+<sentence id="0">E3 ubiquitin ligase SIAH1 mediates ubiquitination and degradation of TRB3 .</sentence>
+<sentence id="1">Tribbles 3 homolog ( TRB3 ) is recently identified as a scaffold-like regulator of various signal transducers and has been implicated in several processes including insulin signaling , NF-kappaB signaling , lipid metabolism and BMP signaling .</sentence>
+<sentence id="2">To further understand cellular mechanisms of TRB3 regulation , we performed a yeast two-hybrid screen to identify novel TRB3 interacting proteins and totally obtained ten in-frame fused preys .</sentence>
+<sentence id="3">Candidate interactions were validated by co-immunoprecipitation assays in mammalian cells .</sentence>
+<sentence id="4">We further characterized the identified proteins sorted by Gene Ontology Annotation .</sentence>
+<sentence id="5">Its interaction with the E3 ubiquitin ligase SIAH1 was further investigated .</sentence>
+<sentence id="6">SIAH1 could interact with TRB3 both in vitro and in vivo .</sentence>
+<sentence id="7">Importantly , SIAH1 targeted TRB3 for proteasome-dependent degradation .</sentence>
+<sentence id="8">Cotransfection of SIAH1 could withdraw up-regulation of TGF-beta signaling by TRB3 , <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> SIAH1-induced degradation of TRB3 represents a <scope type="spec" id="1"> <cue type="spec" id="1">potential</cue> regulatory mechanism for TGF-beta signaling</scope></scope> .</sentence>

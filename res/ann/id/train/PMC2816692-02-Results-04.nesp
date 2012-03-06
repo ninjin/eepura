@@ -1,0 +1,20 @@
+<sentence id="0">SrcA interacts with the SPI-2 T3SS ATPase</sentence>
+<sentence id="1">An emerging function for T3SS chaperones is delivery of cargo to the base of the apparatus through interactions with an ATPase .</sentence>
+<sentence id="2">This was shown for the flagellar T3SS [ 17 ] and later in the virulence-associated T3SS in E. coli [ 16 ] , [ 27 ] and the SPI-1 T3SS in Salmonella [ 15 ] .</sentence>
+<sentence id="3">However , analogous interactions have <scope type="neg" id="0"><cue type="neg" id="0">not</cue> been described for the SPI-2 T3SS</scope> .</sentence>
+<sentence id="4">Since srcA expression was co-regulated with genes in SPI-2 , we <scope type="spec" id="1"> <cue type="spec" id="1">hypothesized</cue> that it had a functional role in this system</scope> .</sentence>
+<sentence id="5">To address this biochemically we purified SrcA and the predicted ATPase for the SPI-2 T3SS , SsaN , and performed binding experiments and gel filtration chromatography of the protein mixtures .</sentence>
+<sentence id="6">SsaN contains conserved amino acid residues characteristic of Walker-A and Walker-B motifs of P-loop nucleoside triphosphate hydrolases , as well as a number of residues shown to contribute to ATP binding or ring stacking with the adenine base of ATP in the E. coli orthologue , EscN , ( Q412 , E191 , R366 ) ( Fig .</sentence>
+<sentence id="7">S1 ) .</sentence>
+<sentence id="8">Since SsaN had <scope type="neg" id="2"><cue type="neg" id="2">not</cue> been characterized biochemically we first verified that our purified protein had ATPase activity ( Fig</scope> .</sentence>
+<sentence id="9">S1 ) .</sentence>
+<sentence id="10">We then mixed SrcA and SsaN proteins and resolved the protein complexes by gel filtration chromatography .</sentence>
+<sentence id="11">By itself , SrcA existed as a dimer in solution ( Fig .</sentence>
+<sentence id="12">4A ) with <scope type="neg" id="3"><cue type="neg" id="3">no</cue> higher oligomers present</scope> , substantiating the stoichiometry obtained from our crystal data .</sentence>
+<sentence id="13">SsaN existed as a monomer with a minor population eluting in a volume consistent with a <scope type="spec" id="4"> <cue type="spec" id="4">probable</cue> dimer ( Fig</scope> .</sentence>
+<sentence id="14">4B ) .</sentence>
+<sentence id="15">When SrcA was mixed with SsaN , a new protein complex of high molecular weight was observed , along with diminished peaks corresponding to the SrcA dimer and SsaN monomer ( Fig .</sentence>
+<sentence id="16">4C ) .</sentence>
+<sentence id="17">This new complex elutes with a Stokes radius consistent with an <scope type="spec" id="5"> <cue type="spec" id="5">apparent</cue> molecular mass of approximately600 kDa</scope> .</sentence>
+<sentence id="18">We verified the identities of protein originating from each peak by western blot ( Fig .</sentence>
+<sentence id="19">4D ) and LC-MS/MS , which showed the new complex was comprised of both SsaN and SrcA .</sentence>

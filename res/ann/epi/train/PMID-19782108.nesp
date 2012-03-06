@@ -1,0 +1,8 @@
+<sentence id="0">Glycosylation of classical swine fever virus E(rns) is essential for binding double-stranded RNA and preventing interferon-beta induction .</sentence>
+<sentence id="1">Host cells sense double-stranded RNA ( dsRNA ) produced during viral replication and initiate type I interferon ( IFN-alpha/beta ) production , leading to subsequent antiviral responses .</sentence>
+<sentence id="2">Many viruses , including classical swine fever virus ( CSFV ) , have developed strategies for counteracting the IFN-alpha/beta response .</sentence>
+<sentence id="3">In this study , we explored the role of the CSFV E(rns) glycoprotein in the inhibition of IFN-beta production induced by dsRNA [ poly(IC) ] .</sentence>
+<sentence id="4">Our results demonstrated that CSFV E(rns) could bind to exogenous dsRNA and inhibit dsRNA-induced IFN-beta production but <scope type="neg" id="0"><cue type="neg" id="0">failed</cue> to inhibit TRIF-triggered IFN-beta production</scope> .</sentence>
+<sentence id="5">Our data <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> that the inhibition of IFN-beta induction occurred at the initial step of the TLR3 signaling pathway</scope> .</sentence>
+<sentence id="6">We also showed that <scope type="neg" id="2">deglycosylation of E(rns) rendered it <cue type="neg" id="2">unable</cue> to bind to dsRNA</scope> , and thus <scope type="neg" id="3"><cue type="neg" id="3">unable</cue> to inhibit dsRNA-induced IFN-beta production</scope> .</sentence>
+<sentence id="7">Taken together , these results <scope type="spec" id="4"> <cue type="spec" id="4">indicated that</cue> N-glycan of CSFV E(rns) is essential for E(rns) blocking of IFN-beta induction</scope> .</sentence>

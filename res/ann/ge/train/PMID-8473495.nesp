@@ -1,0 +1,11 @@
+<sentence id="0">Negative transcriptional regulation of human interleukin 2 ( IL-2 ) gene by glucocorticoids through interference with nuclear transcription factors AP-1 and NF-AT .</sentence>
+<sentence id="1">IL-2 gene transcription is affected by several nuclear proteins .</sentence>
+<sentence id="2">We asked <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> dexamethasone ( Dex ) and cyclosporin A ( CsA ) inhibit IL-2 gene transcription by interfering with the activity of nuclear proteins that bind to the IL-2 promoter</scope> .</sentence>
+<sentence id="3">Nuclear extracts from primary human T lymphocytes were analyzed by electrophoretic DNA mobility shift assays .</sentence>
+<sentence id="4">Both Dex and CsA inhibited the binding of transcription factors AP-1 and NF-AT , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> of NF-kB and OCT-1/OAF</scope> , to their corresponding sites on the IL-2 gene promoter .</sentence>
+<sentence id="5">To correlate changes in nuclear factor binding in vitro with transcriptional activity in vivo and define the structural requirements for IL-2 promoter repression , we used transient DNA transfections .</sentence>
+<sentence id="6">Jurkat cells were transfected with plasmids containing either the intact IL-2 promoter or its AP-1 , NF-AT , and NF-kB motifs .</sentence>
+<sentence id="7">Dex inhibited the IL-2 promoter and the AP-1 , but <scope type="neg" id="2"><cue type="neg" id="2">not</cue> the NF-AT and NF-kB plasmids</scope> .</sentence>
+<sentence id="8">In contrast , CsA inhibited the IL-2 promoter and the NF-AT , but <scope type="neg" id="3"><cue type="neg" id="3">not</cue> the AP-1 and NF-kB plasmids</scope> .</sentence>
+<sentence id="9">These results <scope type="spec" id="4"> <cue type="spec" id="4">suggest</cue> that in human T lymphocytes both Dex and CsA inhibited IL-2 gene transcription through interference with transcription factors AP-1 and NF-AT</scope> .</sentence>
+<sentence id="10">We <scope type="spec" id="5"> <cue type="spec" id="5">propose</cue> that , while maximum inhibition <scope type="spec" id="6"> <cue type="spec" id="6">may</cue> involve interaction with both transcription factors</scope> , AP-1 is the primary target of Dex</scope> .</sentence>

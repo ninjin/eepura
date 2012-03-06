@@ -1,0 +1,8 @@
+<sentence id="0">Suppression of cancer cell growth by promoting cyclin D1 degradation .</sentence>
+<sentence id="1">The cyclin D1 proto-oncoprotein is a crucial regulator in cell-cycle progression , and aberrant overexpression of cyclin D1 is linked to tumorigenesis of many different cancer types .</sentence>
+<sentence id="2">By screening ubiquitinated cyclin D1 as a substrate with a deubiquitinase library , we have identified USP2 as a specific deubiquitinase for cyclin D1 .</sentence>
+<sentence id="3">USP2 directly interacts with cyclin D1 and promotes its stabilization by antagonizing ubiquitin-dependent degradation .</sentence>
+<sentence id="4">Conversely , USP2 knockdown destabilizes cyclin D1 and induces growth arrest in the human cancer lines where cell growth is dependent on cyclin D1 expression .</sentence>
+<sentence id="5">Of note , <scope type="neg" id="0">cyclin D1 is <cue type="neg" id="0">not</cue> universally required for cell-cycle progression</scope> .</sentence>
+<sentence id="6">Inactivation of USP2 has either very mild effects on cell growth in normal human fibroblasts or <scope type="neg" id="1"><cue type="neg" id="1">no</cue> effect in the cancer cells that do <scope type="neg" id="2"><cue type="neg" id="2">not</cue> express cyclin D1</scope></scope> .</sentence>
+<sentence id="7">These findings <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> that targeting USP2 is an effective approach to induce growth suppression in the cancer cells addicted to cyclin D1 expression</scope> .</sentence>

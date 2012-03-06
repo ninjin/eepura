@@ -1,0 +1,9 @@
+<sentence id="0">CheY-dependent methylation of the asparagine receptor , McpB , during chemotaxis in Bacillus subtilis .</sentence>
+<sentence id="1">For the Gram-positive organism Bacillus subtilis , chemotaxis to the attractant asparagine is mediated by the chemoreceptor McpB .</sentence>
+<sentence id="2">In this study , we show that rapid net demethylation of B. subtilis McpB results in the immediate production of methanol , <scope type="spec" id="0"> <cue type="spec" id="0">presumably</cue> due to the action of CheB</scope> .</sentence>
+<sentence id="3">We also show that net demethylation of McpB occurs upon both addition and removal of asparagine .</sentence>
+<sentence id="4">After each demethylation event , McpB is remethylated to nearly prestimulus levels .</sentence>
+<sentence id="5">Both remethylation events are attributable to CheR using S-adenosylmethionine as a substrate .</sentence>
+<sentence id="6">Therefore , no methyl transfer to an intermediate carrier need be postulated to occur during chemotaxis in B. subtilis as was previously <scope type="spec" id="1"> <cue type="spec" id="1">suggested</cue></scope> .</sentence>
+<sentence id="7">Furthermore , we show that the remethylation of asparagine-bound McpB requires the response regulator , CheY-P , <scope type="spec" id="2"> <cue type="spec" id="2">suggesting</cue> that CheY-P acts in a feedback mechanism to facilitate adaptation to positive stimuli during chemotaxis in B. subtilis</scope> .</sentence>
+<sentence id="8"><scope type="spec" id="3"> This hypothesis is <cue type="spec" id="3">supported</cue> by two observations</scope> : a cheRBCD mutant is capable of transient excitation and subsequent oscillations that bring the flagellar rotational bias below the prestimulus value in the tethered cell assay , and the cheRBCD mutant is capable of swarming in a Tryptone swarm plate .</sentence>

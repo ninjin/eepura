@@ -1,0 +1,17 @@
+<sentence id="0">Quorum sensing-like gene regulation</sentence>
+<sentence id="1">Regulation by AHL-LuxR-like receptors Virulence , bioluminescence , mutualism , antibiotic production and biofilm formation are often regulated by LuxI/LuxR quorum sensing systems in Gram-negative bacteria .</sentence>
+<sentence id="2">They produce membrane diffusible signalling molecules , acyl homoserine lactones ( AHLs ) , which are sensed by the receptor/regulator LuxR when exceeding a threshold concentration .</sentence>
+<sentence id="3">These AHLs are produced by an autoinductor synthase named LuxI .</sentence>
+<sentence id="4">Upon autoinductor-binding , the receptor LuxR binds to the promoter/operator regions of the target genes or operons , resulting in the regulation of gene expression in response to the cell number [ 33 ] .</sentence>
+<sentence id="5">Y. enterocolitica possesses a typical quorum sensing pair of homologues , YenI/YenR ( YE1600/YE1599 ) , and it has recently been shown that swimming and swarming motility is regulated by 3-oxo-C6-AHL and C6-AHL , which are synthesized by YenI [ 34 ] .</sentence>
+<sentence id="6">In Y. pestis , the production of YspI and YspR , the homologues of YenI and YenR , is induced at 26degreesC ( Table 1 ) .</sentence>
+<sentence id="7">Moreover , we identified a second AHL-LuxR regulator , YE1026 , which <scope type="neg" id="0"><cue type="neg" id="0">lacks</cue> a separate AHL synthase ( Fig</scope> .</sentence>
+<sentence id="8">3 ) .</sentence>
+<sentence id="9">It is <scope type="spec" id="1"> <cue type="spec" id="1">not</cue> known if this receptor also binds the AHLs produced by YenI</scope> .</sentence>
+<sentence id="10">In the genome of P. luminescens , two genes encoding <scope type="spec" id="3"> <cue type="spec" id="3">putative</cue> AHL-LuxR-like receptors</scope> , plu0320 and plu4562 , but <scope type="neg" id="2"><cue type="neg" id="2">no</cue> luxI genes are present ( Fig</scope> .</sentence>
+<sentence id="11">3 ) .</sentence>
+<sentence id="12">This <scope type="spec" id="5"> <cue type="spec" id="5">suggests</cue> that P. luminescens does <scope type="neg" id="4"><cue type="neg" id="4">not</cue> produce its own AHL signalling molecule</scope></scope> , but <scope type="spec" id="6"> <cue type="spec" id="6">might</cue> be able to sense those produced by other bacteria and therefore to detect mixed microbial communities as demonstrated for Salmonella enterica and Escherichia coli [ 35-37</scope> ] .</sentence>
+<sentence id="13"><scope type="spec" id="7"> A similar function in Y. enterocolitica <cue type="spec" id="7">might</cue> be provided by YE1026</scope> .</sentence>
+<sentence id="14">It is interesting to note that Sodalis glossinidius strain morsitans , an endosymbiont of the tse tse fly Glossina morsitans morsitans [ 38 ] , also has two pontential AHL-LuxR receptors , SG1740 and SG0285 , but <scope type="neg" id="8"><cue type="neg" id="8">no</cue> luxI homologue</scope> ( Fig .</sentence>
+<sentence id="15"><scope type="neg" id="9"><cue type="neg" id="9">3</cue> )</scope> .</sentence>
+<sentence id="16"><scope type="neg" id="10"><cue type="neg" id="10">Instead of</cue> producing AHLs to regulate quorum dependent genes</scope> , a common strategy of insect-colonizing bacteria <scope type="spec" id="11"> <cue type="spec" id="11">might</cue> be the detection of AHLs as a signal for the presence of other bacteria such as those colonizing the insect intestinal tract or living in soil</scope> .</sentence>

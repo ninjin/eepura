@@ -1,0 +1,13 @@
+<sentence id="0">Identification of an inducible regulator of c-myb expression during T-cell activation .</sentence>
+<sentence id="1">Resting T cells express very low levels of c-Myb protein .</sentence>
+<sentence id="2">During T-cell activation , c-myb expression is induced and much of the increase in expression occurs at the transcriptional level .</sentence>
+<sentence id="3">We identified a region of the c-myb 5' flanking sequence that increased c-myb expression during T-cell activation .</sentence>
+<sentence id="4">In vivo footprinting by ligation-mediated PCR was performed to correlate in vivo protein binding with functional activity .</sentence>
+<sentence id="5">A protein footprint was visible over this region of the c-myb 5' flanking sequence in activated T cells but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> in unactivated T cells</scope> .</sentence>
+<sentence id="6">An electrophoretic mobility shift assay ( EMSA ) with nuclear extract from activated T cells and an oligonucleotide of this binding site demonstrated a new protein-DNA complex , referred to as CMAT for c-myb in activated T cells ; this complex was <scope type="neg" id="1"><cue type="neg" id="1">not</cue> present in unactivated T cells</scope> .</sentence>
+<sentence id="7">Because the binding site showed some sequence similarity with the nuclear factor of activated T cells ( NFAT ) binding site , we compared the kinetics of induction of the two binding complexes and the molecular masses of the two proteins .</sentence>
+<sentence id="8">Studies of the kinetics of induction showed that the NFAT EMSA binding complex appeared earlier than the CMAT complex .</sentence>
+<sentence id="9">The NFAT protein migrated more slowly in a sodium dodecyl sulfate-polyacrylamide gel than the CMAT protein did .</sentence>
+<sentence id="10">In addition , an antibody against NFAT did <scope type="neg" id="2"><cue type="neg" id="2">not</cue> cross-react with the CMAT protein</scope> .</sentence>
+<sentence id="11">The appearance of the CMAT binding complex was inhibited by both cyclosporin A and rapamycin .</sentence>
+<sentence id="12"><scope type="spec" id="3"> The CMAT protein <cue type="spec" id="3">appears</cue> to be a novel inducible protein involved in the regulation of c-myb expression during T-cell activation</scope> .</sentence>

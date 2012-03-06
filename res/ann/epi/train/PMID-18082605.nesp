@@ -1,0 +1,11 @@
+<sentence id="0">Deubiquitination of FANCD2 is required for DNA crosslink repair .</sentence>
+<sentence id="1">Monoubiquitination of FANCD2 and PCNA promotes DNA repair .</sentence>
+<sentence id="2">It causes chromatin accumulation of FANCD2 and facilitates PCNA 's recruitment of translesion polymerases to stalled replication .</sentence>
+<sentence id="3"><scope type="spec" id="0"> USP1 , a protease that removes monoubiquitin from FANCD2 and PCNA , was <cue type="spec" id="0">thought</cue> to reverse the DNA damage response of these substrates</scope> .</sentence>
+<sentence id="4">We disrupted USP1 in chicken cells to dissect its role in a stable genetic system .</sentence>
+<sentence id="5">USP1 ablation increases FANCD2 and PCNA monoubiquitination but unexpectedly results in DNA crosslinker sensitivity .</sentence>
+<sentence id="6">This defective DNA repair is associated with constitutively chromatin-bound , monoubiquitinated FANCD2 .</sentence>
+<sentence id="7">In contrast , persistent PCNA monoubiquitination has negligible impact on DNA repair or mutagenesis .</sentence>
+<sentence id="8">USP1 was previously shown to autocleave after DNA damage .</sentence>
+<sentence id="9">In DT40 , <scope type="neg" id="1">USP1 autocleavage is <cue type="neg" id="1">not</cue> stimulated by DNA damage , and expressing a noncleavable mutant in the USP1 knockout strain partially rescues crosslinker sensitivity</scope> .</sentence>
+<sentence id="10">We conclude that efficient DNA crosslink repair requires FANCD2 deubiquitination , whereas FANCD2 monoubiquitination is <scope type="neg" id="2"><cue type="neg" id="2">not</cue> dependent on USP1 autocleavage</scope> .</sentence>

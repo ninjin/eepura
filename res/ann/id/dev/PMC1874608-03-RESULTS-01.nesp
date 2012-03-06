@@ -1,0 +1,13 @@
+<sentence id="0">RESULTS</sentence>
+<sentence id="1">Mutation of the mlc gene reduces Salmonella invasiveness The process of invasion into non-phagocytic epithelial cells , which is known to be mediated by proteins secreted by the SPI1-encoded type III machinery ( 3 ) , is an important initial step in the pathogenesis of S. Typhimurium .</sentence>
+<sentence id="2">We examined the ability of an mlc mutant , SR1304 , to invade cultured HEp-2 and HeLa epithelial cells .</sentence>
+<sentence id="3">SL1344 was used as the control strain , and the invasiveness of this strain was arbitrarily set at 100 % .</sentence>
+<sentence id="4">When the Salmonella bacteria were grown in static cultures to the exponential phase ( SPI1-inducing condition ) , the invasiveness of SR1304 for both epithelial cell lines was reduced by about 3-fold , compared to that of SL1344 ( Figure 1A and B ) .</sentence>
+<sentence id="5">S. Typhimurium induces the apoptosis of infected macrophages .</sentence>
+<sentence id="6">This process is rapid , specific and depends on the T3SS encoded within SPI1 ( 33,34 ) .</sentence>
+<sentence id="7">To discover <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> the mlc mutant grown under the SPI1-inducing condition affects the capacity to induce apoptosis in macrophages</scope> , the release of the cytoplasmic enzyme LDH was determined in a cytotoxicity assay ( 33 ) .</sentence>
+<sentence id="8">Figure 1C shows that SL1344 killed 42 % of the macrophages , whereas SR1304 killed only 16 % of the macrophages 4h after infection , which demonstrates that the mlc gene plays an important role in the expression of genes involved in cytotoxicity .</sentence>
+<sentence id="9">We also tested the effect of the mlc mutation on the ability to replicate within the RAW264.7 macrophage cell line .</sentence>
+<sentence id="10">After cultivation to the stationary phase with aeration , the bacteria were opsonized with 10 % normal mouse serum and added to the cell monolayer ( 30 ) .</sentence>
+<sentence id="11">When the number of intracellular bacteria were measured at 2 and 18h post-infection , the degree of replication was similar for SL1344 and SR1304 ( Figure 1D ) .</sentence>
+<sentence id="12">Collectively , these results <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> that the main target of Mlc action in Salmonella virulence is SPI1 , which is known to encode various genes that are required for Salmonella invasion of host cells</scope> .</sentence>

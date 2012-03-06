@@ -1,0 +1,14 @@
+<sentence id="0">A cheB1 Mutant Is <scope type="neg" id="0"><cue type="neg" id="0">not</cue> Attenuated for C. elegans</scope> Virulence</sentence>
+<sentence id="1">Several chemotactic gene clusters have been identified in the P. aeruginosa genome [ 21 ] , [ 23 ] .</sentence>
+<sentence id="2">The che1 gene cluster encodes the principle chemotactic device controlling flagellar mobility [ 23 ] .</sentence>
+<sentence id="3">We investigated <scope type="spec" id="2"> <cue type="spec" id="2">whether</cue> the loss of virulence observed in the cheB2 mutant on C. elegans is specific , and results from a loss of chemotaxis under the direction of the che2 chemotactic cluster , <scope type="neg" id="1"><cue type="neg" id="1">rather than</cue> being linked with more global chemotactic or motility deficiency</scope></scope> .</sentence>
+<sentence id="4">We thus investigated the fate of a cheB1 mutant in a similar assay .</sentence>
+<sentence id="5">The cheB1 mutation was engineered in the TB strain as described in materials and methods , yielding TB1459i .</sentence>
+<sentence id="6">The cheB1 mutant was used to feed C. elegans in the slow killing assay and the survival percentage was compared to those obtained when using the cheB2 mutant or the parental TB strain ( Figure 3C ) .</sentence>
+<sentence id="7">Interestingly , the cheB1 mutant showed <scope type="neg" id="3"><cue type="neg" id="3">no</cue> significant reduction in C. elegans killing</scope> when compared to the parental TB strain , with only 36 % of the worms alive after 4 days post infection .</sentence>
+<sentence id="8">This is in contrast to the loss of virulence in the original cheB2 mutant ( TB0173s ) and the insertional cheB2 mutant TB0173i .</sentence>
+<sentence id="9">The mobility of the cheB1 mutant was also analyzed and <scope type="spec" id="4"> both swimming and swarming motility <cue type="spec" id="4">appeared</cue> to be affected as shown in Figure 2</scope> .</sentence>
+<sentence id="10">The swimming or swarming motility defect is , however , much more severe in the cheB1 mutant as compared to the cheB2 mutant .</sentence>
+<sentence id="11">Finally , we used a chemotactic assay using tryptone as chemo-attractant ( see Materials and Methods ) .</sentence>
+<sentence id="12">The parental TB strain was able to move towards the attractant ( an increase of slightly more than half a log of bacteria over 45 min ) and the TB0173s strain ( cheB2 mutant ) was also capable of chemotaxis , even though much reduced as compared to TB ( Figure S4 ) .</sentence>
+<sentence id="13">However , the TB1459i strain ( cheB1 mutant ) was <scope type="neg" id="5"><cue type="neg" id="5">no longer</cue> able to move towards the attractant , and thus showed a defect in this chemotaxis assay ( Figure S4 )</scope> .</sentence>

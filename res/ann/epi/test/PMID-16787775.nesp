@@ -1,0 +1,8 @@
+<sentence id="0">Structural characterization of Set1 RNA recognition motifs and their role in histone H3 lysine 4 methylation .</sentence>
+<sentence id="1">The yeast Set1 histone H3 lysine 4 ( H3K4 ) methyltransferase contains , in addition to its catalytic SET domain , a conserved RNA recognition motif ( RRM1 ) .</sentence>
+<sentence id="2">We present here the crystal structure and the secondary structure assignment in solution of the Set1 RRM1 .</sentence>
+<sentence id="3">Although RRM1 has the expected betaalphabetabetaalphabeta RRM-fold , it <scope type="neg" id="0"><cue type="neg" id="0">lacks</cue> the typical RNA-binding features of these modules</scope> .</sentence>
+<sentence id="4">RRM1 is <scope type="neg" id="1"><cue type="neg" id="1">not</cue> able to bind RNA by itself in vitro</scope> , but a construct combining RRM1 with a newly identified downstream RRM2 specifically binds RNA .</sentence>
+<sentence id="5">In vivo , <scope type="neg" id="2">H3K4 methylation is <cue type="neg" id="2">not</cue> affected by a point mutation in RRM2 that preserves Set1 stability</scope> but affects RNA binding in vitro .</sentence>
+<sentence id="6">In contrast mutating RRM1 destabilizes Set1 and leads to an increase of dimethylation of H3K4 at the 5'-coding region of active genes at the expense of trimethylation , whereas both , dimethylation decreases at the 3'-coding region .</sentence>
+<sentence id="7">Taken together , our results <scope type="spec" id="4"> <cue type="spec" id="4">suggest</cue> that Set1 RRMs bind RNA</scope> , but <scope type="neg" id="3">Set1 RNA-binding activity is <cue type="neg" id="3">not</cue> linked to H3K4 methylation</scope> .</sentence>

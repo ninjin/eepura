@@ -1,0 +1,10 @@
+<sentence id="0">CCR4/NOT complex associates with the proteasome and regulates histone methylation .</sentence>
+<sentence id="1">The proteasome regulates histone lysine methylation and gene transcription , but how it does so is poorly understood .</sentence>
+<sentence id="2">To better understand this process , we used the epistatic miniarray profile ( E-MAP ) approach to identify factors that genetically interact with proteasomal subunits .</sentence>
+<sentence id="3">In addition to members of the Set1 complex that mediate histone H3 lysine 4 methylation ( H3K4me ) , we found that deleting members of the CCR4/NOT mRNA processing complex exhibit synthetic phenotypes when combined with proteasome mutants .</sentence>
+<sentence id="4">Further biochemical analyses revealed physical associations between CCR4/NOT and the proteasome in vivo .</sentence>
+<sentence id="5">Consistent with the genetic and biochemical interactions linking CCR4/NOT with proteasome and Set1-mediated methylation , we find that loss of Not4 decreases global and gene-specific H3K4 trimethylation ( H3K4me3 ) and decreases 19S proteasome recruitment to the PMA1 gene .</sentence>
+<sentence id="6">Similar to proteasome regulation of histone methylation , loss of CCR4/NOT members does <scope type="neg" id="0"><cue type="neg" id="0">not</cue> affect ubiquitinated H2B</scope> .</sentence>
+<sentence id="7">Mapping of Not4 identified the RING finger domain as essential for H3K4me3 , <scope type="spec" id="1"> <cue type="spec" id="1">suggesting</cue> a role for ubiquitin in this process</scope> .</sentence>
+<sentence id="8">Consistent with this idea , loss of the Not4-interacting protein Ubc4 , a known ubiquitin-conjugating enzyme , decreases H3K4me3 .</sentence>
+<sentence id="9">These studies implicate CCR4/NOT in the regulation of H3K4me3 through a ubiquitin-dependent pathway that <scope type="spec" id="2"> <cue type="spec" id="2">likely</cue> involves the proteasome</scope> .</sentence>

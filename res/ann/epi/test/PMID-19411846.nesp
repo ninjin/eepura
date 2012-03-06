@@ -1,0 +1,13 @@
+<sentence id="0">The transcription-independent mitochondrial p53 program is a major contributor to nutlin-induced apoptosis in tumor cells .</sentence>
+<sentence id="1">Strategies to induce p53 activation in tumors that retain wild-type p53 are promising for cancer therapy .</sentence>
+<sentence id="2">Nutlin is a potent and selective pharmacological MDM2 inhibitor that competitively binds to its p53-binding pocket , thereby leading to non-genotoxic p53 stabilization and activation of growth arrest and apoptosis pathways .</sentence>
+<sentence id="3"><scope type="spec" id="0"> Nutlin-induced apoptosis is <cue type="spec" id="0">thought</cue> to occur via p53 's transcriptional program</scope> .</sentence>
+<sentence id="4">Here we report that the transcription-independent mitochondrial p53 program plays an important role in Nutlin-induced p53-mediated tumor cell death .</sentence>
+<sentence id="5">Aside from nuclear stabilization , Nutlin causes cytoplasmic p53 accumulation and translocation to mitochondria .</sentence>
+<sentence id="6">Monoubiquitinated p53 , originating from a distinct cytoplasmic pool , is the preferred p53 species that translocates to mitochondria in response to stress .</sentence>
+<sentence id="7">Nutlin does <scope type="neg" id="1"><cue type="neg" id="1">not</cue> interfere with MDM2 's ability to monoubiquitinate p53 , due to the fact that MDM2-p53 complexes are only partially disrupted and that Nutlin-stabilized MDM2 retains its E3 ubiquitin ligase activity</scope> .</sentence>
+<sentence id="8">Nutlin-induced mitochondrial p53 translocation is rapid and associated with cytochrome C release that precedes induction of p53 target genes .</sentence>
+<sentence id="9">Specific inhibition of mitochondrial p53 translocation by Pifithrin mu reduces the apoptotic Nutlin response by 2.5-fold , underlining the significance of p53 's mitochondrial program in Nutlin-induced apoptosis .</sentence>
+<sentence id="10">Surprisingly , blocking the transcriptional arm of p53 , either via alpha-Amanitin or the p53-specific transcriptional inhibitor Pifithrin alpha , not only <scope type="neg" id="2"><cue type="neg" id="2">fails</cue> to inhibit ,</scope> but greatly potentiates Nutlin-induced apoptosis .</sentence>
+<sentence id="11">In sum , the direct mitochondrial program is a major mechanism in Nutlin-induced p53-mediated apoptosis .</sentence>
+<sentence id="12">Moreover , at least in some tumors <scope type="neg" id="3">the transcriptional p53 activities in net balance <cue type="neg" id="3">not</cue> only are dispensable for the apoptotic Nutlin response</scope> , but <scope type="spec" id="4"> <cue type="spec" id="4">appear</cue> to actively block its therapeutic effect</scope> .</sentence>

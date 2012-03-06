@@ -1,0 +1,10 @@
+<sentence id="0">Clustering analysis and co-expression</sentence>
+<sentence id="1">The complex regulatory network <scope type="spec" id="0"> <cue type="spec" id="0">suggested</cue> by these studies</scope> has been partially confirmed .</sentence>
+<sentence id="2">Complete elucidation of the virulence pathways must include proteomic studies to identify steps that require translational regulation , binding studies to distinguish direct from indirect effects and additional regulators not included in this preliminary group of 14 .</sentence>
+<sentence id="3">In this study , cluster analysis was used to identify genes that show similar expression profiles under a variety of environmental conditions and from the isogenic Salmonella regulatory mutants we describe .</sentence>
+<sentence id="4">The average G+C content of the 92 genes outside of SPI-2 that show the same regulation as SPI-2 is 47 % while the average for Salmonella is 52 % ( p<e-25 ) .</sentence>
+<sentence id="5">Most of these genes are <scope type="neg" id="1"><cue type="neg" id="1">not</cue> found in closely related non-pathogenic bacteria ( overall comparison eliminating SPI-2 genes p<e-15 )</scope> .</sentence>
+<sentence id="6">Thus application of the CLR algorithm identified a very interesting group of genes that are co-regulated with SPI-2 and were horizontally transferred to Salmonella .</sentence>
+<sentence id="7">Analysis of microarrays and other expression data was used to construct a predictive model for how the regulators <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> interact and coordinate regulation within the host</scope> .</sentence>
+<sentence id="8">A few of the predictions have been verified and more are being tested .</sentence>
+<sentence id="9">The construction of a complete interaction network describing both the host and pathogen is a long-term goal of this and other related research efforts .</sentence>

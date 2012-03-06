@@ -1,0 +1,10 @@
+<sentence id="0">VIPL has sugar-binding activity specific for high-mannose-type N-glycans , and glucosylation of the alpha1,2 mannotriosyl branch blocks its binding .</sentence>
+<sentence id="1">VIP36-like protein ( VIPL ) was identified as an endoplasmic reticulum ( ER ) resident protein with homology to VIP36 , a cargo receptor involved in the transport of glycoproteins within cells .</sentence>
+<sentence id="2">Although VIPL is structurally similar to VIP36 , <scope type="spec" id="0"> VIPL is <cue type="spec" id="0">thought</cue> not to be a lectin</scope> , because its sugar-binding activity has not been detected in several experiments .</sentence>
+<sentence id="3">Here , recombinant soluble VIPL proteins ( sVIPL ) were expressed in Escherichia coli , biotinylated with biotin ligase and oligomerized with R-phycoerythrin (PE)-labeled streptavidin ( SA ) .</sentence>
+<sentence id="4">As measured with flow cytometry , PE-labeled sVIPL-SA bound to deoxymannojirimycin (DMJ)- or kifunensine (KIF)- but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> to swainsonine (SW)-treated HeLaS3 cells in the presence of calcium</scope> .</sentence>
+<sentence id="5">A surface plasmon resonance analysis showed that the avidity of sVIPL was enhanced after it formed a complex with SA .</sentence>
+<sentence id="6">The binding of PE-labeled sVIPL-SA was abrogated by endo beta-N-acetylglucosaminidase H treatment of the DMJ- or KIF-treated cells .</sentence>
+<sentence id="7">Competition with several high-mannose-type N-glycans inhibited VIPL binding , and <scope type="spec" id="2"> <cue type="spec" id="2">indicated that</cue> VIPL recognizes the Manalpha1-2Manalpha1-2Man sequence</scope> .</sentence>
+<sentence id="8">Glucosylation of the outer mannose residue of this portion decreased the binding .</sentence>
+<sentence id="9">Although the biochemical characteristics of VIPL are similar to those of VIP36 , the sugar-binding activity of VIPL was stronger at neutral pH , corresponding to the pH in the lumen of the ER , than under acidic conditions .</sentence>

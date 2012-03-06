@@ -1,0 +1,9 @@
+<sentence id="0">Additional Type II Cluster Example</sentence>
+<sentence id="1">Another cluster , spy1725-1719 , contained six genes that together ( though not individually ) exhibited significant downregulation .</sentence>
+<sentence id="2">The genes spy1724 , spy1722 , spy1721 , and spy1719 share transcriptional order and predicted function with homologs in the nusA-infB protein biosynthesis operon of Bacillus subtilis and Escherichia coli [ 51 ] .</sentence>
+<sentence id="3">We examined the spy1725 and spy1723 gene products ( annotated as hypothetical proteins [ 14 ] ) for similarities with known proteins that <scope type="spec" id="0"> <cue type="spec" id="0">might</cue> <scope type="spec" id="1"> <cue type="spec" id="1">indicate</cue> a role for these gene products in protein biosynthesis</scope></scope> .</sentence>
+<sentence id="4">BlastP analysis aligned the spy1725 gene product , which has homologs in all sequenced streptococcal genomes , with the SP14.3 protein from S. pneumoniae [ 52 ] ( 80 % sequence similarity ; 67 % identity ) .</sentence>
+<sentence id="5">Based on structural characterization , SP14.3 is a predicted RNA-binding protein .</sentence>
+<sentence id="6">The spy1723 gene product has similar domain structure to the YlxR protein of S. pneumoniae , an RNA-binding protein implicated in transcription termination [ 53 ] .</sentence>
+<sentence id="7">These results <scope type="spec" id="2"> <cue type="spec" id="2">indicate that</cue> both genes <scope type="spec" id="3"> <cue type="spec" id="3">likely</cue> encode RNA-binding proteins , in agreement with their functionally defined cluster members</scope></scope> .</sentence>
+<sentence id="8">Although domain and homology searches yielded the functional predictions , their membership within a protein biosynthetic cluster provided the initial <scope type="spec" id="4"> <cue type="spec" id="4">indication</cue> of common function or regulation</scope> .</sentence>

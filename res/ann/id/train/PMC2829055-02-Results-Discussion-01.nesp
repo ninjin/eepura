@@ -1,0 +1,19 @@
+<sentence id="0">Results/Discussion</sentence>
+<sentence id="1">Transcriptional profile of Y. pestis in the flea Little is known about the environmental conditions in the flea digestive tract , how Y. pestis adapts to them , or the physiological state of the bacteria at transmission when they exit the flea and enter the mammal .</sentence>
+<sentence id="2">Adult fleas are obligate blood feeders and take frequent blood meals , consisting primarily of protein and lipid with relatively little carbohydrate .</sentence>
+<sentence id="3">Flea proteases , lipases , and other digestive enzymes begin to process the blood meal in the midgut immediately after feeding , yielding amino acids and peptides , glycerol , fatty acids , and simple carbohydrates [ 12 ] .</sentence>
+<sentence id="4">This provides the " medium " for Y. pestis growth , but these and other factors such as pH , oxygen tension , osmolarity , and flea antibacterial immune components are poorly defined .</sentence>
+<sentence id="5">During the first week after being ingested in an infectious blood meal , Y. pestis grows rapidly in the flea midgut to form large bacterial aggregates .</sentence>
+<sentence id="6">Bacterial load peaks at about 106 cells per flea as the Y. pestis biofilm accumulates in the proventriculus to cause blockage , and then plateaus [ 2 ] , [ 3 ] .</sentence>
+<sentence id="7">In this study , we determined the Y. pestis gene expression profile in infective , blocked fleas , in which the proventriculus was occluded with a mature bacterial biofilm .</sentence>
+<sentence id="8">Y. pestis KIM6+ , which <scope type="neg" id="0"><cue type="neg" id="0">lacks</cue> the 70-kb virulence plasmid <scope type="neg" id="1">that is <cue type="neg" id="1">not</cue> required for flea infection or blockage [ 3 ] was used for this analysis</scope></scope> .</sentence>
+<sentence id="9">Blockage occurred between 1.5 and 3.5 weeks after the initial infectious blood meal , during which time the fleas fed on uninfected mice twice weekly .</sentence>
+<sentence id="10">The Y. pestis in vivo biofilm transcriptome was compared to the transcriptomes of in vitro biofilm and planktonic cultures grown at 21degreesC , the same temperature at which the fleas were maintained .</sentence>
+<sentence id="11">Expression of 55 % of Y. pestis ORFs was detected in the flea samples ; and 74 to 79 % in the in vitro biofilm , exponential phase planktonic and stationary phase planktonic cultures .</sentence>
+<sentence id="12">Principal component analysis to visualize overall clustering of the microarray data showed that the transcriptional profiles were reproducible and discrete for the in vitro and in vivo conditions ( Fig .</sentence>
+<sentence id="13">1A ) .</sentence>
+<sentence id="14">Profiles of the exponential and stationary phase planktonic cultures clustered most closely , whereas the profiles from in vitro and in vivo biofilm growth were more distinct from each other and from the planktonic culture profiles .</sentence>
+<sentence id="15">There were 214 Y. pestis genes whose expression was significantly upregulated and 56 genes downregulated in the flea compared to all in vitro growth conditions ( Fig .</sentence>
+<sentence id="16">1B ; Tables S1 and S2 ) .</sentence>
+<sentence id="17">Quantitative RT-PCR analysis of a subset of Y. pestis genes differentially expressed in the flea was confirmatory of the microarray results ( Fig .</sentence>
+<sentence id="18">S2 ) .</sentence>

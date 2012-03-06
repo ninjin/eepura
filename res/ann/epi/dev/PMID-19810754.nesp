@@ -1,0 +1,9 @@
+<sentence id="0">Structural basis for the <scope type="neg" id="0"><cue type="neg" id="0">lack</cue> of E2 interaction in the RING domain of TRAF2</scope> .</sentence>
+<sentence id="1">TRAF proteins are intracellular signal transducers for a number of immune receptor superfamilies .</sentence>
+<sentence id="2">Specifically , TRAF2 interacts with members of the TNF receptor superfamily and connects the receptors to downstream signaling proteins .</sentence>
+<sentence id="3">It has been <scope type="spec" id="1"> <cue type="spec" id="1">assumed</cue> that TRAF2 is a ubiquitin ligase like TRAF6 and mediates K63-linked polyubiquitination of RIP1 , a kinase pivotal in TNFalpha-induced NF-kappaB activation</scope> .</sentence>
+<sentence id="4">Here we report the crystal structure of the RING and the first zinc finger domains of TRAF2 .</sentence>
+<sentence id="5">We show that the TRAF2 RING structure is very different from the known TRAF6 RING structure .</sentence>
+<sentence id="6">The differences are multifaceted , including amino acid differences at the critical Ubc13-interacting site , local conformational differences , and a unique nine-residue insertion between the RING domain and the first zinc finger in TRAF2 .</sentence>
+<sentence id="7">These structural differences prevent TRAF2 from interacting with Ubc13 and other related E2s via steric clash and unfavorable interfaces .</sentence>
+<sentence id="8">Our structural observation <scope type="spec" id="2"> <cue type="spec" id="2">should</cue> prompt a re-evaluation of the role of TRAF2 in TNFalpha signaling</scope> and <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> <scope type="spec" id="4"> <cue type="spec" id="4">indicate that</cue> TRAF2-associated proteins such as cIAPs <scope type="spec" id="5"> <cue type="spec" id="5">may</cue> be the ubiquitin ligases for NF-kappaB signaling</scope></scope></scope> .</sentence>

@@ -1,0 +1,11 @@
+<sentence id="0">Pathways for phosphatidylcholine biosynthesis in bacteria .</sentence>
+<sentence id="1">Phosphatidylcholine ( PC ) is the major membrane-forming phospholipid in eukaryotes with important structural and signalling functions .</sentence>
+<sentence id="2">Although many prokaryotes lack PC , it can be found in significant amounts in membranes of rather diverse bacteria .</sentence>
+<sentence id="3">Two pathways for PC biosynthesis are known in bacteria , the methylation pathway and the phosphatidylcholine synthase ( PCS ) pathway .</sentence>
+<sentence id="4">In the methylation pathway , phosphatidylethanolamine is methylated three times to yield PC , in reactions catalysed by one or several phospholipid N-methyltransferases ( PMTs ) .</sentence>
+<sentence id="5">In the PCS pathway , choline is condensed directly with CDP-diacylglyceride to form PC in a reaction catalysed by PCS .</sentence>
+<sentence id="6">Using cell-free extracts , it was demonstrated that Sinorhizobium meliloti , Agrobacterium tumefaciens , Rhizobium leguminosarum , Bradyrhizobium japonicum , Mesorhizobium loti and Legionella pneumophila have both PMT and PCS activities .</sentence>
+<sentence id="7">In addition , Rhodobacter sphaeroides has PMT activity and Brucella melitensis , Pseudomonas aeruginosa and Borrelia burgdorferi have PCS activities .</sentence>
+<sentence id="8">Genes from M. loti and L. pneumophila encoding a Pmt or a Pcs activity and the genes from P. aeruginosa and Borrelia burgdorferi responsible for Pcs activity have been identified .</sentence>
+<sentence id="9">Based on these functional assignments and on genomic data , one <scope type="spec" id="0"> <cue type="spec" id="0">might</cue> predict that if bacteria contain PC as a membrane lipid</scope> , they usually possess both bacterial pathways for PC biosynthesis .</sentence>
+<sentence id="10">However , <scope type="spec" id="1"> important pathogens such as Brucella melitensis , P. aeruginosa and Borrelia burgdorferi <cue type="spec" id="1">seem</cue> to be exceptional as they possess only the PCS pathway for PC formation</scope> .</sentence>

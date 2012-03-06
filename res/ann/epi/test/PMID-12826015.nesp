@@ -1,0 +1,12 @@
+<sentence id="0">N-linked glycosylation of native and recombinant cauliflower xyloglucan endotransglycosylase 16A .</sentence>
+<sentence id="1">The gene encoding a XET ( xyloglucan endotransglycosylase ) from cauliflower ( Brassica oleracea var .</sentence>
+<sentence id="2">botrytis ) florets has been cloned and sequenced .</sentence>
+<sentence id="3">Sequence analysis <scope type="spec" id="0"> <cue type="spec" id="0">indicated</cue> a high degree of similarity to other XET enzymes belonging to glycosyl hydrolase family 16 ( GH16 )</scope> .</sentence>
+<sentence id="4">In addition to the conserved GH16 catalytic sequence motif EIDFE , there exists one potential N-linked glycosylation site , which is also highly conserved in XET enzymes from this family .</sentence>
+<sentence id="5">Purification of the corresponding protein from extracts of cauliflower florets allowed the fractionation of a single , pure glycoform , which was analysed by MS techniques .</sentence>
+<sentence id="6">Accurate protein mass determination following the enzymic deglycosylation of this glycoform <scope type="spec" id="1"> <cue type="spec" id="1">indicated</cue> the presence of a high-mannose-type glycan of the general structure GlcNAc2Man6</scope> .</sentence>
+<sentence id="7">LC/MS and MS/MS ( tandem MS ) analysis provided supporting evidence for this structure and confirmed that the glycosylation site ( underlined ) was situated close to the predicted catalytic residues in the conserved sequence YLSSTNNEHDEIDFEFLGNRTGQPVILQTNVFTGGK .</sentence>
+<sentence id="8">Heterologous expression in Pichia pastoris produced a range of protein glycoforms , which were , on average , more highly mannosylated than the purified native enzyme .</sentence>
+<sentence id="9">This difference in glycosylation did <scope type="neg" id="2"><cue type="neg" id="2">not</cue> influence the apparent enzymic activity of the enzyme significantly</scope> .</sentence>
+<sentence id="10"><scope type="neg" id="3"><cue type="neg" id="3">However</cue> , the removal of high-mannose glycosylation in recombinant cauliflower XET by endoglycosidase H</scope> , quantified by electrospray-ionization MS , caused a 40 % decrease in the transglycosylation activity of the enzyme .</sentence>
+<sentence id="11"><scope type="neg" id="4"><cue type="neg" id="4">No</cue> hydrolytic activity was detected in native or heterologously expressed BobXET16A</scope> , even when almost completely deglycosylated .</sentence>

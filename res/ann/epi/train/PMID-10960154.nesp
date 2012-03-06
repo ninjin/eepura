@@ -1,0 +1,10 @@
+<sentence id="0">Glycosylation influences gating and pH sensitivity of I(sK) .</sentence>
+<sentence id="1">The KvLQT1 and minK subunits that coassemble to form I(sK) channels , contain <scope type="spec" id="0"> <cue type="spec" id="0">potential</cue> N-glycosylation sites</scope> .</sentence>
+<sentence id="2">To examine the role of glycosylation in channel function , a Chinese hamster ovary cell line deficient in glycosylation ( Lec-1 ) and its parental cell line ( Pro-5 ) were transiently transfected with human KvLQT1 ( hKvLQT1 ) cDNA , alone and in combination with the rat ( rminK ) or human minK ( hminK ) cDNA .</sentence>
+<sentence id="3">Functional KvLQT1 and I(sK) currents were expressed in both cell lines , although amplitudes were larger in Pro-5 than Lec-1 cells transfected with hKvLQT1 and hKvLQT1/hminK .</sentence>
+<sentence id="4">For I(sK) , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> KvLQT1</scope> , the voltage-dependence of activation was shifted to more positive voltages and the activation kinetics were slower in the Lec-1 compared to the Pro-5 cells .</sentence>
+<sentence id="5">The effect of extracellular acidification on recombinant KvLQT1 and I(sK) currents was investigated in Pro-5 and Lec-1 cells .</sentence>
+<sentence id="6">Changing external pH ( pH(o) ) from 7.4 to 6.0 significantly decreased the amplitude and increased the half-activation voltage ( V(1/2) ) of KvLQT1 currents in Pro-5 and Lec-1 cells .</sentence>
+<sentence id="7">In Pro-5 cells , decreasing pH(o) reduced I(sK) amplitude <scope type="neg" id="2"><cue type="neg" id="2">without</cue> increasing V(1/2)</scope> , <scope type="spec" id="3"> <cue type="spec" id="3">whether</cue> rminK or hminK was coexpressed with hKvLQT</scope> .</sentence>
+<sentence id="8">In contrast , changing pH(o) from 7.4 to 6.0 did not significantly change I(sK) amplitude in Lec-1 cells .</sentence>
+<sentence id="9">Thus , oligosaccharides attached to the minK subunit affect <scope type="neg" id="4"><cue type="neg" id="4">not</cue> only the gating properties</scope> , but also the pH sensitivity of I(sK) .</sentence>

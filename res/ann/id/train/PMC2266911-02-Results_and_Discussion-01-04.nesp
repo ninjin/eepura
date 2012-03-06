@@ -1,0 +1,20 @@
+<sentence id="0">Regulation via c-di-GMP as a second messenger</sentence>
+<sentence id="1">Cyclic diguanylate ( c-di-GMP ) is a bacterial second messenger that activates biofilm formation while inhibiting motility , thus regulating the switch between a planktonic and a sessile lifestyle .</sentence>
+<sentence id="2">In addition to phenotypes that affect virulence properties indirectly , c-di-GMP can also directly regulate virulence factors [ 56,57 ] .</sentence>
+<sentence id="3">Proteins containing a so-called GGDEF domain are responsible for the synthesis of c-di-GMP , and those with a so-called EAL domain for its degradation .</sentence>
+<sentence id="4">The expression and activity of those GGDEF and EAL domain containing proteins is regulated by factors with a PilZ domain that binds c-di-GMP .</sentence>
+<sentence id="5">The PilZ domain is found as a stand-alone domain or in combination with GGDEF , EAL and other domains , thus assumed to function also as an allosteric domain to control other regulatory enzymes [ 58,59 ] .</sentence>
+<sentence id="6">In Y. enterocolitica , we identified 22 putative proteins containing GGDEF and EAL domains .</sentence>
+<sentence id="7">Eleven of these proteins solely contain a GGDEF-domain and six solely an EAL-domain , and both domains are found in tandem in five proteins .</sentence>
+<sentence id="8">The protein AdrA ( YE3010 , GGDEF domain ) is annotated as a <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> diguanylate cyclase , YE2278 ( GGDEF+EAL</scope> ) as a <scope type="spec" id="1"> <cue type="spec" id="1">putative</cue> phosphodiesterase</scope> , YE3818 ( GGDEF ) as a <scope type="spec" id="2"> <cue type="spec" id="2">putative</cue> regulator</scope> , and YE3806 ( GGDEF+EAL ) as a putative exported protein .</sentence>
+<sentence id="9">All other GGDEF and EAL domain-containing proteins are of <scope type="spec" id="3"> <cue type="spec" id="3">unknown</cue> function</scope> .</sentence>
+<sentence id="10">Furthermore , two proteins with PilZ domain exist in Y. enterocolitica , namely YE3197 and BcsA ( YE4074 ) , a <scope type="spec" id="4"> <cue type="spec" id="4">putative</cue> cellulose synthase</scope> .</sentence>
+<sentence id="11">Cellulose synthesis in bacteria has been identified to be important for the protection from chemical or mechanical stress by forming a hydrophobic extracellular matrix [ 60 ] .</sentence>
+<sentence id="12">The expression of two of those EAL-domain containing proteins , YE4063 and YE1324 , is induced at low temperature ( Tab .</sentence>
+<sentence id="13">1 ) .</sentence>
+<sentence id="14">These two factors <scope type="spec" id="5"> <cue type="spec" id="5">might</cue> therefore be important for insect colonization instead for virulence against mammals</scope> .</sentence>
+<sentence id="15"><scope type="spec" id="6"> The presence of c-di-GMP mediated regulation in Y. enterocolitica is therefore <cue type="spec" id="6">suggested</cue> to play a central role in switching from biofilm formation to the human as well as to the insect environment</scope> .</sentence>
+<sentence id="16">P. luminescens contains <scope type="neg" id="7"><cue type="neg" id="7">no</cue> protein with GGDEF , EAL or PilZ domain</scope> .</sentence>
+<sentence id="17">This phenomenon is quite surprising , because with few exceptions such as Helicobacter pylori , nearly all pathogenic bacteria use c-di-GMP as a second messenger .</sentence>
+<sentence id="18">It has been reported that P. luminescens forms biofilms in vitro , and that a luxS-deficient mutant <scope type="neg" id="8"><cue type="neg" id="8">unable</cue> to synthesize the quorum-sensing inducer AI-2</scope> showed a decreased biofilm formation [ 42 ] .</sentence>
+<sentence id="19">The lack of these protein domains in P. luminescens reveals that c-di-GMP signalling plays a major role in pathogenic bacteria when colonizing a mammalian host , and a minor for invertebrate colonization of entomopathogenic or entomoinfecting bacteria .</sentence>

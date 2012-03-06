@@ -1,0 +1,12 @@
+<sentence id="0">Inefficient quality control of thermosensitive proteins on the plasma membrane .</sentence>
+<sentence id="1">BACKGROUND : Misfolded proteins are generally recognised by cellular quality control machinery , which typically results in their ubiquitination and degradation .</sentence>
+<sentence id="2">For soluble cytoplasmic proteins , degradation is mediated by the proteasome .</sentence>
+<sentence id="3">Membrane proteins that <scope type="neg" id="0"><cue type="neg" id="0">fail</cue> to fold correctly are subject to ER associated degradation ( ERAD ) , which involves their extraction from the membrane and subsequent proteasome-dependent destruction</scope> .</sentence>
+<sentence id="4">Proteins with abnormal transmembrane domains can also be recognised in the Golgi or endosomal system and targeted for destruction in the vacuole/lysosome .</sentence>
+<sentence id="5">It is much less clear what happens to membrane proteins that reach their destination , such as the cell surface , and then suffer damage .</sentence>
+<sentence id="6">METHODOLOGY/PRINCIPAL FINDINGS : We have tested the ability of yeast cells to degrade membrane proteins to which temperature-sensitive cytoplasmic alleles of the Ura3 protein or of phage lambda repressor have been fused .</sentence>
+<sentence id="7">In soluble form , these proteins are rapidly degraded upon temperature shift , in part due to the action of the Doa10 and San1 ubiquitin ligases and the proteasome .</sentence>
+<sentence id="8">When tethered to the ER protein Use1 , they are also degraded .</sentence>
+<sentence id="9">However , when tethered to a plasma membrane protein such as Sso1 they escape degradation , either in the vacuole or by the proteasome .</sentence>
+<sentence id="10">CONCLUSIONS/SIGNIFICANCE : Membrane proteins with a misfolded cytoplasmic domain appear <scope type="neg" id="1"><cue type="neg" id="1">not</cue> to be efficiently recognised and degraded once they have escaped the ER</scope> , even though their defective domains are exposed to the cytoplasm and <scope type="spec" id="2"> <cue type="spec" id="2">potentially</cue> to cytoplasmic quality controls</scope> .</sentence>
+<sentence id="11">Membrane tethering <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> provide a way to reduce degradation of unstable proteins</scope> .</sentence>

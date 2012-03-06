@@ -1,0 +1,10 @@
+<sentence id="0">PRMT3 inhibits ubiquitination of ribosomal protein S2 and together forms an active enzyme complex .</sentence>
+<sentence id="1">Protein arginine methyltransferase 3 ( PRMT3 ) comprises a region not required for catalytic activity in its amino-terminus and the core domain catalyzing protein arginine methylation .</sentence>
+<sentence id="2">PRMT3 has been shown to interact with the 40S ribosomal protein S2 ( rpS2 ) and methylate arginine residues in the arginine-glycine ( RG ) repeat region in the amino-terminus of rpS2 .</sentence>
+<sentence id="3">We investigated the biological implications of this interaction by delineating the domains that mediate binding between PRMT3 and rpS2 .</sentence>
+<sentence id="4">The rpS2 ( 100-293 amino acids ) domain , but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> the amino-terminus of rpS2 that includes the RG repeat region was essential for binding to PRMT3</scope> and was susceptible to degradation .</sentence>
+<sentence id="5">The amino-terminus of PRMT3 , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> its catalytic core was required for binding to and the stability of rpS2</scope> .</sentence>
+<sentence id="6">Overexpressed rpS2 was ubiquitinated in cells , but expression of PRMT3 reduced this ubiquitination and stabilized the rpS2 protein .</sentence>
+<sentence id="7">Recombinant PRMT3 formed an active enzyme complex with endogenous rpS2 in vitro .</sentence>
+<sentence id="8">Recombinant rpS2 in molar excess modestly increased the enzymatic activity of PRMT3 in vitro .</sentence>
+<sentence id="9">Our results <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> that in addition to its catalytic function , PRMT3 <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> control the level of rpS2 protein in cells by inhibiting ubiquitin-mediated proteolysis of rpS2 , while rpS2 <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> regulate the enzymatic activity of PRMT3 as a <scope type="spec" id="5"> <cue type="spec" id="5">likely</cue> non-catalytic subunit</scope></scope></scope></scope> .</sentence>

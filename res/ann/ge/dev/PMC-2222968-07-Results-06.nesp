@@ -1,0 +1,18 @@
+<sentence id="0">GATA3 Represses the FOXP3 Promoter</sentence>
+<sentence id="1">To investigate the molecular mechanism of GATA3-mediated repression of human FOXP3 , the human FOXP3 promoter was studied and a palindromic binding site for GATA3 was discovered .</sentence>
+<sentence id="2">The GATA-binding site is located 303 bp upstream from the transcription start site ( TSS ) [ 24 ] .</sentence>
+<sentence id="3">This site is highly conserved between humans , mice , and rats ( Figure S4 ) and <scope type="spec" id="0"> <cue type="spec" id="0">may</cue> therefore play an important role in FOXP3 regulation</scope> .</sentence>
+<sentence id="4">The functional relevance of this site was studied using a FOXP3-promoter construct [ 24 ] .</sentence>
+<sentence id="5">We transfected human primary CD4+ T cells , in vitro differentiated Th2 cells , and Jurkat cells ( Jurkat cells are known to constitutively express GATA3 [ 25,26 ] ) , and we measured FOXP3 promoter activity .</sentence>
+<sentence id="6">The promoter was <scope type="neg" id="1"><cue type="neg" id="1">not</cue> active in the GATA3-expressing cell line Jurkat or in the in vitro-differentiated Th2 cells</scope> , whereas the construct was active in the CD4 cells , which express a lower amount of GATA3 ( Figure 8A ) .</sentence>
+<sentence id="7">Overexpression of GATA3 in naive T cells diminished luciferase activity of the FOXP3 promoter compared with the control vector ( Figure 8B ) .</sentence>
+<sentence id="8">To further address the function of the GATA3 site , we inserted a site-specific mutation deleting the GATA3-binding site .</sentence>
+<sentence id="9">This mutation increased luciferase activity by 3-fold in memory CD4+CD45RO+ T cells , whereas <scope type="neg" id="2"><cue type="neg" id="2">no</cue> difference was observed in naive ( GATA3==- = = ) CD4+CD45RA+ T cells</scope> , revealing a repressor activity of GATA3 on the FOXP3 promoter ( Figure 8C ) .</sentence>
+<sentence id="10">Furthermore GATA3 binds directly to the FOXP3 promoter as investigated by pull-down assay .</sentence>
+<sentence id="11">HEK cells were transiently transfected with GATA3 or a control vector , and increasing amounts of lysates were incubated with oligonucleotides containing the GATA3 site of the FOXP3 promoter or a control oligonucleotide with a mutated GATA3-binding site .</sentence>
+<sentence id="12">After the pull-down , GATA3 binding was detected by Western blot .</sentence>
+<sentence id="13">Similarly , GATA3-expressing Th2 cells and iTreg cells were subjected to this approach .</sentence>
+<sentence id="14">Only HEK cells overexpressing GATA3 and Th2 cells showed GATA3-binding activity ( Figure 8D and 8E ) .</sentence>
+<sentence id="15">These experiments demonstrated that GATA3 binds the palindromic FOXP3 promoter .</sentence>
+<sentence id="16">To gain insights into the in vivo situation , we performed a chromatin immunoprecipitation ( ChIP ) using an anti-GATA3 antibody and showed that GATA3 binds to the FOXP3 promoter region in Th2 cells , but <scope type="neg" id="3"><cue type="neg" id="3">not</cue> in iTreg cells ( Figure 7F )</scope> .</sentence>
+<sentence id="17">Taken together these data demonstrate that the GATA3-binding to the FOXP3 promoter is repressing FOXP3 expression .</sentence>

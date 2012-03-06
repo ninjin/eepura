@@ -1,0 +1,11 @@
+<sentence id="0">Trimethylation of histone H3 lysine 4 by Set1 in the lytic infection of human herpes simplex virus 1 .</sentence>
+<sentence id="1">Human herpes simplex virus 1 ( HSV-1 ) is a double-stranded DNA virus that causes facial , ocular , and encephalitic disease in humans .</sentence>
+<sentence id="2">Previous work showed that the genome of HSV-1 is associated with acetylated and methylated histones during lytic infection .</sentence>
+<sentence id="3">However , the physiological role of histone modifications in lytic infection of HSV-1 is unclear .</sentence>
+<sentence id="4">We examined the role of protein methylation in lytic infection of HSV-1 using a protein methylation inhibitor , 5'-deoxy-5'-methylthioadenosine ( MTA ) .</sentence>
+<sentence id="5">We found that MTA strongly reduces the transcription and replication of HSV-1 .</sentence>
+<sentence id="6">Moreover , MTA treatment decreases the level of trimethylation of lysine 4 in histone H3 ( H3K4me3 ) on the HSV-1 genome .</sentence>
+<sentence id="7">These results <scope type="spec" id="0"> <cue type="spec" id="0">suggest</cue> that protein methylation , and in particular , histone methylation , is involved in the lytic infection of HSV-1</scope> .</sentence>
+<sentence id="8">To delineate the underlying mechanism , we investigated the role of two H3K4 methyltransferases , Set1 and Set7/9 , in the lytic infection of HSV-1 .</sentence>
+<sentence id="9">Using small interference RNA , we found that the reduction of Set1 , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> Set7/9</scope> , reduces the transcription and replication of HSV-1 and specifically decreases H3K4me3 on the virus genome .</sentence>
+<sentence id="10">These results <scope type="spec" id="2"> <cue type="spec" id="2">indicate that</cue> H3K4me3 mediated by Set1 is required for optimal gene expression and replication of HSV-1 during lytic infection</scope> and <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> that this pathway <scope type="spec" id="4"> <cue type="spec" id="4">could</cue> be a potential point of pharmacological intervention during HSV-1 infection</scope></scope> .</sentence>

@@ -1,0 +1,11 @@
+<sentence id="0">Inheritance of an epigenetic mark : the CpG DNA methyltransferase 1 is required for de novo establishment of a complex pattern of non-CpG methylation .</sentence>
+<sentence id="1">Site-specific methylation of cytosines is a key epigenetic mark of vertebrate DNA .</sentence>
+<sentence id="2">While a majority of the methylated residues are in the symmetrical (meC)pG:Gp(meC ) configuration , a smaller , but significant fraction is found in the CpA , CpT and CpC asymmetric ( non-CpG ) dinucleotides .</sentence>
+<sentence id="3">CpG methylation is reproducibly maintained by the activity of the DNA methyltransferase 1 ( Dnmt1 ) on the newly replicated hemimethylated substrates (meC)pG:GpC .</sentence>
+<sentence id="4">On the other hand , establishment and <scope type="neg" id="0">hereditary maintenance of non-CpG methylation patterns have <cue type="neg" id="0">not</cue> been analyzed in detail</scope> .</sentence>
+<sentence id="5">We previously reported the occurrence of site- and allele-specific methylation at both CpG and non-CpG sites .</sentence>
+<sentence id="6">Here we characterize a hereditary complex of non-CpG methylation , with the transgenerational maintenance of three distinct profiles in a constant ratio , associated with extensive CpG methylation .</sentence>
+<sentence id="7">These observations raised the question of the signal leading to the maintenance of the pattern of asymmetric methylation .</sentence>
+<sentence id="8">The complete non-CpG pattern was reinstated at each generation in spite of the fact that the majority of the sperm genomes contained either none or only one methylated non-CpG site .</sentence>
+<sentence id="9">This observation led us to the hypothesis that the stable CpG patterns <scope type="spec" id="1"> <cue type="spec" id="1">might</cue> act as blueprints for the maintenance of non-CpG DNA methylation</scope> .</sentence>
+<sentence id="10">As predicted , non-CpG DNA methylation profiles were abrogated in a mutant lacking Dnmt1 , the enzymes responsible for CpG methylation , but <scope type="neg" id="2"><cue type="neg" id="2">not</cue> in mutants defective for either Dnmt3a or Dnmt2</scope> .</sentence>

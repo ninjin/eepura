@@ -1,0 +1,9 @@
+<sentence id="0">A role for the DnaJ homologue Scj1p in protein folding in the yeast endoplasmic reticulum .</sentence>
+<sentence id="1">Members of the eukaryotic heat shock protein 70 family ( Hsp70s ) are regulated by protein cofactors that contain domains homologous to bacterial DnaJ .</sentence>
+<sentence id="2">Of the three DnaJ homologues in the yeast rough endoplasmic reticulum ( RER ; Scj1p , Sec63p , and Jem1p ) , Scj1p is most closely related to DnaJ , hence it is a <scope type="spec" id="0"> <cue type="spec" id="0">probable</cue> cofactor for Kar2p</scope> , the major Hsp70 in the yeast RER .</sentence>
+<sentence id="3">However , the physiological role of Scj1p has remained obscure due to the <scope type="neg" id="1"><cue type="neg" id="1">lack</cue> of an obvious defect in Kar2p-mediated pathways in scj1 null mutants</scope> .</sentence>
+<sentence id="4">Here , we show that the Deltascj1 mutant is hypersensitive to tunicamycin or mutations that reduce N-linked glycosylation of proteins .</sentence>
+<sentence id="5">Although maturation of glycosylated carboxypeptidase Y occurs with wild-type kinetics in Deltascj1 cells , the transport rate for an unglycosylated mutant carboxypeptidase Y ( CPY ) is markedly reduced .</sentence>
+<sentence id="6">Loss of Scj1p induces the unfolded protein response pathway , and results in a cell wall defect when combined with an oligosaccharyltransferase mutation .</sentence>
+<sentence id="7">The combined loss of both Scj1p and Jem1p exaggerates the sensitivity to hypoglycosylation stress , leads to further induction of the unfolded protein response pathway , and drastically delays maturation of an unglycosylated reporter protein in the RER .</sentence>
+<sentence id="8">We <scope type="spec" id="2"> <cue type="spec" id="2">propose</cue> that the major role for Scj1p is to cooperate with Kar2p to mediate maturation of proteins in the RER lumen</scope> .</sentence>

@@ -1,0 +1,36 @@
+<sentence id="0">Introduction</sentence>
+<sentence id="1">The ubiquitous Gram-negative bacterium Pseudomonas aeruginosa is an opportunistic pathogen able to infect a broad range of animals and plants hosts including humans .</sentence>
+<sentence id="2">In the course of infection , P. aeruginosa adapts to changing environmental conditions and coordinates the production of molecular determinants involved in host colonization and virulence [ 1 ] .</sentence>
+<sentence id="3">Among these are pili and flagella , which are required for attachment and spreading on surfaces [ 2 ] , [ 3 ] .</sentence>
+<sentence id="4">Also necessary are protein secretion systems [ 4 ] and toxins required for cytotoxicity and survival within the host .</sentence>
+<sentence id="5">One powerful approach to dissect the interaction between pathogen and host is the use of simple infection models .</sentence>
+<sentence id="6">It has been demonstrated that the nematode Caenorhabditis elegans can be an effective model for studying virulence mechanisms used by a variety of bacterial pathogens [ 5 ] , [ 6 ] .</sentence>
+<sentence id="7">P. aeruginosa is capable of killing C .</sentence>
+<sentence id="8">elegans in several distinct ways .</sentence>
+<sentence id="9">When the P. aeruginosa strain PA14 is cultured on a high-osmolarity peptone-glucose-sorbitol medium ( PGS ) , worms succumb to intoxication termed " fast killing " , as the exposed worms die within hours [ 7 ] .</sentence>
+<sentence id="10">Nematodes exposed to PA14 grown on nematode growth media ( NGM ) , succumb to " slow killing " .</sentence>
+<sentence id="11">In this case the bacteria colonize the gut and the infected worms die over a number of days rather than hours [ 8 ] .</sentence>
+<sentence id="12">The P. aeruginosa isolate PAO1 cultured on Brain Heart Infusion ( BHI ) agar induces worm paralysis and death within hours [ 9 ] .</sentence>
+<sentence id="13">Finally , C. elegans death , called red death , is observed in response to PAO1 grown on phosphate-depleted medium in conjunction with physiological stress on the nematodes [ 10 ] .</sentence>
+<sentence id="14">It is known that the P. aeruginosa isolates PA14 and PAO1 show genomic diversity .</sentence>
+<sentence id="15">Strains cultured in vitro for years are known to undergo changes in gene expression .</sentence>
+<sentence id="16">Individual genes and even entire genomic islands have been lost from laboratory isolates when compared to pathogenic strains [ 11 ] , [ 12 ] , [ 13 ] .</sentence>
+<sentence id="17">In this study , we used the P. aeruginosa strain TBCF10839 ( TB ) , which was isolated from a Cystic Fibrosis ( CF ) patient [ 14 ] .</sentence>
+<sentence id="18">The TB strain belongs to an abundant clonal complex in the P. aeruginosa population [ 15 ] .</sentence>
+<sentence id="19">It has a high resistance to detergents [ 16 ] and reactive oxygen intermediates [ 17 ] and is able to grow within polymorphonuclear leukocytes [ 18 ] .</sentence>
+<sentence id="20">We developed a high-throughput killing assay using C. elegans as a host , which will be appropriate for a systematic screen of mutant libraries of any P. aeruginosa isolate of interest .</sentence>
+<sentence id="21">Increasing throughput in an assay such that an entire genome can readily be scanned in a short time period is an important <scope type="spec" id="0"> <cue type="spec" id="0">advance</cue></scope> .</sentence>
+<sentence id="22">Our protocol is based on a standard killing assay and makes use of a Biosorter to distribute nematodes into the wells of microtitre plates in a fully automated manner .</sentence>
+<sentence id="23">We screened a TB STM ( signature tagged mutagenesis ) mutant library of 2,200 non-redundant clones [ 19 ] , [ 20 ] and selected a small group of mutants , significantly attenuated for virulence in C. elegans .</sentence>
+<sentence id="24">By testing these mutants in additional phenotypic assays , including adherence to epithelial cells and virulence in a mouse model , we identified a gene , cheB2 , necessary for in vivo P. aeruginosa virulence .</sentence>
+<sentence id="25">The cheB2 gene belongs to the P. aeruginosa chemotaxis che2 gene cluster ( cluster II , PA0180-PA0173 ) ( Figure 1 ) [ 21 ] .</sentence>
+<sentence id="26">P. aeruginosa has multiple copies of chemotaxis genes arranged in five clusters ( Figure 1 ) [ 22 ] .</sentence>
+<sentence id="27">The chemotaxis gene cluster I ( PA1456-PA1464 ) and cluster V ( PA3349-PA3348 ) have previously been shown to be essential for chemotaxis and flagellar mobility in P. aeruginosa [ 23 ] , [ 24 ] .</sentence>
+<sentence id="28">The wsp genes contained in cluster III ( PA3708-PA3702 ) have been proposed to contribute to bacterial biofilm formation [ 25 ] , whereas the cluster IV ( Pil-Chp system , PA0408-PA0417 ) has been shown to be involved in twitching motility [ 26 ] , [ 27 ] .</sentence>
+<sentence id="29">The che2 genes from cluster II , and more particularly the cheB2 gene , were initially identified as required for an optimal chemotactic response in P. aeruginosa .</sentence>
+<sentence id="30">The CheB proteins are essential components of the chemotactic response and are responsible for demethylation of glutamate residues in methyl-accepting chemotaxis proteins ( MCPs ) and also deamidation of glutamine residues to form methyl-accepting glutamates [ 28 ] .</sentence>
+<sentence id="31">MCPs sense the chemical stimuli that initiate the chemotactic activity [ 29 ] .</sentence>
+<sentence id="32">In Escherichia coli , the loss of CheB leads decreased receptor sensitivity , due to an inability to reset the MCP 's [ 30 ] .</sentence>
+<sentence id="33">This modification leaves the chemotactic pathway in active states causing clockwise rotation of the flagella and continuous tumbling instead of runs and tumbles .</sentence>
+<sentence id="34">It has been reported previously in Salmonella typhimurium that a loss of proper chemotaxis control through a cheB mutation , leads to a ' tumbly ' swimming phenotype and a strong reduction in the isolates ability to invade human epithelial HEP2 cells as well as a reduction in infectivity in a mouse ligated-loop model [ 31 ] .</sentence>
+<sentence id="35">In our study we further compare the phenotypes of cheB2 and cheB1 mutants and <scope type="spec" id="1"> <cue type="spec" id="1">propose</cue> that the cheB2 gene has a specific role during infection , which is essential for pathogenesis</scope> .</sentence>

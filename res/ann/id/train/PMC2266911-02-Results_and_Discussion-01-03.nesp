@@ -1,0 +1,31 @@
+<sentence id="0">Universal stress proteins</sentence>
+<sentence id="1">Universal stress proteins ( Usp ) are small soluble proteins found in bacteria , archaea and plants .</sentence>
+<sentence id="2">The production of these proteins is induced upon global stress conditions such as nutrient starvation , heat stress , osmotic stress , oxidative stress , or the presence of toxic compounds .</sentence>
+<sentence id="3">The protein family is divided into the UspA subfamily and the UspFG subfamily .</sentence>
+<sentence id="4"><scope type="spec" id="0"> The functional mechanism of these Usp proteins is <cue type="spec" id="0">not</cue> known [ 48 ]</scope> .</sentence>
+<sentence id="5">Because P. luminescens and Y. enterocolitica are exposed to those stresses upon infecting and colonizing the insect host , we compared their set of Usp proteins ( Table 2 ) .</sentence>
+<sentence id="6">Both genomes share an UspA-like ( Plu0121 and YE4050 ) and an UspE-like ( Plu2178 and YE2076 ) homologue .</sentence>
+<sentence id="7">In E. coli , the sequence motif of Usp proteins is <scope type="neg" id="1"><cue type="neg" id="1">not</cue> highly conserved</scope> : UspA and UspC show a sequence identity of 37 % and a homology of 57 % , for example .</sentence>
+<sentence id="8">In contrast , the UspA and the UspE homologues of P. luminescens and Y. enterocolitica are nearly similar , <scope type="spec" id="2"> <cue type="spec" id="2">indicating that</cue> an identical stress response is regulated by these proteins</scope> .</sentence>
+<sentence id="9">Homologues of these proteins are also present in P. aeruginosa , namely PA4352 and PA3309 , a tandem-type Usp protein and a UspA-like protein , respectively .</sentence>
+<sentence id="10">They are essential for survival under anaerobic growth and therefore biofilm formation , a situation cells are exposed to when colonizing the cystic fibrosis lung in hosts [ 49,50 ] .</sentence>
+<sentence id="11">The Usp homologues of P. luminescens and Y. enterocolitica <scope type="spec" id="3"> <cue type="spec" id="3">might</cue> also be important during infection of the insect host</scope> .</sentence>
+<sentence id="12">In P. luminescens , expression of UspA has been shown to be under control of the AstS/AstR TCS , which is important for the correct timing of phase variant switching [ 28 ] .</sentence>
+<sentence id="13">It is discussed that the AstS/AstR-system prevents or delays phenotypic variation by protecting the cell from stress [ 18 ] .</sentence>
+<sentence id="14">Because Y. enterocolitica produces the corresponding TCS BvgS/BvgR , but is <scope type="spec" id="4"> <cue type="spec" id="4">not</cue> known to switch to another phenotypic variant</scope> , the <scope type="spec" id="5"> <cue type="spec" id="5">possible</cue> role of UspA in global regulation</scope> still remains to be elucidated .</sentence>
+<sentence id="15">Phenotypic variation and thus the switch between mutualism and pathogenicity in P. luminescens is <scope type="spec" id="6"> <cue type="spec" id="6">proposed</cue> to be regulated by a Ner-like and a HexA-like regulator that repress primary variant specific genes in the stage of the secondary variant [ 17 ]</scope> .</sentence>
+<sentence id="16">Therefore , UspA <scope type="spec" id="7"> <cue type="spec" id="7">might</cue> have a global importance in P. luminescens notifying stress and transmitting signals for HexA [ 18 ]</scope> .</sentence>
+<sentence id="17">In Y. enterocolitica , the transcriptional repressor RovM ( YE1343 ) is similar to HexA of P. luminescens ( 61 % identity and 75 % homology ) , and has only recently been shown to control cell invasion , virulence and motility in Y. pseudotuberculosis , Y. pestis and Y. enterocolitica [ 51-53 ] .</sentence>
+<sentence id="18">This fact <scope type="spec" id="8"> <cue type="spec" id="8">suggests</cue> a similar UspA-dependent regulatory mechanism used by the two bacteria compared here</scope> .</sentence>
+<sentence id="19">P. luminescens , but not Y. enterocolitica , produces two members of the UspFG family , the UspG homologues Plu2030 and Plu2032 ( Tab .</sentence>
+<sentence id="20">2 ) , <scope type="spec" id="9"> <cue type="spec" id="9">indicating</cue> a global stress response induced by those Usp proteins that is different in both organisms</scope> .</sentence>
+<sentence id="21">It is known that UspG of E. coli interacts with the chaperonin GroEL [ 54 ] , which promotes the correct folding of many cytosolic proteins [ 55 ] .</sentence>
+<sentence id="22">A GroEL homologue is present in P. luminescens ( Plu4134 ) which the P. luminescens UspG homologues <scope type="spec" id="10"> <cue type="spec" id="10">might</cue> interact with</scope> .</sentence>
+<sentence id="23">In contrast to P. luminescens , Y. enterocolitica encodes another member of the UspA subfamily , the UspC homologue YE2583 ( Tab .</sentence>
+<sentence id="24">2 ) , which is <scope type="neg" id="11"><cue type="neg" id="11">not</cue> present in P. luminescens</scope> .</sentence>
+<sentence id="25">Therefore , <scope type="neg" id="12">an UspC mediated stress response is <cue type="neg" id="12">not</cue> assumed to play a major role in insect pathogenicity</scope> .</sentence>
+<sentence id="26">Summarizing , the set of the shared and different Usp proteins reveals a partially similar and a partially different (fine)-regulation of the global stress response modules in P. luminescens and Y. enterocolitica .</sentence>
+<sentence id="27">This pattern corresponds to the overlapping life cycles of both pathogens ( Fig .</sentence>
+<sentence id="28">1 ) .</sentence>
+<sentence id="29">The UspA and the UspE homologues are <scope type="spec" id="13"> <cue type="spec" id="13">predicted</cue> here to be relevant for insect infection</scope> , whereas UspC is assumed be more important for Y. enterocolitica in other environments/hosts .</sentence>
+<sentence id="30">The two UspG homologues <scope type="spec" id="14"> <cue type="spec" id="14">might</cue> constitute a set of Usp proteins that play a specific role in P. luminescens infection or in symbiosis with the nematode host</scope> .</sentence>

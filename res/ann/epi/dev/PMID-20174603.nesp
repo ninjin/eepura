@@ -1,0 +1,13 @@
+<sentence id="0">Predicted functions of MdmX in fine-tuning the response of p53 to DNA damage .</sentence>
+<sentence id="1">Tumor suppressor protein p53 is regulated by two structurally homologous proteins , Mdm2 and MdmX .</sentence>
+<sentence id="2">In contrast to Mdm2 , MdmX <scope type="neg" id="0"><cue type="neg" id="0">lacks</cue> ubiquitin ligase activity</scope> .</sentence>
+<sentence id="3">Although the essential interactions of MdmX are known , it is <scope type="spec" id="1"> <cue type="spec" id="1">not clear</cue> how they function to regulate p53</scope> .</sentence>
+<sentence id="4">The regulation of tumor suppressor p53 by Mdm2 and MdmX in response to DNA damage was investigated by mathematical modeling of a simplified network .</sentence>
+<sentence id="5">The simplified network model was derived from a detailed molecular interaction map ( MIM ) that exhibited four coherent DNA damage response pathways .</sentence>
+<sentence id="6">The results <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> that MdmX <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> amplify or stabilize DNA damage-induced p53 responses via non-enzymatic interactions</scope></scope> .</sentence>
+<sentence id="7">Transient effects of MdmX are mediated by reservoirs of p53ratioMdmX and Mdm2ratioMdmX heterodimers , with MdmX buffering the concentrations of p53 and/or Mdm2 .</sentence>
+<sentence id="8">A survey of kinetic parameter space disclosed regions of switch-like behavior stemming from such reservoir-based transients .</sentence>
+<sentence id="9">During an early response to DNA damage , MdmX positively or negatively regulated p53 activity , depending on the level of Mdm2 ; this led to amplification of p53 activity and switch-like response .</sentence>
+<sentence id="10">During a late response to DNA damage , MdmX <scope type="spec" id="4"> <cue type="spec" id="4">could</cue> dampen oscillations of p53 activity</scope> .</sentence>
+<sentence id="11">A <scope type="spec" id="5"> <cue type="spec" id="5">possible</cue> role of MdmX</scope> <scope type="spec" id="6"> <cue type="spec" id="6">may</cue> be to dampen such oscillations that otherwise <scope type="spec" id="7"> <cue type="spec" id="7">could</cue> produce erratic cell behavior</scope></scope> .</sentence>
+<sentence id="12">Our study <scope type="spec" id="8"> <cue type="spec" id="8">suggests</cue> how MdmX <scope type="spec" id="9"> <cue type="spec" id="9">may</cue> participate in the response of p53 to DNA damage either by increasing dependency of p53 on Mdm2 or by dampening oscillations of p53 activity</scope> and presents a model for experimental investigation</scope> .</sentence>

@@ -1,0 +1,35 @@
+<sentence id="0">Identification of regulatory proteins involved in sensing environmental signals associated with planktonic and biofilm growth</sentence>
+<sentence id="1">The quantitative mass spectrometric approach by LC-MS/MS allowed for the simultaneous determination of peptide amino acid sequences by collision-induced dissociation ( CID ) in the MS/MS mode .</sentence>
+<sentence id="2">Examples of two CID spectra are shown in Suppl .</sentence>
+<sentence id="3">Fig .</sentence>
+<sentence id="4">S2 .</sentence>
+<sentence id="5">Proteins that were confirmed to be phosphorylated by immunoblot analysis were identified using a mass spectrometric approach as well .</sentence>
+<sentence id="6">We thus identified 48 proteins that were differentially phosphorylated at one or more biofilm developmental stage including elongation factors , ribosomal proteins , several enzymes including reductases and GMP synthase , sigma factor RpoD ( Suppl .</sentence>
+<sentence id="7">Table S1 ) and 11 regulatory proteins ( Table 1 ) .</sentence>
+<sentence id="8">The majority of regulatory proteins found to be uniquely phosphorylated during planktonic growth were transcriptional regulators , while <scope type="neg" id="0"><cue type="neg" id="0">with the</cue> exception of PA2096</scope> , all regulatory proteins found to be phosphorylated during surface attached growth were identified as belonging to two-component systems ( TCS ) ( Table 1 ) .</sentence>
+<sentence id="9">Of those , the sensor/response regulator hybrid GacS and PA4197 ( BfiS ) were found to be phosphorylated as soon as 8 hr following attachment , and PA2096 and PA4101 ( BfmR ) following 24 hr of surface-associated growth ( Table 1 ) .</sentence>
+<sentence id="10">Interestingly , PA4102 ( BfmS ) , the cognate sensor of PA4101 , was found to be phosphorylated following PA4101 phosphorylation after 72 hr of biofilm growth ( Table 1 ) .</sentence>
+<sentence id="11"><scope type="spec" id="1"> The reason for the difference in the timing of phosphorylation between sensor and response regulator is <cue type="spec" id="1">unclear</cue></scope> .</sentence>
+<sentence id="12">It is <scope type="spec" id="2"> <cue type="spec" id="2">possible</cue> that this due to the different detection methods used</scope> .</sentence>
+<sentence id="13">The <scope type="spec" id="3"> <cue type="spec" id="3">probable</cue> TCS regulatory protein PA5511 ( MifR</scope> ) was phosphorylated following 72 hr of surface-associated growth .</sentence>
+<sentence id="14">The stage-specific detection and phosphorylation of PA5511 as determined by LC-MS/MS analysis in conjunction with cICAT as well as the CID spectra of a tryptic peptide of PA5511 is shown in Suppl .</sentence>
+<sentence id="15">Fig .</sentence>
+<sentence id="16">S2 .</sentence>
+<sentence id="17"><scope type="neg" id="4"><cue type="neg" id="4">Neither</cue> the cognate sensory protein PA5512 <scope type="neg" id="5"><cue type="neg" id="5">nor</cue> the response regulator PA4196 were identified in this study</scope></scope> .</sentence>
+<sentence id="18">This <scope type="spec" id="6"> <cue type="spec" id="6">may</cue> be due to detection limitation ( low protein concentrations , poor protein solubility , poor ionization ) and/or limitation in the number of phosphorylated proteins identified ( see Suppl</scope> .</sentence>
+<sentence id="19">Tables S1 and S2 for comparison ) .</sentence>
+<sentence id="20">As PA4197 , PA4101 and GacS were all phosphorylated by 24 hr of biofilm growth , we asked <scope type="spec" id="7"> <cue type="spec" id="7">whether</cue> the three proteins are modified simultaneously or in a sequential manner</scope> .</sentence>
+<sentence id="21">We reasoned that if protein phosphorylation occurs in sequence , inactivation of one of the proteins <scope type="spec" id="8"> <cue type="spec" id="8">would</cue> <scope type="spec" id="9"> <cue type="spec" id="9">potentially</cue> prevent phosphorylation of the other proteins of the phosphorelay</scope></scope> .</sentence>
+<sentence id="22"><scope type="neg" id="10"><cue type="neg" id="10">We</cue> therefore analyzed GacS , PA4101 , and PA4197 mutant biofilm phosphorylation patterns for the presence/absence of these regulators</scope> .</sentence>
+<sentence id="23"><scope type="neg" id="11"><cue type="neg" id="11">No</cue> evidence of phosphorylation of PA4197 , PA4101 , or GacS was detected in DeltaPA4197 mutant biofilm phosphorylation patterns</scope> .</sentence>
+<sentence id="24">However , phosphorylation of both GacS and PA4197 was detected in DeltaPA4101 mutant biofilms , <scope type="spec" id="12"> <cue type="spec" id="12">indicating that</cue> PA4101 phosphorylation <scope type="spec" id="13"> <cue type="spec" id="13">may</cue> occur downstream of GacS and PA4197</scope></scope> .</sentence>
+<sentence id="25">DeltagacS biofilm phosphorylation patterns showed an intermediate phosphorylation phenotype with PA4197 being phosphorylated but PA4101 phosphorylation lacking ( not shown ) .</sentence>
+<sentence id="26"><scope type="neg" id="14">PA5511 was <cue type="neg" id="14">not</cue> detected in any of the mutant biofilms analyzed ( Suppl</scope> .</sentence>
+<sentence id="27">Fig .</sentence>
+<sentence id="28">S3 ) .</sentence>
+<sentence id="29">The findings <scope type="spec" id="15"> <cue type="spec" id="15">suggest</cue> that phosphorylation of regulatory proteins occurs in a sequential ( but <scope type="spec" id="16"> <cue type="spec" id="16">probably</cue> indirect</scope> ) manner over the course of biofilm formation</scope> .</sentence>
+<sentence id="30">To determine <scope type="spec" id="17"> <cue type="spec" id="17">whether</cue> phosphorylation coincided with de novo gene expression</scope> or reflected biofilm-specific patterns of posttranslational modification , RT-PCR was used .</sentence>
+<sentence id="31">PA4101 expression was detected to be biofilm-specific , while PA4197 and PA5511 were constitutively expressed regardless of the mode of growth ( Suppl .</sentence>
+<sentence id="32">Fig .</sentence>
+<sentence id="33">S4 ) .</sentence>
+<sentence id="34">Similarly , retS and ladS were also constitutively expressed <scope type="spec" id="18"> <cue type="spec" id="18">indicating that</cue> posttranslational modifications are essential for their activity</scope> .</sentence>

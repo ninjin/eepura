@@ -1,0 +1,10 @@
+<sentence id="0">GrpL , a Grb2-related adaptor protein , interacts with SLP-76 to regulate nuclear factor of activated T cell activation .</sentence>
+<sentence id="1">Propagation of signals from the T cell antigen receptor ( TCR ) involves a number of adaptor molecules .</sentence>
+<sentence id="2">SH2 domain-containing protein 76 ( SLP-76 ) interacts with the guanine nucleotide exchange factor Vav to activate the nuclear factor of activated cells ( NF-AT ) , and its expression is required for normal T cell development .</sentence>
+<sentence id="3">We report the cloning and characterization of a novel Grb2-like adaptor molecule designated as Grb2-related protein of the lymphoid system ( GrpL ) .</sentence>
+<sentence id="4">Expression of GrpL is restricted to hematopoietic tissues , and it is distinguished from Grb2 by having a proline-rich region .</sentence>
+<sentence id="5">GrpL can be coimmunoprecipitated with SLP-76 but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> with Sos1 or Sos2 from Jurkat cell lysates</scope> .</sentence>
+<sentence id="6">In contrast , Grb2 can be coimmunoprecipitated with Sos1 and Sos2 but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> with SLP-76</scope> .</sentence>
+<sentence id="7">Moreover , tyrosine-phosphorylated LAT/pp36/38 in detergent lysates prepared from anti-CD3 stimulated T cells associated with Grb2 but <scope type="neg" id="2"><cue type="neg" id="2">not</cue> GrpL</scope> .</sentence>
+<sentence id="8">These data reveal the presence of distinct complexes involving GrpL and Grb2 in T cells .</sentence>
+<sentence id="9"><scope type="spec" id="3"> A functional role of the GrpL-SLP-76 complex is <cue type="spec" id="3">suggested</cue> by the ability of GrpL to act alone or in concert with SLP-76 to augment NF-AT activation in Jurkat T cells</scope> .</sentence>

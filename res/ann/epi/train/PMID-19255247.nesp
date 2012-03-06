@@ -1,0 +1,8 @@
+<sentence id="0">Methylation of H3 K4 and K79 is not strictly dependent on H2B K123 ubiquitylation .</sentence>
+<sentence id="1">Covalent modifications of histone proteins have profound consequences on chromatin structure and function .</sentence>
+<sentence id="2">Specific modification patterns constitute a code read by effector proteins .</sentence>
+<sentence id="3">Studies from yeast found that H3 trimethylation at K4 and K79 is dependent on ubiquitylation of H2B K123 , which is termed a " trans-tail pathway . "</sentence>
+<sentence id="4">In this study , we show that a strain <scope type="neg" id="0"><cue type="neg" id="0">unable</cue> to be ubiquitylated on H2B ( K123R )</scope> is still proficient for H3 trimethylation at both K4 and K79 , <scope type="spec" id="2"> <cue type="spec" id="2">indicating that</cue> H3 methylation status is <scope type="neg" id="1"><cue type="neg" id="1">not</cue> solely dependent on H2B ubiquitylation</scope></scope> .</sentence>
+<sentence id="5">However , additional mutations in H2B result in loss of H3 methylation when combined with htb1-K123R .</sentence>
+<sentence id="6">Consistent with this , we find that the original strain used to identify the trans-tail pathway has a genomic mutation that , when combined with H2B K123R , results in defective H3 methylation .</sentence>
+<sentence id="7">Finally , we show that strains <scope type="neg" id="3"><cue type="neg" id="3">lacking</cue> the ubiquitin ligase Bre1</scope> are defective for H3 methylation , <scope type="spec" id="4"> <cue type="spec" id="4">suggesting</cue> that there is an additional Bre1 substrate that in combination with H2B K123 facilitates H3 methylation</scope> .</sentence>

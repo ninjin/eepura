@@ -1,0 +1,10 @@
+<sentence id="0">The CHD3 remodeler PICKLE promotes trimethylation of histone H3 lysine 27 .</sentence>
+<sentence id="1">CHD3 proteins are ATP-dependent chromatin remodelers that contribute to repression of developmentally regulated genes in both animal and plant systems .</sentence>
+<sentence id="2">In animals , this repression has been linked to a multiple subunit complex , Mi-2/NuRD , whose constituents include a CHD3 protein , a histone deacetylase , and a methyl-CpG-binding domain protein .</sentence>
+<sentence id="3">In Arabidopsis , PICKLE ( PKL ) codes for a CHD3 protein that acts during germination to repress expression of seed-associated genes .</sentence>
+<sentence id="4">Repression of seed-associated traits is promoted in pkl seedlings by the plant growth regulator gibberellin ( GA ) .</sentence>
+<sentence id="5">We undertook a microarray analysis to determine how PKL and GA act to promote the transition from seed to seedling .</sentence>
+<sentence id="6">We found that PKL and GA act in separate pathways to repress expression of seed-specific genes .</sentence>
+<sentence id="7">Comparison of genomic datasets revealed that PKL-dependent genes are enriched for trimethylation of histone H3 lysine 27 ( H3K27me3 ) , a repressive epigenetic mark .</sentence>
+<sentence id="8">Chromatin immunoprecipitation studies demonstrate that PKL promotes H3K27me3 in both germinating seedlings and in adult plants but do <scope type="neg" id="0"><cue type="neg" id="0">not</cue> identify a connection between PKL-dependent expression and acetylation levels</scope> .</sentence>
+<sentence id="9">Taken together , our analyses illuminate a new pathway by which CHD3 remodelers contribute to repression in eukaryotes .</sentence>

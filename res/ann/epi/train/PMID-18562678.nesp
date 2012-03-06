@@ -1,0 +1,10 @@
+<sentence id="0">Inferring causal relationships among different histone modifications and gene expression .</sentence>
+<sentence id="1">Histone modifications are major epigenetic factors regulating gene expression .</sentence>
+<sentence id="2">They play important roles in maintaining stem cell pluripotency and in cancer pathogenesis .</sentence>
+<sentence id="3">Different modifications <scope type="spec" id="0"> <cue type="spec" id="0">may</cue> combine to form complex " histone codes .</scope> "</sentence>
+<sentence id="4">Recent high-throughput technologies , such as " ChIP-chip " and " ChIP-seq , " have generated high-resolution maps for many histone modifications on the human genome .</sentence>
+<sentence id="5">Here we use these maps to build a Bayesian network to <scope type="spec" id="1"> <cue type="spec" id="1">infer</cue> causal and combinatorial relationships among histone modifications and gene expression</scope> .</sentence>
+<sentence id="6">A pilot network derived by the same method among polycomb group ( PcG ) genes and H3K27 trimethylation is accurately supported by current literature .</sentence>
+<sentence id="7">Our unbiased network model among histone modifications is also well supported by cross-validation results .</sentence>
+<sentence id="8">It not only confirmed already known relationships , such as those of H3K27me3 to gene silencing , H3K4me3 to gene activation and the effect of bivalent modification of both H3K4me3 and H3K27me3 , but also identified many other relationships that <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> predict new epigenetic interactions important in epigenetic gene regulation</scope> .</sentence>
+<sentence id="9">Our automated inference method , which is <scope type="spec" id="3"> <cue type="spec" id="3">potentially</cue> applicable to other ChIP-chip or ChIP-seq data analyses</scope> , provides a much-needed guide to deciphering the complex histone codes .</sentence>

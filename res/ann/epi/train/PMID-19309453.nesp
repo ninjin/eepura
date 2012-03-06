@@ -1,0 +1,12 @@
+<sentence id="0">Auxin-induced , SCF(TIR1)-mediated poly-ubiquitination marks AUX/IAA proteins for degradation .</sentence>
+<sentence id="1">The plant hormone auxin ( indole-3-acetic acid or IAA ) regulates plant development by inducing rapid cellular responses and changes in gene expression .</sentence>
+<sentence id="2">Auxin promotes the degradation of Aux/IAA transcriptional repressors , thereby allowing auxin response factors ( ARFs ) to activate the transcription of auxin-responsive genes .</sentence>
+<sentence id="3">Auxin enhances the binding of Aux/IAA proteins to the receptor TIR1 , which is an F-box protein that is part of the E3 ubiquitin ligase complex SCF(TIR1) .</sentence>
+<sentence id="4">Binding of Aux/IAA proteins leads to degradation via the 26S proteasome , but evidence for SCF(TIR1)-mediated poly-ubiquitination of Aux/IAA proteins is <scope type="neg" id="0"><cue type="neg" id="0">lacking</cue></scope> .</sentence>
+<sentence id="5">Here we used an Arabidopsis cell suspension-based protoplast system to find evidence for SCF(TIR1)-mediated ubiquitination of the Aux/IAA proteins SHY2/IAA3 and BDL/IAA12 .</sentence>
+<sentence id="6">Each of these proteins showed a distinct abundance and repressor activity when expressed in this cell system .</sentence>
+<sentence id="7">Moreover , <scope type="spec" id="1"> the amount of endogenous TIR1 protein <cue type="spec" id="1">appeared</cue> to be rate-limiting for a proper auxin response measured by the co-transfected DR5::GUS reporter construct</scope> .</sentence>
+<sentence id="8">Co-transfection with 35S::TIR1 led to auxin-dependent degradation , and excess of 35S::TIR1 even led to degradation of Aux/IAAs in the <scope type="neg" id="2"><cue type="neg" id="2">absence</cue> of auxin treatment</scope> .</sentence>
+<sentence id="9">Expression of the mutant tir1-1 protein or the related F-box protein COI1 , which is involved in jasmonate signaling , had <scope type="neg" id="3"><cue type="neg" id="3">no</cue> effect on Aux/IAA degradation</scope> .</sentence>
+<sentence id="10">Our results show that SHY2/IAA3 and BDL/IAA12 are poly-ubiquitinated and degraded in response to increased auxin or TIR1 levels .</sentence>
+<sentence id="11">In conclusion , our data provide experimental support for the model that SCF(TIR1)-dependent poly-ubiquitination of Aux/IAA proteins marks these proteins for degradation by the 26S proteasome , leading to activation of auxin-responsive gene expression .</sentence>

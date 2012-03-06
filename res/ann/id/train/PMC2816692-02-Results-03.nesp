@@ -1,0 +1,35 @@
+<sentence id="0">Crystal structure of SrcA</sentence>
+<sentence id="1">Sequence analysis showed 59 % amino acid identity between SrcA and CesT , a secretion chaperone in enteropathogenic E. coli ( EPEC ) ( Fig .</sentence>
+<sentence id="2">2A ) .</sentence>
+<sentence id="3">As a means to address the biological function of SrcA , we solved the crystal structure at 2.5-A resolution ( PDB 3EPU ) .</sentence>
+<sentence id="4">A summary of crystallographic data collection and model refinement statistics is in Table 1 .</sentence>
+<sentence id="5">The structure was solved by molecular replacement using an initial model based on CesT ( PDB 1K3E ) [ 13 ] .</sentence>
+<sentence id="6">SrcA crystallized in space group C2 with two molecules related by a 2-fold symmetry axis in each asymmetric unit ( Fig .</sentence>
+<sentence id="7">2B ) .</sentence>
+<sentence id="8">Each monomer consisted of a small and large domain .</sentence>
+<sentence id="9">The smaller domain formed by alpha1 and the extended loop region preceding beta1 adopts a distinct conformation in each subunit .</sentence>
+<sentence id="10">The larger domain mediates dimerization and is comprised of a twisted anti-parallel beta-sheet ( beta1-beta2-beta3-beta5-beta4 ) flanked by alpha-helices alpha2 and alpha3 .</sentence>
+<sentence id="11">The dimer interface formed between SrcA monomers occurs primarily through reciprocal hydrophobic interactions between alpha2 and alpha2 ' with additional interface-stabilizing interactions occurring between the alpha2 helix of one monomer and beta4 and beta5 strands of the opposing monomer ( Fig .</sentence>
+<sentence id="12">2B ) .</sentence>
+<sentence id="13">The total surface area buried at the dimer interface is 1258 A2 , <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> that SrcA would exist as a dimer in solution , which we confirmed by gel filtration analysis ( see below )</scope> .</sentence>
+<sentence id="14">A structure similarity search with SrcA revealed proteins identified as T3SS secretion chaperones .</sentence>
+<sentence id="15">CesT and SicP were the most structurally similar to SrcA , aligning with RMSD of 1.8 A and 2.2 A respectively .</sentence>
+<sentence id="16">With the exception of CesT , SrcA has weak overall sequence identity ( < 20 % ) with other T3SS chaperones .</sentence>
+<sentence id="17">CesT , SicP and SrcA contain several clusters of highly conserved amino acids notable on primary sequence alignments ( Fig .</sentence>
+<sentence id="18">2A ) .</sentence>
+<sentence id="19">Most of these conserved sites are located in the alpha2-interface helix and in strands beta4 and beta5 that help stabilize this interface .</sentence>
+<sentence id="20">Although the N-terminus of these proteins is conserved structurally , the tertiary structures differ for each protein .</sentence>
+<sentence id="21">In CesT , alpha1 and beta1 adopt an extended conformation while the equivalent domain in SicP remains closely packed against the dimerization domain [ 12 ] .</sentence>
+<sentence id="22">In SrcA , both extended and closely packed conformations are observed in separate subunits of the same dimer within the asymmetric unit .</sentence>
+<sentence id="23">In the extended conformation the N-terminal helix from one dimer interacts with the beta4 region of an adjacent dimer , similar to a domain swap seen in CesT [ 13 ] .</sentence>
+<sentence id="24">At this time , <scope type="spec" id="2"> the <scope type="spec" id="1"> <cue type="spec" id="1">possible</cue> biological relevance for such a domain swap is <cue type="spec" id="2">unclear</cue></scope> and <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> reflect an artifact of crystallization</scope> as critically discussed [ 13</scope> ] .</sentence>
+<sentence id="25">A comparison of the SrcA dimer interface with other class I chaperone family members <scope type="spec" id="4"> <cue type="spec" id="4">indicates</cue> the overall similarity of quaternary structure shared between SrcA , CesT and SicP ( Fig</scope> .</sentence>
+<sentence id="26">3A ) .</sentence>
+<sentence id="27">This is in contrast to the class II chaperone interface of Spa15 , which despite having similar tertiary structure to SrcA adopts a distinct dimer interface .</sentence>
+<sentence id="28">A structural alignment of SrcA and Spa15 generated through alignment of single monomers shows the relative difference in subunit orientation between SrcA and Spa15 reflected by the positions of each monomer in the dimer configuration .</sentence>
+<sentence id="29">These unique orientations produce an 80degrees rotational offset between respective subunits and could be expected to influence the mode of effector interactions utilized by these proteins .</sentence>
+<sentence id="30">To evaluate the potential for an effector-binding surface on SrcA , the structure of SicP in complex with its effector SptP was aligned with SrcA and represented as a space-filling model ( Fig .</sentence>
+<sentence id="31">3B ) .</sentence>
+<sentence id="32">Binding of SptP occurs primarily in the N-terminus of SicP [ 12 ] , which is similar to the effector binding surface for SrcA predicted in silico .</sentence>
+<sentence id="33">This surface contains several conserved hydrophobic residues including L16 , D24 , N26 , and I32 ( Fig .</sentence>
+<sentence id="34">2A ) , which is consistent with SrcA using a similar mechanism for interaction with effectors .</sentence>

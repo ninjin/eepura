@@ -1,0 +1,13 @@
+<sentence id="0">2-amino-1-methyl-6-phenylimidazo [ 4,5-b ] pyridine-induced DNA adducts and genotoxicity in chinese hamster ovary ( CHO ) cells expressing human CYP1A2 and rapid or slow acetylator N-acetyltransferase 2 .</sentence>
+<sentence id="1">Heterocyclic amine carcinogens such as 2-amino-1-methyl-6-phenylimidazo [ 4,5-b ] pyridine ( PhIP ) are present in diet and cigarette smoke .</sentence>
+<sentence id="2">Bioactivation in humans includes N-hydroxylation catalyzed by cytochrome P4501A2 <scope type="spec" id="0"> <cue type="spec" id="0">possibly</cue> followed by O-acetylation catalyzed by N-acetyltransferase 2 ( NAT2</scope> ) .</sentence>
+<sentence id="3">Nucleotide excision repair-deficient Chinese hamster ovary ( CHO ) cells were stably transfected with human CYP1A2 and either NAT2*4 ( rapid acetylator ) or NAT2*5B ( slow acetylator ) alleles .</sentence>
+<sentence id="4">CYP1A2 and NAT2 catalytic activities were undetectable in untransfected CHO cell lines .</sentence>
+<sentence id="5">CYP1A2 catalytic activity levels did <scope type="neg" id="1"><cue type="neg" id="1">not</cue> differ significantly ( P > 0.05 ) among the CYP1A2-transfected cell lines</scope> .</sentence>
+<sentence id="6">Cells transfected with NAT2*4 had significantly higher levels of N-acetyltransferase ( P = 0.0001 ) and N-hydroxy-PhIP O-acetyltransferase ( P = 0.0170 ) catalytic activity than cells transfected with NAT2*5B .</sentence>
+<sentence id="7">PhIP caused dose-dependent decreases in cell survival and significant ( P < 0.001 ) increases in mutagenesis measured at the hypoxanthine phosphoribosyl transferase ( hprt ) locus in all the CYP1A2-transfected cell lines .</sentence>
+<sentence id="8">Transfection with NAT2*4 or NAT2*5B did <scope type="neg" id="2"><cue type="neg" id="2">not</cue> further increase hprt mutagenesis</scope> .</sentence>
+<sentence id="9">PhIP-induced hprt mutant cDNAs were sequenced , and 80 % of the mutations were single base substitutions at G:C base pairs .</sentence>
+<sentence id="10">dG-C8-PhIP DNA adduct levels were dose-dependent in the order : untransfected < transfected with CYP1A2 < transfected with CYP1A2 and NAT2*5B < transfected with CYP1A2 and NAT2*4 .</sentence>
+<sentence id="11">Following incubation with 1.2 microM PhIP , DNA adduct levels were significantly ( P < 0.05 ) higher in CHO cells transfected with CYP1A2/NAT2*4 versus CYP1A2/NAT2*5B .</sentence>
+<sentence id="12">These results strongly support an activation role for CYP1A2 in PhIP-induced mutagenesis and DNA damage and <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> a modest effect of human NAT2 and its genetic polymorphism on PhIP DNA adduct levels</scope> .</sentence>

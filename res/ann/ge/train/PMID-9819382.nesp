@@ -1,0 +1,12 @@
+<sentence id="0">TAL1 and LIM-only proteins synergistically induce retinaldehyde dehydrogenase 2 expression in T-cell acute lymphoblastic leukemia by acting as cofactors for GATA3 .</sentence>
+<sentence id="1">Previously , we have shown that TAL1 and the LIM-only protein gene ( LMO ) are regularly coactivated in T-cell acute lymphoblastic leukemia ( T-ALL ) .</sentence>
+<sentence id="2"><scope type="spec" id="0"> This observation is <cue type="spec" id="0">likely</cue> to relate to the findings that TAL1 and LMO are highly synergistic in T-cell tumorigenesis in double-transgenic mice</scope> .</sentence>
+<sentence id="3">To understand the molecular mechanisms of functional synergy between TAL1 and LMO in tumorigenesis and transcriptional regulation , we tried to identify downstream target genes regulated by TAL1 and LMO by a subtractive PCR method .</sentence>
+<sentence id="4">One of the isolated genes , that for retinaldehyde dehydrogenase 2 ( RALDH2 ) , was regularly expressed in most of the T-ALL cell lines that coexpressed TAL1 and LMO .</sentence>
+<sentence id="5">Exogenously transfected TAL1 and LMO , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> either alone</scope> , induced RALDH2 expression in a T-ALL cell line , HPB-ALL , <scope type="neg" id="2"><cue type="neg" id="2">not</cue> expressing endogeneous TAL1 or LMO</scope> .</sentence>
+<sentence id="6">The RALDH2 transcripts in T-ALL were , however , mostly initiated within the second intron .</sentence>
+<sentence id="7">Promoter analysis revealed that a GATA site in a cryptic promoter in the second intron was essential and sufficient for the TAL1- and LMO-dependent transcriptional activation , and GATA3 binds to this site .</sentence>
+<sentence id="8">In addition , forced expression of GATA3 potentiated the induction of RALDH2 by TAL1 and LMO , and these three factors formed a complex in vivo .</sentence>
+<sentence id="9">Furthermore , a TAL1 mutant <scope type="neg" id="3"><cue type="neg" id="3">not</cue> binding to DNA</scope> also activated the transcription of RALDH2 in the presence of LMO and GATA3 .</sentence>
+<sentence id="10">Collectively , we have identified the RALDH2 gene as a first example of direct transcriptional target genes regulated by TAL1 and LMO in T-ALL .</sentence>
+<sentence id="11">In this case , TAL1 and LMO act as cofactors for GATA3 to activate the transcription of RALDH2 .</sentence>

@@ -1,0 +1,10 @@
+<sentence id="0">Modulation of CD28 expression : distinct regulatory pathways during activation and replicative senescence .</sentence>
+<sentence id="1">The costimulatory molecule CD28 has a restricted tissue distribution and is expressed on T cells and some plasmacytoma cells .</sentence>
+<sentence id="2">Although CD28 is constitutively expressed , its expression is transiently down-regulated following T cell activation and declines progressively with in vitro senescence .</sentence>
+<sentence id="3">In vivo , CD8+ T cells and , less frequently , CD4+ T cells <scope type="spec" id="0"> <cue type="spec" id="0">may</cue> completely lose CD28 surface expression during chronic infections and with aging</scope> .</sentence>
+<sentence id="4">This correlates with changes of nuclear protein-binding activities to two motifs , site alpha and beta , within the CD28 minimal promoter .</sentence>
+<sentence id="5">Both alpha- and beta-bound complexes are found only in lymphoid tissues , in CD28+ T cells , and in some transformed B cells .</sentence>
+<sentence id="6">These complexes are coordinately expressed except during replicative senescence , which is characterized by the down-modulation of site beta- but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> site alpha-binding activities</scope> .</sentence>
+<sentence id="7">In contrast , T cell activation induces a parallel decline in both site alpha- and beta-binding activities .</sentence>
+<sentence id="8">CD4+ and CD8+ T cells differ in their beta-binding profiles , which <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> explain the more pronounced down-regulation of CD28 in senescent CD8+ T cells</scope> .</sentence>
+<sentence id="9">In vivo expanded CD4+CD28null and CD8+CD28null T cells uniformly <scope type="neg" id="3"><cue type="neg" id="3">lack</cue> alpha- and beta- bound complexes</scope> , resembling the pattern seen in chronically activated cells and <scope type="neg" id="4"><cue type="neg" id="4">not</cue> of senescent cells</scope> .</sentence>

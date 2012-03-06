@@ -1,0 +1,48 @@
+<sentence id="0">Results and Discussion</sentence>
+<sentence id="1">The genomes of P. luminescens ssp .</sentence>
+<sentence id="2">laumondii TT01 and Y. enterocolitica 8081 have completely been sequenced .</sentence>
+<sentence id="3">The genome of the latter strain has a size of ~ 4.6 Mbp and encodes 4037 putative proteins [ 23 ] .</sentence>
+<sentence id="4">Its genome size is exceeded by the ~ 5.7 Mbp genome of P. luminescens encoding 4839 putative proteins [ 24 ] .</sentence>
+<sentence id="5">To uncover candidate genes which are involved in insect pathogenicity , a total of 424 ( P. luminescens ) and 386 ( Y. enterocolitica ) genes and proteins predicted to belong to one of the functional categories described in the text were analysed for their presence or absence in both organisms , and for their degree of similarity .</sentence>
+<sentence id="6"><scope type="neg" id="0">House-keeping genes and genes of <scope type="spec" id="1"> <cue type="spec" id="1">unknown</cue> function</scope> were <cue type="neg" id="0">not</cue> considered</scope> .</sentence>
+<sentence id="7">The set of shared genes or proteins , respectively , <scope type="spec" id="2"> <cue type="spec" id="2">indicates</cue> mechanisms of regulation , virulence and metabolic pathways similar for both pathogens , and moreover unraveled novel candidate genes/proteins <scope type="spec" id="3"> which <cue type="spec" id="3">presumably</cue> are involved in insect association and/or pathogenicity</scope></scope> .</sentence>
+<sentence id="8">Proteins which are solely present in either one of the organisms <scope type="spec" id="4"> <cue type="spec" id="4">suggest</cue> a distinct function of these factors , or different strategies followed by the two pathogens during their life cycles</scope> .</sentence>
+<sentence id="9">Sensing , signalling , and regulation Bacteria have evolved several regulation mechanisms to ensure a proper answer to changing environments .</sentence>
+<sentence id="10">Upon entering their insect hosts , P. luminescens and Y. enterocolitica are challenged by varying and detrimental surrounding conditions which they have to sense and adapt to for further persistence .</sentence>
+<sentence id="11">In addition , both pathogens must be capable to withstand the insect 's immune response .</sentence>
+<sentence id="12">In the following chapter we compare sensing and regulating mechanisms of the two insect-associated organisms , P. luminescens and Y. enterocolitica , thus identifying strategies which <scope type="spec" id="5"> <cue type="spec" id="5">might</cue> be important for insect colonization and pathogenicity</scope> .</sentence>
+<sentence id="13">Two-component signal transduction To sense their environment and to react rapidly to changing surrounding conditions , bacteria have evolved so called two-component systems ( TCSs ) [ 25 ] which have been found to be involved in the control of virulence or symbiosis , in metabolite utilization , and also in the adaptation to various stress factors [ 26 ] .</sentence>
+<sentence id="14">A basic TCS consists of two proteins , a sensor histidine kinase and a response regulator performing a His-Asp phosphotransfer .</sentence>
+<sentence id="15">The consisting domains or proteins can also be organized as more complex systems using a His-Asp-His-Asp phosphorelay .</sentence>
+<sentence id="16">The number of TCSs ranges from zero in Mycoplasma genitalium to 80 in Syncheocystes spp .</sentence>
+<sentence id="17">[ 25,27 ] .</sentence>
+<sentence id="18">Eighteen of these TCSs are present in P. luminescens , and 28 in Y. enterocolitica , of which 17 are shared by both organisms ( Fig .</sentence>
+<sentence id="19">2 , depicted in grey ) .</sentence>
+<sentence id="20">The additional set of eleven TCSs in Y. enterocolitica ( Fig .</sentence>
+<sentence id="21">2 , shown in red ) <scope type="spec" id="6"> <cue type="spec" id="6">might</cue> reflect the high number of different environments this pathogen is exposed to during its life cycle , namely soil , water and invertebrates as well as mammalian hosts</scope> .</sentence>
+<sentence id="22">In contrast , P. luminescens cells are primarily restricted to symbiosis with the nematode species H. bacteriophora and the insect larvae as hosts , thus encountering a more homeostatic milieu .</sentence>
+<sentence id="23">Among the eleven TCSs of Y. enterocolitica <scope type="neg" id="7"><cue type="neg" id="7">not</cue> shared by P. luminescens</scope> are duplicates of the CitA/CitB system ( YE2505/YE2506 and YE2654/YE2655 ) and of the LytS/LytR system ( YE1228/YE1227 and YE4014/YE4015 ) .</sentence>
+<sentence id="24"><scope type="spec" id="8"> The principal biological reason for this redundancy remains <cue type="spec" id="8">unclear</cue></scope> .</sentence>
+<sentence id="25">Interestingly , one TCS ( Plu0102/Plu103 and YE4185/YE4186 ) is unique for the genera Photorhabdus and Yersinia .</sentence>
+<sentence id="26">Both sensor kinases Plu0102 and YE4185 are of moderate similarity ( 31.5 % identity , 48.5 % homology ) .</sentence>
+<sentence id="27">They are anchored to the membrane with one transmembrane domain , and have a large periplasmic sensing domain <scope type="spec" id="9"> which is <cue type="spec" id="9">proposed</cue> to bind a specific ligand</scope> .</sentence>
+<sentence id="28">Therefore , Plu0102 and YE4185 are interesting candidates for unravelling invertebrate-specific signals .</sentence>
+<sentence id="29">The <scope type="spec" id="10"> <cue type="spec" id="10">putative</cue> target genes of Plu0102/Plu0103 and Ye4185/Ye4186 , plu0104 and ye4187 , respectively</scope> , are homologues and encode putative secreted proteins which <scope type="spec" id="11"> <cue type="spec" id="11">might</cue> act in a similar , yet <scope type="spec" id="12"> <cue type="spec" id="12">unknown</cue> manner</scope></scope> .</sentence>
+<sentence id="30">All TCSs present in both organisms are depicted in grey in Fig .</sentence>
+<sentence id="31">2 , and include PhoP/PhoQ , and AstS/AstR ( BvgS/BvgR ) which have been identified to be involved in virulence [ 28 ] .</sentence>
+<sentence id="32">The role of PhoP/PhoQ in regulating virulence gene expression has been characterized mainly in Salmonella species , but has also been shown , in addition to three other TCSs , to be important for virulence of Y. pseudotuberculosis [ 29,30 ] .</sentence>
+<sentence id="33">In P. luminescens , this TCS controls the expression of the pbgPE operon which is involved in lipid A modification and thus plays a role in colonization and infection of the invertebrate hosts [ 18,31 ] .</sentence>
+<sentence id="34">Furthermore , PhoP has also been found to be important for virulence of Y. pestis [ 32 ] , but its function in Y. enterocolitica during its insect-associated phase remains hypothetical .</sentence>
+<sentence id="35">The AstS/AstR TCS is required for the correct timing of phase variant switching in P. luminescens [ 28 ] .</sentence>
+<sentence id="36">BvgS/BvgR is the TCS of Y. enterocolitica that corresponds to AstS/AstR .</sentence>
+<sentence id="37">Because <scope type="spec" id="13"> Y. enterocolitica is <cue type="spec" id="13">not</cue> known to switch to another phenotypic variant</scope> , the <scope type="spec" id="14"> <cue type="spec" id="14">possible</cue> role in virulence regulation</scope> still remains to be elucidated .</sentence>
+<sentence id="38">Both Y. enterocolitica and P. luminescens produce the KdpD/KdpE system that regulates K+ homeostasis and osmotic stress .</sentence>
+<sentence id="39">It has recently been found that the Kdp-system of P. luminescens is important for insect pathogenicity ( S. E. Reynolds and N. R. Waterfield , University of Bath , UK , personal communication ) .</sentence>
+<sentence id="40">Therefore , the KdpD/KdpE system is also a further candidate system which <scope type="spec" id="15"> <cue type="spec" id="15">might</cue> be involved in the regulation of insecticidal activity of Y. enterocolitica</scope> .</sentence>
+<sentence id="41">The only TCS of P. luminescens absent in Y. enterocolitica is TctE/TctD ( Fig .</sentence>
+<sentence id="42">2 , marked in blue ) , which , however , is found in the genomes of Y. intermedia and Y. frederiksenii .</sentence>
+<sentence id="43">Beside these microorganisms , TctE/TctD homologues controlling the transport of tricarboxylic acid ( see section " Tricarboxylate utilization " ) are present in the genera Salmonella , Burkholderia , Agrobacterium , Bordetella , Collinsella , Xylella , Xanthomonas , and Pseudomonas , particularly P. entomophila , all of which are found in association with eukaryotes .</sentence>
+<sentence id="44"><scope type="spec" id="16"> <cue type="spec" id="16">To</cue> summarize , the comparison of the P. luminescens and the Y. enterocolitica TCSs reveals a basal set of signal sensing mechanisms which are used by both organisms</scope> .</sentence>
+<sentence id="45">Whether the stimulons or regulons which are regulated by these sets of TCSs are also similar remains to be examined .</sentence>
+<sentence id="46">In comparison to P. luminescens , Y. enterocolitica uses an expanded set of TCSs , <scope type="spec" id="17"> <cue type="spec" id="17">possibly</cue> to adapt to its various hosts ( Fig</scope> .</sentence>
+<sentence id="47">1 ) .</sentence>

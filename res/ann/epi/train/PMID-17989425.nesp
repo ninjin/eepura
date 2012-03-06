@@ -1,0 +1,11 @@
+<sentence id="0">A high-throughput screen measuring ubiquitination of p53 by human mdm2 .</sentence>
+<sentence id="1">Tumor suppressor p53 is typically maintained at low levels in normal cells .</sentence>
+<sentence id="2">In response to cellular stresses , such as DNA damage , p53 is stabilized and can stimulate responses leading to cell cycle arrest or apoptosis .</sentence>
+<sentence id="3">Corresponding to its central role in preventing propagation of damaged cells , mutation <scope type="spec" id="0"> <cue type="spec" id="0">or</cue> deletion of p53</scope> is found in nearly 50 % of all human tumors .</sentence>
+<sentence id="4">Mdm2 ( mouse-d-minute 2 ) and its human ortholog ( hmdm2 or hdm2 ) catalyze the ubiquitination of p53 , targeting it for degradation via the proteosome .</sentence>
+<sentence id="5">Thus , the activity of mdm2 is inversely correlated with p53 levels .</sentence>
+<sentence id="6">Based on this , inhibition of human mdm2 activity by a small-molecule therapeutic will lead to net stabilization of p53 and be the basis for development of a novel cancer therapeutic .</sentence>
+<sentence id="7">Previous high-throughput screening assays of mdm2 measured the autoubiquitination activity of mdm2 , which occurs in the <scope type="neg" id="1"><cue type="neg" id="1">absence</cue> of an acceptor substrate such as p53</scope> .</sentence>
+<sentence id="8">The major drawback to this approach is that inhibitors of mdm2 autoubiquitination <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> lead to a net stabilization of mdm2</scope> and thus have the opposite effect of inhibitors that interfere with p53 ubiquitination .</sentence>
+<sentence id="9">The authors describe the development , validation , and execution of a high-throughput screening measuring the ubiquitination of p53 by mdm2 , with p53 labeled with europium and the other substrate ( Ub-UbcH5b ) labeled with a Cy5 on the ubiquitin .</sentence>
+<sentence id="10">After confirming that known inhibitors are detected with this assay , it was successfully automated and used to query > 600,000 compounds from the GlaxoSmithKline collection for mdm2 inhibitors .</sentence>

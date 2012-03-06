@@ -1,0 +1,13 @@
+<sentence id="0">A strategy of tRNA recognition that includes determinants of RNA structure .</sentence>
+<sentence id="1">Recognition of tRNAs by aminoacyl tRNA synthetases establishes the connection between amino acids and anticodon triplets of the genetic code .</sentence>
+<sentence id="2">Although anticodons and nucleotides adjacent to the amino acid attachment site are generally important , the tertiary structural framework of tRNAs has recently been implicated to have a role in tRNA recognition .</sentence>
+<sentence id="3">A G15:G48 tertiary hydrogen base pair of E. coli tRNA(Cys) is important for recognition of the tRNA by cysteine tRNA synthetase .</sentence>
+<sentence id="4">This base pair is <scope type="spec" id="1"> <cue type="spec" id="1">proposed</cue> to consist of N2:N3 , <scope type="neg" id="0"><cue type="neg" id="0">rather than</cue> N1:O6 , hydrogen bonds</scope></scope> .</sentence>
+<sentence id="5">The reproduction of the hydrogen pairing scheme of tRNA(Gly) .</sentence>
+<sentence id="6">This reproduction required an A13:A22 mismatch in the dihyrouridine stem .</sentence>
+<sentence id="7">To determine <scope type="spec" id="2"> <cue type="spec" id="2">if</cue> A13:A22 is a determinant of the structural features of G15:G48</scope> , we investigated the A15:U48 and A15:A48 variants of tRNA(Gly) which harbored specific substitutions of A13:A22 .</sentence>
+<sentence id="8">We show here that introduction of A13:A22 to both tRNA frameworks confers structural features similar to those of G15:G48 in E. coli tRNA(Cys) .</sentence>
+<sentence id="9">These structural features are accompanied by efficient recognition of both tRNAs by cysteine tRNA synthetase .</sentence>
+<sentence id="10">Substitution of A13:A22 with U13:A22 alters the structural features at 15:48 and impairs tRNA recognition .</sentence>
+<sentence id="11">The dependence on A13:22 for tRNA recognition has a distinct similarity to that of E. coli tRNA(Cys) and to that of the G15:G48 variant of tRNA(Gly) .</sentence>
+<sentence id="12">The results have implications for the design and manipulation of RNA structural elements as the basis for tRNA recognition .</sentence>

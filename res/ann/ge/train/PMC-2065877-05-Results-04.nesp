@@ -1,0 +1,11 @@
+<sentence id="0">Wild-Type and LMP1 Transgenic Lymphoma Cells Do Not Require IL4 and Stat6 Signaling</sentence>
+<sentence id="1">To investigate <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> IL4 independence was due to endogenous IL4 expression</scope> , IL4 transcription was assessed by an Rnase protection assay ( RPA ) .</sentence>
+<sentence id="2">IL4 transcription was detectable with control RNA and faintly in the mouse lymphoma cell line K46==mu = = ( Figure 4A ) .</sentence>
+<sentence id="3">However , IL4 transcription was <scope type="neg" id="1"><cue type="neg" id="1">not</cue> detectable in CD19+ MACS-purified B cells from wild-type lymphocytes ( unpublished data ) , LMP1 transgenic lymphocytes , or lymphoma cells</scope> , although the GAPDH and L32 controls were effectively protected ( Figure 4A ) .</sentence>
+<sentence id="4">Activated Stat6 ( pStat6 ) , a target of the IL4 receptor pathway , was detected in the wild-type and LMP1 transgenic lymphocytes ( Figure 4B ) .</sentence>
+<sentence id="5">In contrast , pStat6 was barely detected in either the wild-type or LMP1 transgenic lymphoma cells .</sentence>
+<sentence id="6">However , the pathway was <scope type="neg" id="2"><cue type="neg" id="2">not</cue> disabled</scope> , as treatment of the lymphoma cells with IL4 induced Stat6 phosphorylation ( Figure 4C ) .</sentence>
+<sentence id="7">Although wild-type lymphocytes cannot be maintained in culture with IL4 supplementation alone ( Figure 3A ) , <scope type="spec" id="3"> slight enhancement in MTS activity <cue type="spec" id="3">could</cue> be detected if the cells were analyzed at an earlier time point , at 1 d ( Figure 4D ) versus 3 d ( Figure 3A ) post-harvest</scope> .</sentence>
+<sentence id="8">The enhancement of MTS activity induced by IL4 in wild-type lymphocytes could be neutralized by the addition of IL4 antibody ( Figure 4D ) .</sentence>
+<sentence id="9">However , neutralizing antibodies to IL4 did <scope type="neg" id="4"><cue type="neg" id="4">not</cue> affect the MTS activity of LMP1 transgenic lymphoma cells ( Figure 4E )</scope> .</sentence>
+<sentence id="10">In summary , the wild-type and LMP1 transgenic lymphoma cells grew independently of IL4 treatment and did <scope type="neg" id="5"><cue type="neg" id="5">not</cue> require Stat6 signaling</scope> .</sentence>

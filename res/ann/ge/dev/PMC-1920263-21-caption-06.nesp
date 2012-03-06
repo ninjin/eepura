@@ -1,0 +1,9 @@
+<sentence id="0">Sp1 and Sp3 bind to the GC-box present in the A3G promoter .</sentence>
+<sentence id="1">( A ) Nuclear extracts of A3.01 T cells were incubated with a 32P-labeled commercial Sp1 oligonucleotide <scope type="spec" id="0"> probe ( Sp1cons ) <cue type="spec" id="0">or</cue> labeled probes</scope> homologous to the unmodified or mutated E2 region ( see Figure 1 ) of the A3G promoter ( APO-Sp1/3 and APO-Sp1/3mut ) .</sentence>
+<sentence id="2">Protein==-==DNA complexes were separated by polyacrylamide electrophoresis and detected by autoradiography .</sentence>
+<sentence id="3">EMSA was performed with a 1- or 30-fold molar excess of unlabeled APO-Sp1/3 probe ( competitor , lanes 6 and 7 ) <scope type="spec" id="1"> <cue type="spec" id="1">or</cue> APO-Sp1/3mut probe ( competitor mut. , lanes 12 and 13 )</scope> .</sentence>
+<sentence id="4">( B ) Sp1- and Sp3-specific antibodies were added to the EMSA reactions resulting in a supershift ( ss ) of the respective antibody==-==protein==-==oligo complexes ( lanes 3 , 4 , 7 , 8 , 11 , 12 ) .</sentence>
+<sentence id="5">( C ) ChIP assay was performed with DNA from A3.01 T cells .</sentence>
+<sentence id="6">Immunoprecipitation was performed with antibodies against Sp1 , Sp3 or actin .</sentence>
+<sentence id="7">PCR primer pairs specific for the A3G promoter ( upper panel ) or the A3G gene ( lower panel ) were used .</sentence>
+<sentence id="8">As positive controls , the sheared and cross-linked DNA before the immunoprecipitation step ( input ) or a plasmid carrying the target sequence ( plasmid ) was used as template .</sentence>

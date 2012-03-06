@@ -1,0 +1,15 @@
+<sentence id="0">The Golgi GDPase of the fungal pathogen Candida albicans affects morphogenesis , glycosylation , and cell wall properties .</sentence>
+<sentence id="1">Cell wall mannoproteins are largely responsible for the adhesive properties and immunomodulation ability of the fungal pathogen Candida albicans .</sentence>
+<sentence id="2">The outer chain extension of yeast mannoproteins occurs in the lumen of the Golgi apparatus .</sentence>
+<sentence id="3">GDP-mannose must first be transported from the cytosol into the Golgi lumen , where mannose is transferred to mannans .</sentence>
+<sentence id="4">GDP is hydrolyzed by a GDPase , encoded by GDA1 , to GMP , which then exits the Golgi lumen in a coupled , equimolar exchange with cytosolic GDP-mannose .</sentence>
+<sentence id="5">We isolated and disrupted the C. albicans homologue of the Saccharomyces cerevisiae GDA1 gene in order to investigate its role in protein mannosylation and pathogenesis .</sentence>
+<sentence id="6">CaGda1p shares four apyrase conserved regions with other nucleoside diphosphatases .</sentence>
+<sentence id="7">Membranes prepared from the C. albicans disrupted gda1/gda1 strain had a 90 % decrease in the ability to hydrolyze GDP compared to wild type .</sentence>
+<sentence id="8">The gda1/gda1 mutants showed a severe defect in O-mannosylation and reduced cell wall phosphate content .</sentence>
+<sentence id="9">Other cell wall-related phenotypes are present , such as elevated chitin levels and increased susceptibility to attack by beta-1,3-glucanases .</sentence>
+<sentence id="10">Our results show that the C. albicans organism contains beta-mannose at their nonreducing end , differing from S. cerevisiae , which has only alpha-linked mannose residues in its O-glycans .</sentence>
+<sentence id="11">Mutants <scope type="neg" id="0"><cue type="neg" id="0">lacking</cue> both alleles of GDA1 grow at the same rate as the wild type</scope> but are partially blocked in hyphal formation in Lee solid medium and during induction in liquid by changes in temperature and pH .</sentence>
+<sentence id="12">However , the mutants still form normal hyphae in the presence of serum and N-acetylglucosamine and do <scope type="neg" id="1"><cue type="neg" id="1">not</cue> change their adherence to HeLa cells</scope> .</sentence>
+<sentence id="13">Taken together , our data are in agreement with the hypothesis that several pathways regulate the yeast-hypha transition .</sentence>
+<sentence id="14">Gda1/gda1 cells offer a model for discriminating among them .</sentence>

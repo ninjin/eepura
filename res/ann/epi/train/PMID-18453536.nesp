@@ -1,0 +1,11 @@
+<sentence id="0">Polycomb group protein-associated chromatin is reproduced in post-mitotic G1 phase and is required for S phase progression .</sentence>
+<sentence id="1">Polycomb group ( PcG ) proteins form two distinct complexes , PRC1 and PRC2 , to regulate developmental target genes by maintaining the epigenetic state in cells .</sentence>
+<sentence id="2">PRC2 methylates histone H3 at lysine 27 ( H3K27 ) , and PRC1 then recognizes methyl-H3K27 to form repressive chromatin .</sentence>
+<sentence id="3">However , it remains <scope type="spec" id="0"> <cue type="spec" id="0">unknown</cue> how PcG proteins maintain stable and plastic chromatin during cell division</scope> .</sentence>
+<sentence id="4">Here we report that PcG-associated chromatin is reproduced in the G(1) phase in post-mitotic cells and is required for subsequent S phase progression .</sentence>
+<sentence id="5">In dividing cells , H3K27 trimethylation ( H3K27Me(3) ) marked mitotic chromosome arms where PRC2 ( Suz12 and Ezh2 ) co-existed , whereas PRC1 ( Bmi1 and Pc2 ) appeared in distinct foci in the pericentromeric regions .</sentence>
+<sentence id="6">As each PRC complex was increasingly assembled from mitosis to G(1) phase , PRC1 formed H3K27Me(3)-based chromatin intensively during middle and late G(1) phase ; this chromatin was highly resistant to in situ nuclease treatment .</sentence>
+<sentence id="7">Thus , the transition from mitosis to G(1) phase is crucial for PcG-mediated chromatin inheritance .</sentence>
+<sentence id="8">Knockdown of Suz12 markedly reduced the amount of H3K27Me(3) on mitotic chromosomes , and as a consequence , <scope type="neg" id="1">PRC1 foci were <cue type="neg" id="1">not</cue> fully transmitted to post-mitotic daughter cells</scope> .</sentence>
+<sentence id="9">S phase progression was markedly delayed in these Suz12-knockdown cells .</sentence>
+<sentence id="10">The fact that PcG-associated chromatin is reproduced during post-mitotic G(1) phase <scope type="spec" id="2"> <cue type="spec" id="2">suggests</cue> the <scope type="spec" id="3"> <cue type="spec" id="3">possibility</cue> that PcG proteins enable their target chromatin to be remodeled in response to stimuli in the G(1) phase</scope></scope> .</sentence>

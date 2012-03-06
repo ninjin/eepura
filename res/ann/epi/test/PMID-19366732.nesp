@@ -1,0 +1,11 @@
+<sentence id="0">Impairment of ubiquitylation by mutation in Drosophila E1 promotes both cell-autonomous and non-cell-autonomous Ras-ERK activation in vivo .</sentence>
+<sentence id="1">Ras signaling can promote proliferation , cell survival and differentiation .</sentence>
+<sentence id="2">Mutations in components of the Ras pathway are found in many solid tumors and are associated with developmental disorders .</sentence>
+<sentence id="3">We demonstrate here that Drosophila tissues containing hypomorphic mutations in E1 , the most upstream enzyme in the ubiquitin pathway , display cell-autonomous upregulation of Ras-ERK activity and Ras-dependent ectopic proliferation .</sentence>
+<sentence id="4">Ubiquitylation is widely accepted to regulate receptor tyrosine kinase ( RTK ) endocytosis upstream of Ras .</sentence>
+<sentence id="5">However , although the ectopic proliferation of E1 hypomorphs is dramatically suppressed by removing one copy of Ras , removal of the more upstream components Egfr , Grb2 or sos shows <scope type="neg" id="0"><cue type="neg" id="0">no</cue> suppression</scope> .</sentence>
+<sentence id="6">Thus , decreased ubiquitylation <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> lead to growth-relevant Ras-ERK activation by <scope type="neg" id="1"><cue type="neg" id="1">failing</cue> to regulate a step downstream of RTK endocytosis</scope></scope> .</sentence>
+<sentence id="7">We further demonstrate that Drosophila Ras is ubiquitylated .</sentence>
+<sentence id="8">Our findings <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> that Ras ubiquitylation restricts growth and proliferation in vivo</scope> .</sentence>
+<sentence id="9">We also report our intriguing observation that complete inactivation of E1 causes non-autonomous activation of Ras-ERK in adjacent tissue , mimicking oncogenic Ras overexpression .</sentence>
+<sentence id="10">We demonstrate that maintaining sufficient E1 function is required both cell autonomously and non-cell autonomously to prevent inappropriate Ras-ERK-dependent growth and proliferation in vivo and <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> implicate loss of Ras ubiquitylation in developmental disorders and cancer</scope> .</sentence>

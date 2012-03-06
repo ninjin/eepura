@@ -1,0 +1,10 @@
+<sentence id="0">A novel interaction of outer membrane protein A with C4b binding protein mediates serum resistance of Escherichia coli K1 .</sentence>
+<sentence id="1">Escherichia coli is an important pathogen that causes meningitis in neonates .</sentence>
+<sentence id="2">The development of bacteremia preceding the traversal across the blood-brain barrier is a prerequisite for this pathogen that obviously must survive the bactericidal activity of serum .</sentence>
+<sentence id="3">Here we report that outer membrane protein A ( OmpA ) of Escherichia coli contributes to serum resistance by binding to C4b binding protein ( C4bp ) , a complement fluid phase regulator .</sentence>
+<sentence id="4">C4bp contains seven identical alpha-chains and one beta-chain linked together with disulfide bridges .</sentence>
+<sentence id="5">We found that OmpA binds the alpha-chain of C4bp , which is composed of eight homologous complement control protein ( CCP ) modules .</sentence>
+<sentence id="6">Binding studies using mutants of recombinant C4bp that <scope type="neg" id="0"><cue type="neg" id="0">lack</cue> one CCP at a time</scope> <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> that CCP3 is the major site of interaction with OmpA</scope> .</sentence>
+<sentence id="7">Furthermore , we demonstrate that the N terminus of OmpA interacts with C4bp .</sentence>
+<sentence id="8">Binding of C4bp to OmpA is not significantly inhibited in the presence of either C4b or heparin and is <scope type="neg" id="2"><cue type="neg" id="2">not</cue> salt sensitive</scope> , <scope type="spec" id="3"> <cue type="spec" id="3">implying</cue> that it is hydrophobic in nature</scope> , <scope type="spec" id="4"> <cue type="spec" id="4">suggesting</cue> a novel interaction between OmpA and C4bp</scope> .</sentence>
+<sentence id="9">A compelling observation in this study is that synthetic peptides corresponding to CCP3 sequences block the binding of C4bp to OmpA and also significantly enhance serum bactericidal activity .</sentence>

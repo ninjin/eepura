@@ -1,0 +1,10 @@
+<sentence id="0">Activation of mitochondrial pathway is crucial for tumor selective induction of apoptosis by LAQ824 .</sentence>
+<sentence id="1">HDAC inhibitors are promising antitumor drugs with several HDAC inhibitors already in clinical trials .</sentence>
+<sentence id="2">LAQ824 , a potent pan-HDAC inhibitor , has been shown to induce cell cycle arrest and cell death .</sentence>
+<sentence id="3">However , the mechanism of its antitumor effects and specially its tumor selectivity are still poorly understood .</sentence>
+<sentence id="4">The focus of this study is to elucidate LAQ824 mediated anti-proliferative effects in lung carcinoma cells and the mechanism underlying the different sensitivity of LAQ824 to cancer and normal cells .</sentence>
+<sentence id="5">In this study , LAQ824 mediated apoptosis was found to occur mainly via activation of the mitochondrial death pathway by inducing Apaf1 and caspase 9 and promoting mitochondrial release of key proapoptotic factors in lung cancer cells , but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> in normal fibroblast cells</scope> .</sentence>
+<sentence id="6">Using chromatin immunoprecipitation assay , we found that RNA Pol II binding and histone H3 acetylation levels at Apaf1 promoter were increased following LAQ824 treatment , explaining LAQ824 induced expression of Apaf1 in lung cancer cells .</sentence>
+<sentence id="7">Furthermore , we showed that LAQ824 only triggered the release of mitochondrial proapoptotic factors such as cytochrome C ( Cyto C ) and apoptosis inducing factor ( AIF ) in lung cancer cells but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> in normal blast cells</scope> .</sentence>
+<sentence id="8">In addition , LAQ824 was found to induce Bax translocation in lung cancer cell , which <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> play important role in the induction of the release of mitochondrial proapoptotic factors</scope> .</sentence>
+<sentence id="9">These data provide insight into the mechanism underlying the selective induction of apoptosis by LAQ824 in cancer cells .</sentence>

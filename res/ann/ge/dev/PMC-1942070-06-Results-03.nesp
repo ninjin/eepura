@@ -1,0 +1,32 @@
+<sentence id="0">Antigen receptor regulated signalling pathways in PKD-null DT40 B cells</sentence>
+<sentence id="1">To further explore the contribution of PKD kinases to DT40 B cell biology we investigated <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> specific BCR-regulated signalling events were defective in the PKD-null B cells</scope> .</sentence>
+<sentence id="2">Initial experiments revealed that surface expression of the BCR was reduced in PKD1/3==-==/==- = = ( and in PKD1/3==-==/==-==:Flag-PKD3+ve ) cells compared to wild-type DT40 B cells ( Fig .</sentence>
+<sentence id="3">3A and data <scope type="neg" id="1"><cue type="neg" id="1">not</cue> shown )</scope> .</sentence>
+<sentence id="4">Nevertheless , BCR-crosslinking of PKD1/3==-==/==- = = cells was sufficient to induce the activation of a number of signalling cascades , similar to that observed in wild-type cells ( Fig .</sentence>
+<sentence id="5">3B ) .</sentence>
+<sentence id="6">Hence , BCR-induced activation of the Akt , mTOR/p70 S6 kinase ( as shown by S6 ribosomal protein phosphorylation ) and MAPK signalling pathways was clearly detectable in PKD1/3-null B cells ( Fig .</sentence>
+<sentence id="7">3B ) .</sentence>
+<sentence id="8">Furthermore , enhanced tyrosine phosphorylation of multiple cellular proteins as well as an increase in intracellular calcium levels was also observed following BCR stimulation of PKD1/3-null B cells <scope type="neg" id="2">( data <cue type="neg" id="2">not</cue> shown )</scope> .</sentence>
+<sentence id="9">We did observe that the strength of BCR ( but <scope type="neg" id="3"><cue type="neg" id="3">not</cue> phorbol ester ) -induced regulation of the Erk1-RSK1 signalling pathway was reduced in PKD1/3==-==/==- = = B cells compared to wild-type B cells ( Fig</scope> .</sentence>
+<sentence id="10">3B ) .</sentence>
+<sentence id="11">One interpretation of this data is that PKD enzymes <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> modulate Erk activation</scope> .</sentence>
+<sentence id="12">Indeed , PKD enzymes have previously been linked to the growth factor-regulated Erk signalling in fibroblast and endothelial cell lines [ 33==-==35 ] .</sentence>
+<sentence id="13">However , BCR-induced Erk phosphorylation was also reduced in PKD1/3==-==/==-==-Flag-PKD3+ B cells <scope type="neg" id="5">( data <cue type="neg" id="5">not</cue> shown</scope> ) <scope type="spec" id="6"> <cue type="spec" id="6">suggesting</cue> that reduced BCR levels on the surface of PKD1/3==-==/==- = = ( and PKD1/3==-==/==-==-Flag-PKD3+ ) B cells <scope type="spec" id="7"> <cue type="spec" id="7">may</cue> itself impact on the strength of activation of this specific intracellular signalling pathway</scope></scope> .</sentence>
+<sentence id="14">To search for other potential PKD targets that <scope type="spec" id="8"> <cue type="spec" id="8">may</cue> show defective regulation in PKD1/3==-==/==- = = DT40 B cells</scope> , we used a PKD substrate phospho-antibody that recognises consensus phosphorylation sequences targeted by PKD enzymes ( LxRxxpS/T ) [ 36 ] .</sentence>
+<sentence id="15">As shown in Fig .</sentence>
+<sentence id="16">3C , phorbol ester- and BCR-induced phosphorylation of cellular substrates detected by this phospho-antibody was similar in wild-type and PKD1/3==-==/==- = = cells and is therefore independent of PKD enzymes .</sentence>
+<sentence id="17">However , pretreatment of both wild-type and PKD1/3==-==/==- = = DT40 B cells with GF109203X , a bisindoylmaleimide derivative that inhibits PKCs prevented the induction of proteins that contain phosphorylated LxRxxS/T motifs .</sentence>
+<sentence id="18">Thus loss of PKD1/3 enzymes does <scope type="neg" id="9"><cue type="neg" id="9">not</cue> globally disrupt the phosphorylation of cellular proteins that contain LxRxxpS/T motifs</scope> .</sentence>
+<sentence id="19">This result is <scope type="spec" id="11"> <cue type="spec" id="11">perhaps</cue> <scope type="neg" id="10"><cue type="neg" id="10">not</cue> surprising</scope></scope> as LxRxxS/T motifs also act as good substrates for other serine/threonine kinases such as MAPKAPK2 .</sentence>
+<sentence id="20">However these experiments do provide further evidence that phosphospecific antisera are <scope type="neg" id="12"><cue type="neg" id="12">not</cue> sufficiently selective to be designated kinase specific substrate antisera</scope> .</sentence>
+<sentence id="21">BCR-induced signalling pathways culminate in the activation of gene transcription events that control B cell survival , proliferation and function .</sentence>
+<sentence id="22">In this context , it has been proposed that PKD family members control of gene transcription through activation of the NF==kappa==B transcription factor .</sentence>
+<sentence id="23">Thus , PKD-mediated activation of NF==kappa==B occurs downstream of a variety of different signals , including mROS/oxidative stress , lysophosphatidic acid and the Bcr-Abl oncogene [ 17,21,23,30,37 ] .</sentence>
+<sentence id="24">Furthermore , expression of an activated PKD1 mutant enhances HPK1-mediated NF==kappa==B activation [ 38 ] .</sentence>
+<sentence id="25">In B cells , NF==kappa==B is known to be regulated via DAG and PKC==beta = = [ 39,40 ] but <scope type="spec" id="14"> <cue type="spec" id="14">whether</cue> PKDs are key intermediaries for NF==kappa==B regulation</scope> has <scope type="neg" id="13"><cue type="neg" id="13">not</cue> been explored</scope> .</sentence>
+<sentence id="26">The data ( Fig .</sentence>
+<sentence id="27">4A ) show that NF==kappa==B transcriptional activity was strongly induced in both wild-type and PKD1/3==-==/==- = = DT40 B cells in response to either phorbol ester or BCR stimulation .</sentence>
+<sentence id="28">In contrast , BCR and phorbol ester-induced NF==kappa==B transcriptional activity was abolished in PKC==beta====-==/==- = = DT40 B cells ( Fig .</sentence>
+<sentence id="29">4A ) , although strong activation of PKD kinases ( as assessed by autophosphorylation of PKD1 at S916 ) was observed in the PKC==beta====-==/==- = = cells ( Fig .</sentence>
+<sentence id="30">4B ) .</sentence>
+<sentence id="31">Thus , PKD kinases are neither essential <scope type="neg" id="15"><cue type="neg" id="15">nor</cue> sufficient to mediate BCR-induced NF==kappa==B activation in DT40 B cells</scope> and hence do <scope type="neg" id="16"><cue type="neg" id="16">not</cue> participate in DAG/PKC mediated control of NF==kappa==B</scope> .</sentence>

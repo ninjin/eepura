@@ -1,0 +1,14 @@
+<sentence id="0">Interactions between the quality control ubiquitin ligase CHIP and ubiquitin conjugating enzymes .</sentence>
+<sentence id="1">BACKGROUND : Ubiquitin ( E3 ) ligases interact with specific ubiquitin conjugating ( E2 ) enzymes to ubiquitinate particular substrate proteins .</sentence>
+<sentence id="2">As the combination of E2 and E3 dictates the type and biological consequence of ubiquitination , it is important to understand the basis of specificity in E2:E3 interactions .</sentence>
+<sentence id="3">The E3 ligase CHIP interacts with Hsp70 and Hsp90 and ubiquitinates client proteins that are chaperoned by these heat shock proteins .</sentence>
+<sentence id="4">CHIP interacts with two types of E2 enzymes , UbcH5 and Ubc13-Uev1a .</sentence>
+<sentence id="5">It is <scope type="spec" id="1"> <cue type="spec" id="1">unclear</cue> , however , why CHIP binds these E2 enzymes <scope type="neg" id="0"><cue type="neg" id="0">rather than</cue> others</scope> , and <scope type="spec" id="2"> <cue type="spec" id="2">whether</cue> CHIP interacts preferentially with UbcH5 or Ubc13-Uev1a , which form different types of polyubiquitin chains</scope></scope> .</sentence>
+<sentence id="6">RESULTS : The 2.9 A crystal structure of the CHIP U-box domain complexed with UbcH5a shows that CHIP binds to UbcH5 and Ubc13 through similar specificity determinants , including a key S-P-A motif on the E2 enzymes .</sentence>
+<sentence id="7">The determinants make different relative contributions to the overall interactions between CHIP and the two E2 enzymes .</sentence>
+<sentence id="8">CHIP undergoes auto-ubiquitination by UbcH5 but <scope type="neg" id="3"><cue type="neg" id="3">not</cue> by Ubc13-Uev1a</scope> .</sentence>
+<sentence id="9">Instead , CHIP drives the formation of unanchored polyubiquitin by Ubc13-Uev1a .</sentence>
+<sentence id="10">CHIP also interacts productively with the class III E2 enzyme Ube2e2 , in which the UbcH5- and Ubc13-binding specificity determinants are highly conserved .</sentence>
+<sentence id="11">CONCLUSION : The CHIP:UbcH5a structure emphasizes the importance of specificity determinants located on the long loops and central helix of the CHIP U-box , and on the N-terminal helix and loops L4 and L7 of its cognate E2 enzymes .</sentence>
+<sentence id="12">The S-P-A motif and other specificity determinants define the set of cognate E2 enzymes for CHIP , which <scope type="spec" id="4"> <cue type="spec" id="4">likely</cue> includes several Class III E2 enzymes</scope> .</sentence>
+<sentence id="13">CHIP 's interactions with UbcH5 , Ube2e2 and Ubc13-Uev1a are consistent with the notion that Ubc13-Uev1a <scope type="spec" id="5"> <cue type="spec" id="5">may</cue> work sequentially with other E2 enzymes to carry out K63-linked polyubiquitination of CHIP substrates</scope> .</sentence>

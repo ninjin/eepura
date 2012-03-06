@@ -1,0 +1,10 @@
+<sentence id="0">Deubiquitylation regulates activation and proteolytic cleavage of ENaC .</sentence>
+<sentence id="1">The epithelial sodium channel ( ENaC ) is critical for sodium and BP homeostasis .</sentence>
+<sentence id="2">ENaC is regulated by Nedd4-2-mediated ubiquitylation , which leads to its internalization ; this process can be reversed by deubiquitylation , which is regulated by the aldosterone-induced enzyme Usp2-45 .</sentence>
+<sentence id="3"><scope type="spec" id="0"> <cue type="spec" id="0">In</cue> a second regulatory pathway</scope> , ENaC can be activated by luminal serine protease-mediated cleavage of its extracellular loops .</sentence>
+<sentence id="4">Whether these two regulatory processes interact , however , is unknown .</sentence>
+<sentence id="5">Here , in HEK293 cells stably transfected with ENaC , Usp2-45 interacted with ENaC , leading to deubiquitylation of the channel and stimulation of ENaC activity > 20-fold .</sentence>
+<sentence id="6">This was accompanied by a modest increase in cell surface expression of ENaC and by proteolytic cleavage of alphaENaC and gammaENaC at their extracellular loops .</sentence>
+<sentence id="7">When endocytosis was inhibited with dominant negative dynamin ( DynK44R ) , channel density and gammaENaC cleavage were increased , but alphaENaC cleavage and ENaC activity were <scope type="neg" id="1"><cue type="neg" id="1">not</cue> augmented</scope> .</sentence>
+<sentence id="8">When Usp2-45 was coexpressed with DynK44R , both alphaENaC cleavage and activity were recovered .</sentence>
+<sentence id="9">In summary , these data <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> that Usp2-45 deubiquitylation of ENaC enhances the proteolytic activation of both alphaENaC and gammaENaC , <scope type="spec" id="3"> <cue type="spec" id="3">possibly</cue> by inducing a conformational change and</scope> by interfering with endocytosis , respectively</scope> .</sentence>

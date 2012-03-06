@@ -1,0 +1,11 @@
+<sentence id="0">Pam ( Protein associated with Myc ) functions as an E3 ubiquitin ligase and regulates TSC/mTOR signaling .</sentence>
+<sentence id="1">The tumor suppressor tuberin , encoded by the Tuberous Sclerosis Complex ( TSC ) gene TSC2 , negatively regulates the mammalian target of rapamycin ( mTOR ) pathway , which plays a key role in the control of cell growth and proliferation .</sentence>
+<sentence id="2">In addition to naturally occurring mutations , several kinases including Akt , RSK1 , and ERK are known to phosphorylate and inactivate tuberin .</sentence>
+<sentence id="3">We demonstrate a novel mechanism of tuberin inactivation through ubiquitination by Pam , a <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> RING finger-containing E3 ubiquitin ( Ub ) ligase in mammalian cells</scope> .</sentence>
+<sentence id="4">We show that Pam associates with E2 ubiquitin-conjugating enzymes , and tuberin can be ubiquitinated by Pam through its RING finger domain .</sentence>
+<sentence id="5">Tuberin ubiquitination is independent of its phosphorylation by Akt , RSK1 , and ERK kinases .</sentence>
+<sentence id="6">Pam is also self-ubiquitinated through its RING finger domain .</sentence>
+<sentence id="7">Moreover , the TSC1 protein hamartin , which forms a heterodimer with tuberin , protects tuberin from ubiquitination by Pam .</sentence>
+<sentence id="8">However , TSC1 <scope type="neg" id="1"><cue type="neg" id="1">fails</cue> to protect a disease-associated missense mutant of TSC2 from ubiquitination by Pam</scope> .</sentence>
+<sentence id="9">Furthermore , Pam knockdown by RNA interference ( RNAi ) in rat primary neurons elevates the level of tuberin , and subsequently inhibits the mTOR pathway .</sentence>
+<sentence id="10">Our results provide novel evidence that Pam can function as an E3 Ub ligase toward tuberin and regulate mTOR signaling , <scope type="spec" id="2"> <cue type="spec" id="2">suggesting</cue> that Pam can in turn regulate cell growth and proliferation as well as neuronal function through the TSC/mTOR pathway in mammalian cells</scope> .</sentence>

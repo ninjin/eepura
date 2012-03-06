@@ -1,0 +1,33 @@
+<sentence id="0">Introduction</sentence>
+<sentence id="1">Host-pathogen interactions are complex relationships in which the success of each organism depends on its ability to overcome the other .</sentence>
+<sentence id="2">Consequently , hosts have evolved surveillance and defense mechanisms to detect and eliminate invading microorganisms , whereas pathogens use sophisticated strategies to counteract such responses .</sentence>
+<sentence id="3">In recent years , Drosophila has emerged as a powerful model for the study of host-pathogen interactions [ 1,2 ] .</sentence>
+<sentence id="4">An attractive feature of the Drosophila system is the existence of multiple defense reactions that are shared with higher organisms [ 3-5 ] .</sentence>
+<sentence id="5">These strategies include physical barriers , together with the local and systemic immune responses .</sentence>
+<sentence id="6">Several tissues participate in a coordinated defense against microbial infection .</sentence>
+<sentence id="7">Firstly , epithelia , such as alimentary tract and tracheae , are the first line of defense against pathogens and produce both antimicrobial peptides ( AMPs ) and reactive oxygen species .</sentence>
+<sentence id="8">Secondly , specialized hemocytes participate in phagocytosis and encapsulation of foreign intruders .</sentence>
+<sentence id="9">Finally , the fat body , a functional equivalent of the mammalian liver , is the site of the humoral response .</sentence>
+<sentence id="10">Several genetic studies have demonstrated the regulation of AMP synthesis by the Toll and immune-deficient ( Imd ) pathways .</sentence>
+<sentence id="11">The Toll pathway is mainly activated by Gram-positive bacteria and fungi , and controls , to a large extent , the expression of AMPs ( e.g. , Drosomycin ) through the nuclear factor-kappaB transactivators Dif and Dorsal .</sentence>
+<sentence id="12">In contrast , the Imd pathway mainly responds to Gram-negative bacterial infections and controls different AMP genes ( e.g. , Diptericin ) via the activation of the nuclear factor-kappaB transactivator Relish ( Rel ) [ 3,4,6 ] .</sentence>
+<sentence id="13">In addition , the Imd pathway plays a predominant role in the regulation of AMPs in the alimentary tract and tracheal epithelia [ 7 ] .</sentence>
+<sentence id="14">Our knowledge of the Drosophila immune response is mainly based on the analysis of host reactions following direct injection of non-pathogenic bacteria into the insect hemocoel .</sentence>
+<sentence id="15">One limitation associated with this approach is that it bypasses the initial steps of naturally occurring infections , including bacterial colonization and persistence and host local immune responses .</sentence>
+<sentence id="16">Septic injury is <scope type="spec" id="0"> <cue type="spec" id="0">probably</cue> of little consequence in nature , unlike oral infection upon ingestion</scope> .</sentence>
+<sentence id="17">In addition , the response to non-pathogenic microorganisms does not necessarily reflect a natural host reaction to a real pathogen .</sentence>
+<sentence id="18">Recently we have developed the use of natural oral infection to dissect host responses of Drosophila after challenge with bacteria demonstrated to be infectious for this insect .</sentence>
+<sentence id="19">We have isolated several Erwinia carotovora strains , such as Ecc15 , for their capacity to persist in the Drosophila larval gut and to trigger a strong systemic immune response following oral infection [ 8 ] .</sentence>
+<sentence id="20">Although not a pathogen to Drosophila , use of Ecc15 has been pivotal in revealing the ability of Drosophila to activate an adapted response to persistent microorganisms in the gut , including the induction of local immune responses .</sentence>
+<sentence id="21">More recently , we isolated Pseudomonas entomophila , a Gram-negative natural bacterial pathogen of Drosophila , from flies in Guadeloupe [ 9 ] .</sentence>
+<sentence id="22">We demonstrated that P. entomophila induces both systemic and local immune responses in Drosophila and causes a food-uptake cessation following oral infection in larvae .</sentence>
+<sentence id="23">Importantly , in contrast to Ecc15 , P. entomophila is highly pathogenic for Drosophila as well as for species from a different insect order ( Lepidoptera ) .</sentence>
+<sentence id="24">The genome sequence of P. entomophila has been completed and reveals the existence of a large set of genes encoding <scope type="spec" id="1"> <cue type="spec" id="1">putative</cue> virulence factors such as proteases , lipases , toxins , alginate synthesis , and adhesion factors [ 10</scope> ] .</sentence>
+<sentence id="25">Transposon mutagenesis of P. entomophila allowed us to identify several regulatory genes required to infect or to kill Drosophila .</sentence>
+<sentence id="26">Among them we identified the GacS/GacA two-component regulatory system which , in Pseudomonas fluorescens , has been well characterized and demonstrated to be an essential regulator of virulence [ 11 ] .</sentence>
+<sentence id="27">P. entomophila gacA mutants are non-pathogenic and <scope type="neg" id="2"><cue type="neg" id="2">fail</cue> to trigger a systemic immune response after ingestion</scope> , <scope type="spec" id="3"> <cue type="spec" id="3">indicating that</cue> the GacS/GacA two-component system regulates important bacterial virulence effectors required to infect and kill flies [ 9</scope> ] .</sentence>
+<sentence id="28">Despite these studies , little is known about the mechanisms used by bacterial pathogens to interfere with the corresponding insect host defenses .</sentence>
+<sentence id="29">Here we report an in vivo analysis of P. entomophila virulence to both Drosophila larvae and adult flies following natural oral infection .</sentence>
+<sentence id="30">We present in vivo evidence for a direct role in pathogenesis of the secreted P. entomophila zinc metalloprotease , AprA , which counteracts AMPs synthesized by the host .</sentence>
+<sentence id="31">Furthermore , we demonstrate that the Drosophila Imd-regulated local gut response is necessary to combat infection and that P. entomophila AprA-regulation via GacS/GacA and PrtR regulators is used as a strategy to escape AMP activity .</sentence>
+<sentence id="32">This study also highlights the importance of the gut immune response in the control of food-borne pathogens .</sentence>

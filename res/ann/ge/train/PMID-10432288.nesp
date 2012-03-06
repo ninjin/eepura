@@ -1,0 +1,12 @@
+<sentence id="0">Bcl-2-mediated drug resistance : inhibition of apoptosis by blocking nuclear factor of activated T lymphocytes (NFAT)-induced Fas ligand transcription .</sentence>
+<sentence id="1">Bcl-2 inhibits apoptosis induced by a variety of stimuli , including chemotherapy drugs and glucocorticoids .</sentence>
+<sentence id="2">It is generally accepted that Bcl-2 exerts its antiapoptotic effects mainly by dimerizing with proapoptotic members of the Bcl-2 family such as Bax and Bad .</sentence>
+<sentence id="3">However , <scope type="spec" id="0"> the mechanism of the antiapoptotic effects is <cue type="spec" id="0">unclear</cue></scope> .</sentence>
+<sentence id="4">Paclitaxel and other drugs that disturb microtubule dynamics kill cells in a Fas/Fas ligand (FasL)-dependent manner ; antibody to FasL inhibits paclitaxel-induced apoptosis .</sentence>
+<sentence id="5">We have found that Bcl-2 overexpression leads to the prevention of chemotherapy (paclitaxel)-induced expression of FasL and blocks paclitaxel-induced apoptosis .</sentence>
+<sentence id="6"><scope type="neg" id="1"><cue type="neg" id="1">The</cue> mechanism of this effect is that Bcl-2 prevents the nuclear translocation of NFAT ( nuclear factor of activated T lymphocytes , a transcription factor activated by microtubule damage ) by binding and sequestering calcineurin , a calcium-dependent phosphatase that must dephosphorylate NFAT to move to the nucleus</scope> .</sentence>
+<sentence id="7"><scope type="neg" id="2"><cue type="neg" id="2">Without</cue> NFAT nuclear translocation</scope> , <scope type="neg" id="3">the FasL gene is <cue type="neg" id="3">not</cue> transcribed</scope> .</sentence>
+<sentence id="8">Thus , it <scope type="spec" id="4"> <cue type="spec" id="4">appears</cue> that paclitaxel and other drugs that disturb microtubule function kill cells at least in part through the induction of FasL</scope> .</sentence>
+<sentence id="9">Furthermore , Bcl-2 antagonizes drug-induced apoptosis by inhibiting calcineurin activation , blocking NFAT nuclear translocation , and preventing FasL expression .</sentence>
+<sentence id="10">The effects of Bcl-2 can be overcome , at least partially , through phosphorylation of Bcl-2 .</sentence>
+<sentence id="11">Phosphorylated Bcl-2 cannot bind calcineurin , and NFAT activation , FasL expression , and apoptosis <scope type="spec" id="5"> <cue type="spec" id="5">can</cue> occur after Bcl-2 phosphorylation</scope> .</sentence>

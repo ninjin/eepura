@@ -1,0 +1,10 @@
+<sentence id="0">SsrB can complement other regulators of SPI-2 transcription</sentence>
+<sentence id="1">SsrB binds within SPI-2 and activates SPI-2 genes for transcription .</sentence>
+<sentence id="2">However the location of binding sites varies <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> that SsrB regulation is unusual [ 52</scope> ] .</sentence>
+<sentence id="3">Some of the 14 regulators in this study have been previously shown to directly regulate ssrA/ssrB ; OmpR binding to PssrA/ssrB [ 60 ] , [ 61 ] ; SlyA binding to PssrA [ 62 ] ; PhoP binding to PssrB [ 45 ] .</sentence>
+<sentence id="4">To distinguish direct from indirect effects , we carried out epistasis experiments and determined <scope type="spec" id="1"> <cue type="spec" id="1">if</cue> ssrB expression could suppress the phenotype of the other regulators of SPI-2 expression</scope> .</sentence>
+<sentence id="5">Each isogenic derivative was transformed with either pBAD30SsrB or the empty vector control .</sentence>
+<sentence id="6">We investigated the same seven SPI-2 genes as in the qRT-PCR assays above , and results are shown in Figure 7A [ 52 ] .</sentence>
+<sentence id="7">Expression of an episomal copy of ssrB resulted in expression of SPI-2 genes in each mutant background , <scope type="spec" id="2"> <cue type="spec" id="2">suggesting</cue> that SsrB is epistatic to other regulators for SPI-2 transcription</scope> .</sentence>
+<sentence id="8">This result is in agreement with the model shown in Figure 6 where all positive regulation takes place via either ssrB or slyA or both as tested further below .</sentence>
+<sentence id="9">Furthermore , SsrB could complement all three deletions DeltassrB , DeltassrA , and DeltassrA/ssrB ( Figure 7B ) , <scope type="spec" id="3"> <cue type="spec" id="3">suggesting</cue> that over-expression of SsrB <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> compensate for differences in phosphorylation that normally play a role in regulation [ 52</scope></scope> ] .</sentence>

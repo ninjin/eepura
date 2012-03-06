@@ -1,0 +1,25 @@
+<sentence id="0">DISCUSSION</sentence>
+<sentence id="1">In this study we describe that SeMac is a cysteine endopeptidase with limited activity against horse IgG and is <scope type="neg" id="0"><cue type="neg" id="0">unable</cue> to inhibit opsonophagocytosis of S. equi by horse PMNs in a whole blood assay</scope> .</sentence>
+<sentence id="2">SeMac efficiently cleaves the heavy chain of human IgG .</sentence>
+<sentence id="3">The residues of Cys102 and His272 are essential and Asp294 important for the enzymatic activity of SeMac .</sentence>
+<sentence id="4">Thus , like GAS M1 Mac [ 7,8 ] , SeMac is a cysteine endopeptidase .</sentence>
+<sentence id="5">Although both SeMac and GAS Mac efficiently cleave human IgG , they cannot cleave the majority of total horse IgG .</sentence>
+<sentence id="6">The peptide fragment , PELLGG , in the lower hinge region is <scope type="spec" id="1"> <cue type="spec" id="1">proposed</cue> to bind to the active site of Mac [ 9 ] , and the cleavage occurs between the two Gly residues ( Table 1 )</scope> .</sentence>
+<sentence id="7">This lower hinge region is not well conserved in the seven subgroups of horse IgG [ 17 ] ( Table 1 ) .</sentence>
+<sentence id="8">Cleavable horse IgG1 has PELLGG , while the non-cleavable horse IgG4 has PECLSVG in the same region , <scope type="spec" id="2"> <cue type="spec" id="2">suggesting</cue> that the amino acid sequences of the lower hinge region are important for cleavability by SeMac and GAS Mac</scope> .</sentence>
+<sentence id="9">If this is true , horse IgG3 <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> be also cleavable by SeMac</scope> , while <scope type="spec" id="5"> the other five horse IgG subgroups <cue type="spec" id="5">may</cue> <scope type="neg" id="3"><cue type="neg" id="3">not</cue> be cleaved</scope></scope> .</sentence>
+<sentence id="10">These horse IgG antibodies that cannot be cleaved by SeMac thus still can mediate the opsonophagocytosis of S. equi .</sentence>
+<sentence id="11">SeMac and GAS M1 Mac show similar enzymatic specificity ( Fig .</sentence>
+<sentence id="12">4 and Table 1 ) , confirming the previous finding [ 18 ] .</sentence>
+<sentence id="13">SeMac can cleave human IgG and inhibit the opsonophagocytosis of GAS by human PMNs , but it has limited enzymatic activity against horse IgG and is <scope type="neg" id="6"><cue type="neg" id="6">unable</cue> to inhibit opsonophagocytosis of S. equi by horse PMNs</scope> .</sentence>
+<sentence id="14">Thus , there is a correlation between the enzymatic activity of SeMac and its ability to inhibit opsonophagocytosis , <scope type="spec" id="7"> <cue type="spec" id="7">suggesting</cue> that SeMac functions like GAS M1 Mac in the inhibition of opsonophagocytosis of GAS by human PMNs</scope> .</sentence>
+<sentence id="15">Timoney et al. recently reported that IdeE/SeMac reduces the bactericidal activity of isolated equine PMNs for S. equi [ 19 ] .</sentence>
+<sentence id="16">Our results <scope type="spec" id="9"> <cue type="spec" id="9">suggest</cue> that <scope type="spec" id="10"> the inhibition of the bactericidal activity of PMNs <cue type="spec" id="10">may</cue> <scope type="neg" id="8"><cue type="neg" id="8">not</cue> be mediated by opsonophagocytosis</scope></scope></scope> or <scope type="spec" id="11"> <cue type="spec" id="11">may</cue> be insignificant in whole blood</scope> .</sentence>
+<sentence id="17">SeMac is <scope type="neg" id="12"><cue type="neg" id="12">not</cue> produced in vitro</scope> , whereas GAS Mac is [ 16 ] .</sentence>
+<sentence id="18">The mac gene is controlled by the two-component regulatory system CovRS [ 5 ] , which also controls the expression of many virulence factors including the hyaluronic capsule [ 20 ] .</sentence>
+<sentence id="19">The hyaluronic capsule of S. equi is highly produced in vitro .</sentence>
+<sentence id="20">These observations <scope type="spec" id="13"> <cue type="spec" id="13">suggest</cue> that the semac and mac genes are regulated by different mechanisms</scope> .</sentence>
+<sentence id="21"><scope type="spec" id="15"> This <scope type="spec" id="14"> <cue type="spec" id="14">suggestion</cue> is <cue type="spec" id="15">supported</cue> by only 29 % DNA sequence identity between S. equi and M1 GAS in the upstream region of the semac and mac genes</scope></scope> .</sentence>
+<sentence id="22">S. equi is a horse pathogen .</sentence>
+<sentence id="23">The fact that SeMac does <scope type="neg" id="16"><cue type="neg" id="16">not</cue> inhibit opsonophagocytosis of S. equi by horse PMNs</scope> <scope type="spec" id="18"> <cue type="spec" id="18">indicates that</cue> SeMac is <scope type="neg" id="17"><cue type="neg" id="17">not</cue> involved in the evasion of the acquired horse immunity against S. equi</scope></scope> .</sentence>
+<sentence id="24">This <scope type="spec" id="19"> <cue type="spec" id="19">suggests</cue> that SeMac has other <scope type="spec" id="20"> <cue type="spec" id="20">unknown</cue> function</scope></scope> .</sentence>

@@ -1,0 +1,11 @@
+<sentence id="0">A negative regulatory region containing a glucocorticosteroid response element ( nGRE ) in the human interleukin-1beta gene .</sentence>
+<sentence id="1">Interleukin-1 beta ( IL-1beta ) is one of the most important inflammatory mediators in human inflammatory and immunological diseases .</sentence>
+<sentence id="2">The regulation of human IL-1beta gene expression has been studied for several years , and a few regulatory elements have been discovered in the promoter region .</sentence>
+<sentence id="3">However , little is known about negative regulation of IL-1beta expression at the transcriptional level , which <scope type="spec" id="0"> <cue type="spec" id="0">may</cue> play an important role in anti-inflammatory and immunosuppressive effects</scope> .</sentence>
+<sentence id="4">We have identified a negative regulatory element located in the region between -685 and -395 .</sentence>
+<sentence id="5">Within this region , a 19-bp nuclear factor binding site ( -570 to -552 ) was characterized by DNase I footprinting and electromobility shift assay .</sentence>
+<sentence id="6">A consensus sequence for a negative glucocorticoid response element ( nGRE ) and a transcription activator protein-2 binding site were noted within this footprint .</sentence>
+<sentence id="7">Functional studies showed a 2.5-fold increase in promoter activity when this 19-bp binding site was deleted in the reporter constructs IL-1beta/CAT and IL-1beta/SV40 promoter/CAT .</sentence>
+<sentence id="8">Dexamethasone ( 10(-8) M ) repressed chloramphenicol acetyltransferase ( CAT ) production by 75 % in the wild-type fragment but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> in a deletion mutant <scope type="neg" id="2"><cue type="neg" id="2">lacking</cue> the 19-bp site</scope></scope> .</sentence>
+<sentence id="9">A protein of about 150 kD that bound to this negative regulatory sequence was identified by UV cross-linking .</sentence>
+<sentence id="10">This is the first description of a negative regulatory region responsive to glucocorticoids in a cytokine gene .</sentence>

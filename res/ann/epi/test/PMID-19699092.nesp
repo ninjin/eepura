@@ -1,0 +1,10 @@
+<sentence id="0">Deubiquitinase activities required for hepatocyte growth factor-induced scattering of epithelial cells .</sentence>
+<sentence id="1">The scattering response of epithelial cells to activation of the Met receptor tyrosine kinase represents one facet of an " invasive growth " program .</sentence>
+<sentence id="2">It is a complex event that incorporates loss of cell-cell adhesion , morphological changes , and cell motility .</sentence>
+<sentence id="3">Ubiquitination is a reversible posttranslational modification that <scope type="spec" id="0"> <cue type="spec" id="0">may</cue> target proteins for degradation or coordinate signal transduction pathways</scope> .</sentence>
+<sentence id="4">There are approximately 79 active deubiquitinating enzymes ( DUBs ) predicted in the human genome .</sentence>
+<sentence id="5">Here , via a small interfering RNA ( siRNA ) library approach , we have identified 12 DUBs that are necessary for aspects of the hepatocyte growth factor (HGF)-dependent scattering response of A549 cells .</sentence>
+<sentence id="6">Different phenotypes are evident that range from full loss of scattering , similar to receptor knockdown ( e.g. , USP30 , USP33 , USP47 ) , to loss of cell-cell contacts even in the <scope type="neg" id="1"><cue type="neg" id="1">absence</cue> of HGF but defective motility ( e.g. , USP3 , ATXN3L )</scope> .</sentence>
+<sentence id="7">The knockdowns do <scope type="neg" id="2"><cue type="neg" id="2">not</cue> incur defective receptor , phosphatidylinositol 3-kinase , or MAP kinase activation</scope> .</sentence>
+<sentence id="8">Our data <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> widespread involvement of the ubiquitin system at multiple stages of the Met activation response , <scope type="spec" id="4"> <cue type="spec" id="4">implying</cue> significant crosstalk with phosphorylation-based transduction pathways</scope></scope> .</sentence>
+<sentence id="9">Development of small-molecule inhibitors of particular DUBs <scope type="spec" id="5"> <cue type="spec" id="5">may</cue> offer a therapeutic approach to contain metastasis</scope> .</sentence>

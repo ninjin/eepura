@@ -1,0 +1,21 @@
+<sentence id="0">Virulence-associated</sentence>
+<sentence id="1">LPS ( lipopolysaccharide ) has long been known as an essential component of virulence of Gram negative pathogens and , more recently , the agonist for toll like receptor 4 .</sentence>
+<sentence id="2">Hfq differentially regulated the expression of several proteins involved in lipopolysaccharides ( LPS ) biosynthesis in acidic minimal media .</sentence>
+<sentence id="3">LpxA and LpxD involved in Lipid A synthesis , TolC involved in LPS Core completion , as well as proteins involved in O-antigen synthesis ( RfbACKMGJU ) , appeared as up-regulated in the Deltahfq mutant strain <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> that Hfq <scope type="spec" id="1"> <cue type="spec" id="1">may</cue> normally down regulate expression within the host</scope></scope> .</sentence>
+<sentence id="4">Complementary transcriptional analysis revealed <scope type="neg" id="2"><cue type="neg" id="2">no</cue> change in the corresponding mRNA levels relative to the wildtype</scope> .</sentence>
+<sentence id="5">Reduced expression of LPS and alterations in LPS modification has been reported for intracellular Salmonella [ 41 ] , [ 42 ] , [ 43 ] .</sentence>
+<sentence id="6">Our results <scope type="spec" id="3"> <cue type="spec" id="3">suggest</cue> Hfq plays a role in the post-transcriptional regulation of several two component systems including three that have been shown to be essential for virulence in a variety of animal models ; SsrA/B , PhoP/Q , and OmpR/EnvZ</scope> .</sentence>
+<sentence id="7">Two component systems are widespread methods of sensing external conditions and responding by altering gene expression in prokaryotes , eukaryotes and archaea .</sentence>
+<sentence id="8">Well known two component regulators respond to osmolarity , nitrogen and oxygen limitation [ 44 ] , [ 45 ] .</sentence>
+<sentence id="9">As such , they are critical to the ability of pathogenic bacteria to adapt and survive following environmental changes .</sentence>
+<sentence id="10">In addition to the three mentioned above Hfq negatively modulates PhoB involved in the phosphate starvation response , RstA , NarP , RcsB , BasR , and CpxR .</sentence>
+<sentence id="11">Microarray analysis showed <scope type="neg" id="4"><cue type="neg" id="4">no</cue> effect on transcription of these genes</scope> .</sentence>
+<sentence id="12">Salmonella motility enhances cell contact thereby increasing host cell invasion .</sentence>
+<sentence id="13">A recent study showed that an Deltahfq mutant that was non-motile exhibited an invasion defect [ 20 ] .</sentence>
+<sentence id="14">Analysis of protein expression in the Deltahfq strain showed reduced expression of SPI-1 TTSS components and the flagellar subunit protein FliC compared to the wildtype Salmonella strain .</sentence>
+<sentence id="15">Consistent with this previous study , we observed reduced expression of SPI-1 invasion proteins and numerous motility proteins in the Deltahfq mutant strain primarily in the log phase growth condition compared to the wildtype strain .</sentence>
+<sentence id="16">Among the SPI-1 invasion proteins were PrgI , SptP , SipD , SicA , InvC and InvG , and the motility proteins FliC , FliT , FliB , CheZ , CheY , and CheW .</sentence>
+<sentence id="17">Microarray results revealed a reduction in mRNA expression of the SPI-1 TTSS and several flagellar proteins , including FliC , FliO , and FliN grown under LB Log growth conditions .</sentence>
+<sentence id="18">This reduction in mRNA expression <scope type="spec" id="5"> <cue type="spec" id="5">suggests</cue> that Hfq regulates motility and invasion at the transcription level , <scope type="spec" id="6"> <cue type="spec" id="6">presumably</cue> by modulating one of the upstream regulators</scope></scope> .</sentence>
+<sentence id="19">Regulatory elements are generally <scope type="neg" id="7"><cue type="neg" id="7">not</cue> made at high levels and thus difficult to identify and quantify</scope> .</sentence>
+<sentence id="20">Analysis of our data however demonstrated the upstream regulator for motility flgM [ 46 ] was poorly expressed in an Deltahfq mutant .</sentence>

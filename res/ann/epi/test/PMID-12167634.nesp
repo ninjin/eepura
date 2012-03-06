@@ -1,0 +1,7 @@
+<sentence id="0">Ubiquitination of histone H2B by Rad6 is required for efficient Dot1-mediated methylation of histone H3 lysine 79 .</sentence>
+<sentence id="1">Dot1 is a non-SET domain protein that methylates histone H3 at lysine 79 , a surface-exposed residue that lies within the globular domain .</sentence>
+<sentence id="2">In the context of a nucleosome , H3 lysine 79 is located in close proximity with lysine 123 of histone H2B , a major site for ubiquitination by Rad6 .</sentence>
+<sentence id="3">Here we show that Rad6-mediated ubiquitination of H2B lysine 123 is important for efficient methylation of lysine 79 , but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> lysine</scope> 36 , of histone H3 .</sentence>
+<sentence id="4">In contrast , lysine 79 methylation of H3 is <scope type="neg" id="1"><cue type="neg" id="1">not</cue> required for ubiquitination of H2B</scope> .</sentence>
+<sentence id="5">Our study provides a new example of trans-histone regulation between modifications on different histones .</sentence>
+<sentence id="6">In addition , it <scope type="spec" id="2"> <cue type="spec" id="2">suggests</cue> that Rad6 affects telomeric silencing , at least in part , by influencing methylation of histone H3</scope> .</sentence>

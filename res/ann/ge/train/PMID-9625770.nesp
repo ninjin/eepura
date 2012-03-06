@@ -1,0 +1,5 @@
+<sentence id="0">The human toll signaling pathway : divergence of nuclear factor kappaB and JNK/SAPK activation upstream of tumor necrosis factor receptor-associated factor 6 ( TRAF6 ) .</sentence>
+<sentence id="1">The human homologue of Drosophila Toll ( hToll ) is a recently cloned receptor of the interleukin 1 receptor ( IL-1R ) superfamily , and has been implicated in the activation of adaptive immunity .</sentence>
+<sentence id="2">Signaling by hToll is shown to occur through sequential recruitment of the adapter molecule MyD88 and the IL-1R-associated kinase .</sentence>
+<sentence id="3">Tumor necrosis factor receptor-activated factor 6 ( TRAF6 ) and the nuclear factor kappaB (NF-kappaB)-inducing kinase ( NIK ) are both involved in subsequent steps of NF-kappaB activation .</sentence>
+<sentence id="4">Conversely , a dominant negative version of TRAF6 <scope type="neg" id="0"><cue type="neg" id="0">failed</cue> to block hToll-induced activation of stress-activated protein kinase/c-Jun NH2-terminal kinases</scope> , thus <scope type="spec" id="1"> <cue type="spec" id="1">suggesting</cue> an early divergence of the two pathways</scope> .</sentence>

@@ -1,0 +1,15 @@
+<sentence id="0">The myeloid zinc finger gene , MZF-1 , regulates the CD34 promoter in vitro .</sentence>
+<sentence id="1">MZF-1 is a C2H2 zinc finger gene encoding a <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> transcriptional regulator of myeloid differentiation</scope> .</sentence>
+<sentence id="2">The MZF-1 protein contains 13 C2H2 zinc fingers arranged in bipartite DNA binding domains containing zinc fingers through 4 and , in the carboxy-terminus , 5 through 13 .</sentence>
+<sentence id="3">We previously identified the DNA consensus binding site recognized by the two DNA binding domains .</sentence>
+<sentence id="4">To assess the transcription regulatory function of MZF-1 , the full-length MZF-1 coding region was fused to the DNA binding domain of the yeast transactivator GAL4 .</sentence>
+<sentence id="5">The expression vector was cotransfected with the chloramphenicol acetyl transferase ( CAT ) reporter gene regulated by the thymidine kinase promoter containing GAL4 DNA binding sites into NIH 3T3 , 293 , K562 , and Jurkat cell lines .</sentence>
+<sentence id="6">MZF-1 represses CAT reporter gene expression via GAL4 binding sites in the nonhematopoietic cell lines NIH 3T3 and 293 .</sentence>
+<sentence id="7">In contrast , MZF-1 activates CAT reporter gene expression in the hematopoietic cell lines K562 and Jurkat .</sentence>
+<sentence id="8">The MZF-1 binding sites are present in the promoters of several genes expressed during myeloid differentiation , including the CD34 promoter .</sentence>
+<sentence id="9">MZF-1 transcriptional regulation of this physiologically relevant promoter was assessed in both hematopoietic and nonhematopoietic cell lines .</sentence>
+<sentence id="10">Recombinant MZF-1 protein specifically binds to the consensus binding sites in the CD34 promoter in mobility shift assays .</sentence>
+<sentence id="11">MZF-1 expression vectors were cotransfected with the luciferase reporter plasmids regulated by the CD34 promoter into both nonhematopoietic and hematopoietic cell lines .</sentence>
+<sentence id="12">As with the heterologous DNA binding domain , MZF-1 represses reporter gene expression in nonhematopoietic cell lines and activates expression in hematopoietic cell lines .</sentence>
+<sentence id="13">Activation of CD34 expression in hematopoietic cell lines is dependent on the presence of intact MZF-1 binding sites .</sentence>
+<sentence id="14">The cell type-specific regulation of the CD34 promoter by MZF-1 <scope type="spec" id="1"> <cue type="spec" id="1">suggests</cue> the presence of <scope type="spec" id="2"> tissue-specific regulators/adapters <cue type="spec" id="2">or</cue> differential MZF-1 modifications</scope> that determine MZF-1 transcriptional regulatory function</scope> .</sentence>

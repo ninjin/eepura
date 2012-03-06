@@ -1,0 +1,12 @@
+<sentence id="0">Papillomavirus E2 proteins and the host BRD4 protein associate with transcriptionally active cellular chromatin .</sentence>
+<sentence id="1">The interaction of papillomavirus E2 proteins with cellular Brd4 protein is important for transcriptional regulation of viral genes and partitioning of viral genomes .</sentence>
+<sentence id="2">Bovine papillomavirus type 1 ( BPV-1 ) E2 binds cellular chromatin in complex with Brd4 in both mitotic and interphase cells .</sentence>
+<sentence id="3">To identify specific sites of E2 interaction on cellular chromatin , a genome-wide chromatin immunoprecipitation-on-chip analysis was carried out using human promoter sequences .</sentence>
+<sentence id="4">Both E2 and Brd4 were found bound to most transcriptionally active promoters in C33A cells .</sentence>
+<sentence id="5">These promoters were also bound by RNA polymerase II and were modified by histone H3 acetylation and K4 trimethylation , all indicators of active transcription .</sentence>
+<sentence id="6">E2 binding strongly correlated with Brd4 and RNA polymerase II occupancy and H3K4me3 modification at all human promoters , <scope type="spec" id="0"> <cue type="spec" id="0">indicating that</cue> E2 bound to active promoters</scope> .</sentence>
+<sentence id="7">E2 binding did <scope type="neg" id="1"><cue type="neg" id="1">not</cue> correlate with the presence of consensus E2 binding sites in the promoters</scope> .</sentence>
+<sentence id="8">Furthermore , the mRNA levels of E2-bound cellular genes were not significantly changed by E2 expression .</sentence>
+<sentence id="9">Thus , the papillomavirus E2 proteins bind to transcriptionally active cellular genes but do <scope type="neg" id="2"><cue type="neg" id="2">not</cue> change their activity</scope> .</sentence>
+<sentence id="10">We <scope type="spec" id="3"> <cue type="spec" id="3">propose</cue> that this <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> be a way for the virus to ensure that the viral genome is retained in transcriptionally active regions of the nucleus to escape silencing</scope></scope> .</sentence>
+<sentence id="11">Therefore , E2-mediated tethering of viral genomes to host chromatin has multiple roles : to partition the viral genome to daughter cells , to ensure that the genomes are retained in the nucleus , and to make certain that the genomes are retained in functionally active nuclear domains .</sentence>

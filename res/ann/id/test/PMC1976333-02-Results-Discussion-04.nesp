@@ -1,0 +1,16 @@
+<sentence id="0">Identifying Flagellar Components through Bacteriophage chi Selection</sentence>
+<sentence id="1">As a complementary approach to determining the components necessary for a functioning flagellum , we designed a simple selection to identify mutants resistant to chi-phage infection .</sentence>
+<sentence id="2">Bacteriophage chi infects E. coli by attaching to and traveling along flagellar filaments [ 24 ] .</sentence>
+<sentence id="3"><scope type="spec" id="0"> CCW flagellar rotation and the correct pattern of grooves on the surface of the flagellum are <cue type="spec" id="0">thought</cue> to drive chi-phage down the filament to the surface of the membrane , very similar to how a nut follows the grooves of a rotating bolt [ 25</scope> ] .</sentence>
+<sentence id="4">The library of transposon insertional mutants was exposed to chi-phage in an environment conducive to motility ( Figure 2A ) .</sentence>
+<sentence id="5">Survival of a mutant meant either the loss of its flagella , the loss of flagellar CCW rotation , or the loss of other components necessary for infection .</sentence>
+<sentence id="6">In a sample of mutants taken after selection , 98 % were completely nonmotile ( Figure S4 ) .</sentence>
+<sentence id="7">Figure 2B shows the distribution of z-scores after library selection upon exposure to bacteriophage chi , and the complete microarray results for duplicate selections can be found in Datasets S5 and S6 .</sentence>
+<sentence id="8">As expected , insertional mutations in flagellar genes conferred resistance to chi-phage infection .</sentence>
+<sentence id="9">In contrast , while mutants of the chemotaxis sensory network were in high abundance after the chemotaxis selection , insertional mutants of cheA , cheB , cheR , cheW , tap , tar , trg , and tsr were in low abundance after exposure to chi-phage .</sentence>
+<sentence id="10">This is to be expected , since null mutations in these genes do <scope type="neg" id="1"><cue type="neg" id="1">not</cue> entirely abolish CCW flagellar rotation</scope> .</sentence>
+<sentence id="11">The only exception among the che genes is cheZ , whose z-score of +8.7 <scope type="spec" id="2"> <cue type="spec" id="2">indicates</cue> a CW flagellar rotation bias and reduced susceptibility to chi-phage infection</scope> .</sentence>
+<sentence id="12">CheZ is a phosphatase of CheY , the protein whose phosphorylated state biases the flagella toward the CW direction [ 26,27 ] .</sentence>
+<sentence id="13">Therefore , in the <scope type="neg" id="3"><cue type="neg" id="3">absence</cue> of CheZ</scope> , CheY is maintained in the phosphorylated state , " locking " flagellar rotation in the CW direction , and hence minimizing infection by chi-phage .</sentence>
+<sentence id="14">In addition to these findings , the selection results revealed that <scope type="spec" id="4"> cellular structures other than the flagella <cue type="spec" id="4">may</cue> be required for infection ( Table S1 )</scope> .</sentence>
+<sentence id="15">The role these structures play in chi-phage infection and the impact they have on motility are discussed in a separate section below .</sentence>

@@ -1,0 +1,11 @@
+<sentence id="0">SrcA contributes to Salmonella fitness in an animal host</sentence>
+<sentence id="1">Most SsrB-regulated gene products contribute to the intracellular survival of Salmonella in a host .</sentence>
+<sentence id="2">In comparative genomics analyses , srcA was found in all virulent strains of Salmonella enterica containing SPI-2 , but was absent from the cold-blooded animal commensal , S. bongori , which <scope type="neg" id="0"><cue type="neg" id="0">lacks</cue> SPI-2 ( Table S1 )</scope> .</sentence>
+<sentence id="3">This <scope type="spec" id="1"> <cue type="spec" id="1">suggested</cue> a co-evolution of srcA with the SPI-2 T3SS and a <scope type="spec" id="2"> <cue type="spec" id="2">possible</cue> functional relationship</scope></scope> .</sentence>
+<sentence id="4">If so , we reasoned that SrcA <scope type="spec" id="3"> <cue type="spec" id="3">should</cue> contribute to animal colonization because the SPI-2 T3SS is essential for host infection</scope> .</sentence>
+<sentence id="5">To determine <scope type="spec" id="4"> <cue type="spec" id="4">whether</cue> SrcA contributes to Salmonella fitness in a host</scope> , we created an unmarked in-frame srcA deletion in S. Typhimurium and competed this strain against wild type cells in mixed oral infections of mice [ 25 ] .</sentence>
+<sentence id="6">After three days of infection the geometric mean competitive index ( CI ) for the mutant was 0.20 ( 95%CI 0.13-0.29 ) and 0.18 ( 95%CI 0.06-0.5 ) in the spleen and liver respectively ( P<0.0001 ; Fig .</sentence>
+<sentence id="7">1D ) <scope type="spec" id="5"> <cue type="spec" id="5">indicating that</cue> bacteria lacking srcA were significantly out competed by wild type cells during systemic infection</scope> .</sentence>
+<sentence id="8">To verify the role of srcA on this phenotype , we complemented the srcA mutant with a wild type srcA gene under the control of its endogenous promoter , which restored in vivo fitness to that of wild type ( Fig .</sentence>
+<sentence id="9">1D ) .</sentence>
+<sentence id="10">The level of attenuation of the srcA mutant was generally higher than most single effector gene mutants [ 26 ] , which <scope type="spec" id="6"> <cue type="spec" id="6">suggested</cue> to us that SrcA contributes to an important aspect of T3SS function in vivo</scope> .</sentence>

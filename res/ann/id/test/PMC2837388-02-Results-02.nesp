@@ -1,0 +1,10 @@
+<sentence id="0">Genome-wide SsrB interactions</sentence>
+<sentence id="1">To examine SsrB allocation on the chromosome in vivo , we isolated functional SsrB-DNA interactions using chromatin immunoprecipitation and examined the bound DNA by chip analysis ( ChIP-on-chip ) using an S. Typhimurium SL1344 array containing 44,021 probes .</sentence>
+<sentence id="2">With this method , we identified 256 significant interaction peaks distributed throughout the genome that were enriched under SsrB-activating conditions and with interaction scores three standard deviations greater than the mean probe score ( Figure 2A and Table 1 ) .</sentence>
+<sentence id="3">Of these 256 peaks , 126 ( 49 % ) occurred within coding regions of genes ( CDS ) and 130 ( 51 % ) were in intergenic regions ( IGR ) .</sentence>
+<sentence id="4">Given the strong influence of SsrB on horizontally acquired genes ( Table 1 ) , we plotted the ChIP-on-chip data against all genomic islands in S. Typhimurium SL1344 .</sentence>
+<sentence id="5">From this analysis , 62 of 256 SsrB binding peaks ( 24.3 % ) occurred within genomic islands ( Figure 2B ) .</sentence>
+<sentence id="6">SsrB ChIP peaks were observed upstream of previously identified SsrB regulated genes <scope type="spec" id="0"> <cue type="spec" id="0">indicating that</cue> our ChIP-on-chip data captured functional interactions ( Dataset S3 )</scope> .</sentence>
+<sentence id="7">To generate a consensus set of SsrB regulated genes , we performed an analysis to identify operons in the S. Typhimurium SL1344 genome that encoded at least one gene down-regulated in DeltassrB cells and that possessed an SsrB binding peak in the upstream regulatory region as defined by our ChIP-on-chip analysis .</sentence>
+<sentence id="8">From this , the 133 down-regulated genes mapped to 86 operons , 49 of which had an SsrB interaction upstream or within the first gene of the operon ( Table 2 ) .</sentence>
+<sentence id="9">This analysis captured all five reported operons in the SPI-2 genomic island in addition to ten operons outside of this island that encode SPI-2 translocated effectors .</sentence>

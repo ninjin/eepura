@@ -1,0 +1,10 @@
+<sentence id="0">Efficient adaptational demethylation of chemoreceptors requires the same enzyme-docking site as efficient methylation .</sentence>
+<sentence id="1">The mechanistic basis of sensory adaptation and gradient sensing in bacterial chemotaxis is reversible covalent modification of transmembrane chemoreceptors , methylation , and demethylation at specific glutamyl residues in their cytoplasmic domains .</sentence>
+<sentence id="2">These reactions are catalyzed by a dedicated methyltransferase CheR and a dedicated methylesterase CheB .</sentence>
+<sentence id="3">The esterase is also a deamidase that creates certain methyl-accepting glutamyls by hydrolysis of glutamine side chains .</sentence>
+<sentence id="4">We investigated the action of CheB and its activated form , phospho-CheB , on a truncated form of the aspartate receptor of Escherichia coli that was missing the last 5 aa of the intact receptor .</sentence>
+<sentence id="5">The deleted pentapeptide is conserved in several chemoreceptors in enteric and related bacteria .</sentence>
+<sentence id="6">The truncated receptor was much less efficiently demethylated and deamidated than intact receptor , but essentially was unperturbed for kinase activation or transmembrane signaling .</sentence>
+<sentence id="7">CheB bound specifically to an affinity column carrying the isolated pentapeptide , <scope type="spec" id="0"> <cue type="spec" id="0">implying</cue> that in the intact receptor the pentapeptide serves as a docking site for the methylesterase/deamidase and that the truncated receptor was inefficiently modified because the enzyme could not dock</scope> .</sentence>
+<sentence id="8">It is striking that the same pentapeptide serves as an activity-enhancing docking site for the methyltransferase CheR , the other enzyme involved in adaptational covalent modification of chemoreceptors .</sentence>
+<sentence id="9">A shared docking site raises the tantalizing possibility that relative rates of methylation and demethylation could be influenced by competition between the two enzymes at that site .</sentence>

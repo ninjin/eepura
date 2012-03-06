@@ -1,0 +1,31 @@
+<sentence id="0">Introduction</sentence>
+<sentence id="1">Streptococcus agalactiae ( group B streptococcus ) is an important cause of neonatal invasive infections and variety of diseases in human and animals [ 1 ] , [ 2 ] .</sentence>
+<sentence id="2">This bacterium is able to sense the changing environmental conditions and colonize numerous tissues employing different mechanisms of gene regulation .</sentence>
+<sentence id="3">One mechanism for adaptation to changing environment is transcriptional regulation by two-component regulatory systems ( TCSs ) , a family of systems that are widely distributed among many bacterial genera [ 3 ] .</sentence>
+<sentence id="4">These regulatory systems comprise two proteins , sensor histidine kinase , HK , and DNA-binding response regulator , RR .</sentence>
+<sentence id="5">HK is a sensor protein , responding to the environmental changes by autophosphorylating a conserved histidine residue .</sentence>
+<sentence id="6">Subsequently , phosphoryl group is transferred to RR protein resulting in conformational changes in RR molecule .</sentence>
+<sentence id="7">Conformationally modified RR molecule functions as transcriptional regulator ( activator or repressor ) by binding with promoter regions of the genes through helix-turn-helix ( HTH ) motif .</sentence>
+<sentence id="8">In many cases , two-component systems play an important role in the regulation of multiple genes encoding products which are essential for adaptation of bacteria to a particular environment and development of bacterial diseases [ 3 ] - [ 5 ] .</sentence>
+<sentence id="9">In contrast to other pathogenic gram-positive cocci such as S. pneumoniae and S. pyogenes , S. agalactiae has larger number of TCSs .</sentence>
+<sentence id="10">For example , 20 TCSs have been identified after the complete genome sequencing in the strain NEM316 [ 6 ] , and 17 TCSs-in the strain 2603 V/R [ 7 ] .</sentence>
+<sentence id="11">Three of them , CsrRS/CovRS , DltR/DltS , and RgfA/RgfC , have been previously investigated [ 8 ] - [ 12 ] .</sentence>
+<sentence id="12">S. agalactiae CsrRS/CovRS demonstrated high similarity with CsrRS/CovRS of S. pyogenes [ 8 ] .</sentence>
+<sentence id="13">Inactivation of covR in S. agalactiae increased transcription levels of hemolysin cylE gene and C5a peptidase scpB gene , and reduced the level of CAMP factor cfb gene [ 8 ] , [ 9 ] .</sentence>
+<sentence id="14">Inactivation of CovRS was also observed at phenotypic level : the mutant strains became less virulent compared to the parental wild-type strain [ 9 ] .</sentence>
+<sentence id="15">Transcriptome analysis revealed the CovRS core-regulon which consisted of 39 genes including genes of the stress response , the genes important for adhesion of S. agalactiae to the host cells and others [ 10 ] .</sentence>
+<sentence id="16">DltR/DltS of S. agalactiae is important for transcription of dlt operon ( dltA , dltB , dltC , and dltD genes ) , which is necessary for incorporation of D-alanine residues in lipoteichoic acids .</sentence>
+<sentence id="17">The role of DltR/DltS in S. agalactiae virulence was shown by the attenuated virulent properties of dltA and dltR mutant strains in vivo [ 11 ] .</sentence>
+<sentence id="18">RgfA/RgfC controls adhesion of S. agalactiae to epithelial cells .</sentence>
+<sentence id="19">In addition , inactivation of histidine kinase gene rgfC resulted in increased transcription of scpB gene [ 12 ] .</sentence>
+<sentence id="20">Recently , <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> two-component regulatory system genes encoding for sensor histidine kinase ( sak188 ) and DNA-binding response regulator ( sak189</scope> ) were identified in S. agalactiae strains 98-D60C and A909 [ 13 ] , [ 14 ] .</sentence>
+<sentence id="21">sak188 and sak189 genes were located on <scope type="spec" id="1"> <cue type="spec" id="1">putative</cue> pathogenicity island [ 13 ] adjacent to the bac gene encoding for beta-antigen</scope> .</sentence>
+<sentence id="22">This surface protein has capacity to bind IgA and factor H of complement , and it is <scope type="spec" id="2"> <cue type="spec" id="2">supposed</cue> to be an important virulence factor [ 15 ]</scope> .</sentence>
+<sentence id="23">Sak188 and Sak189 proteins revealed 78 % and 83 % similarity with sensor histidine kinase HK06 and DNA-binding response regulator RR06 of S. pneumoniae strains , respectively [ 13 ] , [ 16 ] - [ 19 ] .</sentence>
+<sentence id="24">In S. pneumoniae genome , the hk06 and rr06 genes are adjacent to cbpA gene encoding choline binding protein , CbpA , a surface-exposed protective antigen and virulence factor of S. pneumoniae [ 20 ] , [ 21 ] .</sentence>
+<sentence id="25">Similarly to the beta-antigen , CbpA has capacity to bind factor H of complement .</sentence>
+<sentence id="26">In addition , some regions of CbpA protein has the certain similarity with beta-antigen .</sentence>
+<sentence id="27">Inactivation of RR06 in S. pneumoniae resulted in the loss of CbpA expression [ 22 ] - [ 24 ] .</sentence>
+<sentence id="28">HK06/RR06 was also important for the ability of pneumococci to adhere to epithelial cells in vitro and to survive and proliferate in an in vivo mouse model [ 22 ] .</sentence>
+<sentence id="29">Given the certain similarity in the sequences , functions and relative locations of Sak188/Sak189 and HK06/RR06 , and beta-antigen and CbpA , we <scope type="spec" id="3"> <cue type="spec" id="3">suggested</cue> that Sak188/Sak189 TCS affected beta-antigen expression and virulent properties of S. agalactiae in the same manner as HK06/RR06 affected CbpA in S. pneumoniae</scope> .</sentence>
+<sentence id="30">The goal of the present study was to investigate the function of S. agalactiae Sak188/Sak189 TCS .</sentence>

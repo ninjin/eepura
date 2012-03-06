@@ -1,0 +1,10 @@
+<sentence id="0">A role for RanBP1 in the release of CRM1 from the nuclear pore complex in a terminal step of nuclear export .</sentence>
+<sentence id="1">We recently developed an assay in which nuclear export of the shuttling transcription factor NFAT ( nuclear factor of activated T cells ) can be reconstituted in permeabilized cells with the GTPase Ran and the nuclear export receptor CRM1 .</sentence>
+<sentence id="2">We have now used this assay to identify another export factor .</sentence>
+<sentence id="3">After preincubation of permeabilized cells with a Ran mutant that cannot hydrolyze GTP ( RanQ69L ) , cytosol supports NFAT export , but CRM1 and Ran alone do <scope type="neg" id="0"><cue type="neg" id="0">not</cue></scope> .</sentence>
+<sentence id="4">The RanQ69L preincubation leads to accumulation of CRM1 at the cytoplasmic periphery of the nuclear pore complex ( NPC ) in association with the p62 complex and Can/Nup214 .</sentence>
+<sentence id="5">RanGTP-dependent association of CRM1 with these nucleoporins was reconstituted in vitro .</sentence>
+<sentence id="6">By biochemical fractionation and reconstitution , we showed that RanBP1 restores nuclear export after the RanQ69L preincubation .</sentence>
+<sentence id="7">It also stimulates nuclear export in cells that have <scope type="neg" id="1"><cue type="neg" id="1">not</cue> been preincubated with RanQ69L</scope> .</sentence>
+<sentence id="8">RanBP1 as well as Ran-binding domains of the cytoplasmic nucleoporin RanBP2 promote the release of CRM1 from the NPC .</sentence>
+<sentence id="9">Taken together , our results <scope type="spec" id="2"> <cue type="spec" id="2">indicate that</cue> RanGTP is important for the targeting of export complexes to the cytoplasmic side of the NPC and that RanBP1 and <scope type="spec" id="3"> <cue type="spec" id="3">probably</cue> RanBP2</scope> are involved in the dissociation of nuclear export complexes from the NPC in a terminal step of transport</scope> .</sentence>

@@ -1,0 +1,14 @@
+<sentence id="0">Caenorhabditis elegans Semi-Automated Liquid Screen Reveals a Specialized Role for the Chemotaxis Gene cheB2 in Pseudomonas aeruginosa Virulence</sentence>
+<sentence id="1">Pseudomonas aeruginosa is an opportunistic human pathogen that causes infections in a variety of animal and plant hosts .</sentence>
+<sentence id="2">Caenorhabditis elegans is a simple model with which one can identify bacterial virulence genes .</sentence>
+<sentence id="3">Previous studies with C. elegans have shown that depending on the growth medium , P. aeruginosa provokes different pathologies : slow or fast killing , lethal paralysis and red death .</sentence>
+<sentence id="4">In this study , we developed a high-throughput semi-automated liquid-based assay such that an entire genome can readily be scanned for virulence genes in a short time period .</sentence>
+<sentence id="5">We screened a 2,200-member STM mutant library generated in a cystic fibrosis airway P. aeruginosa isolate , TBCF10839 .</sentence>
+<sentence id="6">Twelve mutants were isolated each showing at least 70 % attenuation in C. elegans killing .</sentence>
+<sentence id="7">The selected mutants had insertions in regulatory genes , such as a histidine kinase sensor of two-component systems and a member of the AraC family , or in genes involved in adherence or chemotaxis .</sentence>
+<sentence id="8">One mutant had an insertion in a cheB gene homologue , encoding a methylesterase involved in chemotaxis ( CheB2 ) .</sentence>
+<sentence id="9">The cheB2 mutant was tested in a murine lung infection model and found to have a highly attenuated virulence .</sentence>
+<sentence id="10">The cheB2 gene is part of the chemotactic gene cluster II , which was shown to be required for an optimal mobility in vitro .</sentence>
+<sentence id="11">In P. aeruginosa , the main player in chemotaxis and mobility is the chemotactic gene cluster I , including cheB1 .</sentence>
+<sentence id="12">We show that , in contrast to <scope type="neg" id="0">the cheB2 mutant , a cheB1 mutant is <cue type="neg" id="0">not</cue> attenuated for virulence in C. elegans whereas in vitro motility and chemotaxis are severely impaired</scope> .</sentence>
+<sentence id="13">We conclude that the virulence defect of the cheB2 mutant is <scope type="neg" id="1"><cue type="neg" id="1">not</cue> linked with a global motility defect</scope> but that instead the cheB2 gene is involved in a specific chemotactic response , which takes place during infection and is required for P. aeruginosa pathogenicity .</sentence>

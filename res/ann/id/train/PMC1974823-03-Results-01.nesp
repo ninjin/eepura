@@ -1,0 +1,18 @@
+<sentence id="0">Results</sentence>
+<sentence id="1">Role of FimR in mfa1 expression The fimA gene is the only gene known to be tightly controlled by the FimS/FimR system .</sentence>
+<sentence id="2">It was postulated that <scope type="spec" id="0"> the expression of other genes <cue type="spec" id="0">may</cue> also be controlled by this two component regulatory system</scope> .</sentence>
+<sentence id="3">To investigate effects of FimR on expression of the mfa1 gene , an insertional fimR mutant was constructed by allelic replacement .</sentence>
+<sentence id="4">Expression of fimA and mfa1 in the fimR- mutant was determined using real-time PCR analysis .</sentence>
+<sentence id="5">Statistically significant differences of the level of gene expression in 33277 and the fimR- mutant were calculated by a Student 's t-test .</sentence>
+<sentence id="6">As shown in Fig .</sentence>
+<sentence id="7">1a , expression of the fimA gene was abolished in the fimR- mutant strain FRE .</sentence>
+<sentence id="8">This result is consistent with previous observations ( Hayashi et al. , 2000 ; Nishikawa et al. , 2004 ) .</sentence>
+<sentence id="9">The striking finding is that expression of the mfa1 gene was also repressed threefold in the fimR- mutant , although not to the degree observed with the fimA expression .</sentence>
+<sentence id="10">However , the fimR- mutation had <scope type="neg" id="1"><cue type="neg" id="1">no</cue> effect on expression of rgpA , a gene encoding the arginine-specific protease</scope> , or the P. gingivalis 16S RNA gene .</sentence>
+<sentence id="11">This analysis <scope type="spec" id="2"> <cue type="spec" id="2">suggests</cue> the FimS/FimR system is required for expression of both major and minor fimbriae</scope> .</sentence>
+<sentence id="12">To determine production of long ( major ) and short ( minor ) fimbriae in the fimR- mutant , western blotting was performed with a polyclonal anti-FimA or anti-Mfa1 antibody to compare fimbrial production in wild-type strain ( 33277 ) , the fimR- mutant ( FRE ) , the fimA- mutant ( FAT ) and the mfa1- mutant ( MFAE ) .</sentence>
+<sentence id="13">Density of protein bands was determined by UVP Bioimaging System ( UVP , CA ) .</sentence>
+<sentence id="14">This analysis revealed that the expression of the fimA and mfa1 genes was consistent at the mRNA level and protein level ( Fig .</sentence>
+<sentence id="15">1b ) .</sentence>
+<sentence id="16">FimA protein was <scope type="neg" id="3"><cue type="neg" id="3">not</cue> detectable in the fimR- mutant , while a 50 % lower level of Mfa1 protein was found in the fimR- mutant compared with that in wild-type strain 33277</scope> .</sentence>
+<sentence id="17">Similarly , there was <scope type="neg" id="4"><cue type="neg" id="4">no</cue> apparent change in RgpA production in the fimR- mutant</scope> , which was detected by anti-RgpA serum .</sentence>

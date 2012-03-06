@@ -1,0 +1,21 @@
+<sentence id="0">RUNX1 and RUNX3 bind to the FOXP3 promoter</sentence>
+<sentence id="1">Transcription element search system analysis of the human FOXP3 promoter predicted 3 <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> RUNX binding sites</scope> at 333 , 287 , and 53 bp upstream of the transcription start site ( TSS ) .</sentence>
+<sentence id="2">All three binding sites are conserved between human , mouse , and rat ( Fig .</sentence>
+<sentence id="3">S4 ) .</sentence>
+<sentence id="4">To verify the <scope type="spec" id="1"> <cue type="spec" id="1">putative</cue> binding sites in the FOXP3 promoter</scope> , we transiently transfected HEK293T cells with RUNX1 and RUNX3 .</sentence>
+<sentence id="5">After the pull-down with oligonucleotides containing the wild-type binding sequences , but <scope type="neg" id="2"><cue type="neg" id="2">not</cue> mutant sequences</scope> , RUNX binding to the FOXP3 promoter oligonucleotides was detected by Western blot ( Fig .</sentence>
+<sentence id="6">3 A ) .</sentence>
+<sentence id="7">To confirm these results and test the ability of single binding site sequences to bind either RUNX1 or RUNX3 , we used the promoter enzyme immunoassay .</sentence>
+<sentence id="8">Cell lysates were obtained from HEK293T cells that had been transiently transfected with RUNX1 or RUNX3 expression vectors .</sentence>
+<sentence id="9">The biotinylated FOXP3 promoter oligonucleotides were linked to a streptavidin-coated microtiter plate , and bound RUNX1 or RUNX3 was detected by using anti-RUNX antibodies and a peroxidase-labeled secondary antibody .</sentence>
+<sentence id="10">We showed binding of RUNX1 and RUNX3 to the mixture of all three oligonucleotides containing the binding sites , whereas there was <scope type="neg" id="3"><cue type="neg" id="3">no</cue> binding detectable when a combination of the mutated oligonucleotides was used in the assay</scope> ( Fig .</sentence>
+<sentence id="11">3 B ) .</sentence>
+<sentence id="12">Although there was a similar and high degree of binding to the = = -==333 and = = -==287 sites , a lower degree of binding was detected when the oligonucleotide containing the = = -==53 site in the Foxp3 promoter was used .</sentence>
+<sentence id="13">This effect was observed both for binding to RUNX1 and RUNX3 ( Fig .</sentence>
+<sentence id="14">3 B ) .</sentence>
+<sentence id="15">The binding to the two single binding sites at = = -==333 and = = -==287 was comparable to the mixture of all three oligonucleotides .</sentence>
+<sentence id="16">Chromatin immunoprecipitation ( ChIP ) assay results confirmed the binding of RUNX1 and RUNX3 complexes containing CBF==beta = = to FOXP3 promoter during the differentiation of naive T cells toward T reg cells .</sentence>
+<sentence id="17">Here , naive CD4+ T cells were cultured with IL-2 , anti-CD2/3/28 mAb , and TGF-==beta = = as a Foxp3-inducing stimulation .</sentence>
+<sentence id="18">Amplification of PCR products from the FOXP3 promoter region with the predicted RUNX binding sites showed that RUNX1 , RUNX3 , and CBF==beta = = were immunoprecipitated together with the FOXP3 promoter ( Fig .</sentence>
+<sentence id="19">3 C ) .</sentence>
+<sentence id="20">Negative control primer targeting open reading frame-free intergenic DNA , IGX1A did <scope type="neg" id="4"><cue type="neg" id="4">not</cue> show any significant change in site occupancy</scope> .</sentence>

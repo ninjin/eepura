@@ -1,0 +1,14 @@
+<sentence id="0">Runx3 controls Eomes , perforin , granzyme B , and IFN-==gamma = = expression in effector CTLs .</sentence>
+<sentence id="1">Runx3+/+ or Runx3==-==/==- = = CD8+ T cells were activated and transduced with retroviruses bearing an empty IRES-GFP cassette ( GFP ) or also encoding Eomes-VP16 ( Eo-VP16 ) or Myc-Runx3 ( Runx3 ) .</sentence>
+<sentence id="2"><scope type="neg" id="0">The frequency of transduced cells in the cultures was equivalent for all constructs ( = = approximately==75==-==90 % GFP+ cells ; <cue type="neg" id="0">not</cue> depicted )</scope> .</sentence>
+<sentence id="3">( A ) Protein expression in whole-cell extracts ( day 6 ) was analyzed by immunoblotting .</sentence>
+<sentence id="4">Overexpression of Eomes-VP16 cannot be detected with the Eomes antibody , as the C-terminal epitope is within the region that has been replaced with the VP16 transactivation domain .</sentence>
+<sentence id="5">( B ) Expression of granzyme B and IFN-==gamma = = after culture for 6 d and restimulation for 4 h with PMA and ionomycin was determined by intracellular staining .</sentence>
+<sentence id="6">The percentage of positively stained cells is shown above the gate ; the mean fluorescence intensity ( MFI ) of granzyme B staining for the total population is shown below the gate .</sentence>
+<sentence id="7">The vertical gray lines <scope type="spec" id="1"> <cue type="spec" id="1">indicate</cue> the MFI for WT GFP+ cells</scope> .</sentence>
+<sentence id="8">Results are representative of at least two independent experiments .</sentence>
+<sentence id="9">( C ) Schematic diagram of the transcriptional network involving Runx3 and T-box factors .</sentence>
+<sentence id="10">T-bet is induced by TCR signals and is essential for early IFN-==gamma = = expression .</sentence>
+<sentence id="11">Runx3 is present in naive CD8+ T cells and represses Runx1 and induces Eomes , perforin , granzyme B , and IFN-==gamma = = expression .</sentence>
+<sentence id="12">Eomes <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> participate in sustaining late IFN-==gamma = = expression</scope> , whereas Runx3 and Eomes ( but <scope type="neg" id="2"><cue type="neg" id="2">not</cue> T-bet )</scope> <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> cooperate to activate perforin expression</scope> .</sentence>
+<sentence id="13">The dotted line <scope type="spec" id="6"> <cue type="spec" id="6">indicates</cue> the partial effect of T-bet deficiency on Gzmb mRNA but <scope type="neg" id="5"><cue type="neg" id="5">not</cue> granzyme B protein expression</scope></scope> .</sentence>

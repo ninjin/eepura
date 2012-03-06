@@ -1,0 +1,14 @@
+<sentence id="0">Reduced rates of gene loss , gene silencing , and gene mutation in Dnmt1-deficient embryonic stem cells .</sentence>
+<sentence id="1">Tumor suppressor gene inactivation is a crucial event in oncogenesis .</sentence>
+<sentence id="2">Gene inactivation mechanisms include events resulting in loss of heterozygosity ( LOH ) , gene mutation , and transcriptional silencing .</sentence>
+<sentence id="3">The contribution of each of these different pathways varies among tumor suppressor genes and by cancer type .</sentence>
+<sentence id="4">The factors that influence the relative utilization of gene inactivation pathways are poorly understood .</sentence>
+<sentence id="5">In this study , we describe a detailed quantitative analysis of the three major gene inactivation mechanisms for a model gene at two different genomic integration sites in mouse embryonic stem ( ES ) cells .</sentence>
+<sentence id="6">In addition , we targeted the major DNA methyltransferase gene , Dnmt1 , to investigate the relative contribution of DNA methylation to these various competing gene inactivation pathways .</sentence>
+<sentence id="7">Our data show that gene loss is the predominant mode of inactivation of a herpes simplex virus thymidine kinase neomycin phosphotransferase reporter gene ( HSV-TKNeo ) at the two integration sites tested and that this event is significantly reduced in Dnmt1-deficient cells .</sentence>
+<sentence id="8">Gene silencing by promoter methylation requires Dnmt1 , <scope type="spec" id="0"> <cue type="spec" id="0">suggesting</cue> that the expression of Dnmt3a and Dnmt3b alone in ES cells is insufficient to achieve effective gene silencing</scope> .</sentence>
+<sentence id="9">We used a novel assay to show that missense mutation rates are also substantially reduced in Dnmt1-deficient cells .</sentence>
+<sentence id="10">This is the first direct demonstration that DNA methylation affects point mutation rates in mammalian cells .</sentence>
+<sentence id="11">Surprisingly , <scope type="neg" id="1">the fraction of CpG transition mutations was <cue type="neg" id="1">not</cue> reduced in Dnmt1-deficient cells</scope> .</sentence>
+<sentence id="12">Finally , we show that methyl group-deficient growth conditions do <scope type="neg" id="2"><cue type="neg" id="2">not</cue> cause an increase in missense mutation rates in Dnmt1-proficient cells</scope> , as predicted by methyltransferase-mediated mutagenesis models .</sentence>
+<sentence id="13">We conclude that Dnmt1 deficiency and the accompanying genomic DNA hypomethylation result in a reduction of three major pathways of gene inactivation in our model system .</sentence>

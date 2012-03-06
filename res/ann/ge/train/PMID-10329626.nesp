@@ -1,0 +1,11 @@
+<sentence id="0">Rel/NF-kappaB can trigger the Notch signaling pathway by inducing the expression of Jagged1 , a ligand for Notch receptors .</sentence>
+<sentence id="1">Jagged1 belongs to the DSL family of ligands for Notch receptors that control the proliferation and differentiation of various cell lineages .</sentence>
+<sentence id="2">However , little is known about the transcription factors that regulate its expression .</sentence>
+<sentence id="3">Here , we show that Jagged1 is a Rel/NF-kappaB-responsive gene .</sentence>
+<sentence id="4">Both c-Rel and RelA induced jagged1 gene expression , whereas a mutant defective for transactivation did <scope type="neg" id="0"><cue type="neg" id="0">not</cue></scope> .</sentence>
+<sentence id="5">Importantly , jagged1 transcripts were also upregulated by endogenous NF-kappaB activation and this effect was inhibited by a dominant mutant of IkappaBalpha , a physiological inhibitor of NF-kappaB .</sentence>
+<sentence id="6">Cell surface expression of Jagged1 in c-Rel-expressing cell monolayers led to a functional interaction with lymphocytes expressing the Notch1/TAN-1 receptor .</sentence>
+<sentence id="7">This correlated with the initiation of signaling downstream of Notch , as evidenced by increased levels of HES-1 transcripts in co-cultivated T cells and of CD23 transcripts in co-cultivated B cells .</sentence>
+<sentence id="8">Consistent with its Rel/NF-kappaB-dependent induction , Jagged1 was found to be highly expressed in splenic B cells where c-Rel is expressed constitutively .</sentence>
+<sentence id="9">These results demonstrate that c-Rel can trigger the Notch signaling pathway in neighboring cells by inducing jagged1 gene expression , and <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> a role for Jagged1 in B-cell activation , differentiation or function</scope> .</sentence>
+<sentence id="10">These findings also highlight the <scope type="spec" id="2"> <cue type="spec" id="2">potential</cue> for an interplay between the Notch and NF-kappaB signaling pathways in the immune system</scope> .</sentence>

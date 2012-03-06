@@ -1,0 +1,19 @@
+<sentence id="0"><scope type="neg" id="0">Perforin and granzyme B expression are <cue type="neg" id="0">not</cue> appreciably regulated by T-bet</scope></sentence>
+<sentence id="1">To test the model outlined in the previous paragraph directly , we compared the expression of IFN-==gamma = = , perforin , and granzyme B in CD8+ T cells from WT and Tbx21 (T-bet)-deficient mice .</sentence>
+<sentence id="2">As expected ( 17 , 21 ) , naive Tbx21==-==/==- = = CD8+ T cells produced IFN-==gamma = = poorly upon activation ( Fig .</sentence>
+<sentence id="3">2 A ) .</sentence>
+<sentence id="4">Notably , this deleterious effect of T-bet deficiency was only observed in differentiating CD8+ T cells until day 4 of culture but was almost completely mitigated by day 6 ( Fig .</sentence>
+<sentence id="5">2 A ) .</sentence>
+<sentence id="6">This most <scope type="spec" id="1"> <cue type="spec" id="1">likely</cue> reflected compensation by Eomes , which was strongly induced between days 4 and 6 ( Fig</scope> .</sentence>
+<sentence id="7">1 ) .</sentence>
+<sentence id="8">In contrast , T-bet==-==deficient T cells cultured for 6 d showed <scope type="neg" id="2"><cue type="neg" id="2">no</cue> defect in perforin mRNA expression</scope> ( Fig .</sentence>
+<sentence id="9">2 B , compare lanes 1 and 4 ) .</sentence>
+<sentence id="10">We consistently observed a modest reduction in GzmB mRNA in T-bet==-==deficient T cells ( Fig .</sentence>
+<sentence id="11">2 B , compare lanes 1 and 4 ) , which did <scope type="neg" id="3"><cue type="neg" id="3">not</cue> translate into a decrease in expression of granzyme B protein</scope> ( Fig .</sentence>
+<sentence id="12">2 C ) .</sentence>
+<sentence id="13">To examine the role of Eomes , we transduced naive CD8+ T cells from WT and Tbx21==-==/==- = = mice with retroviruses containing internal ribosome entry site (IRES)==-==GFP that were either empty or encoded a strongly transactivating version of Eomes ( Eo-VP16 ) ( 8 ) , and expanded them for 6 d under our culture conditions .</sentence>
+<sentence id="14">Eo-VP16 , but <scope type="neg" id="4"><cue type="neg" id="4">not</cue> the empty GFP retrovirus</scope> , increased perforin expression in both WT and T-bet==-==deficient CD8+ T cells ( Fig .</sentence>
+<sentence id="15">2 B , lanes 2 , 3 , 5 , and 6 ) .</sentence>
+<sentence id="16">As expected , Eo-VP16 also rescued the early defect in IFN-==gamma = = production observed in T-bet==-==deficient CD8+ T cells ( Fig .</sentence>
+<sentence id="17">2 D ) .</sentence>
+<sentence id="18">However , Eo-VP16 did <scope type="neg" id="5"><cue type="neg" id="5">not</cue> induce GzmB mRNA expression in either WT or T-bet==-==deficient cells</scope> ; thus , the partial T-bet dependence of GzmB mRNA expression cannot be compensated for by Eo-VP16 .</sentence>

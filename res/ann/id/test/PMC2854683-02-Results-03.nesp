@@ -1,0 +1,40 @@
+<sentence id="0">Multiple approaches to microarray analysis show statistically significant and biologically relevant differences between the WT and AP populations in vitro and in vivo</sentence>
+<sentence id="1">To gain biologically relevant knowledge from the transcriptome studies <scope type="neg" id="0"><cue type="neg" id="0">without</cue> compromising statistical significance</scope> , we interrogated the data using multiple strategies that had been developed for microarray analysis and visualization , taking into consideration the strengths and limitations of each strategy .</sentence>
+<sentence id="2">By clustering normalized expression values from different biological replicates in all data sets , we generated an overall " pathovivogram " that includes 276 genes in ten coexpression clusters , CCs ( Fig .</sentence>
+<sentence id="3">2 , Fig .</sentence>
+<sentence id="4">S2 , and Table S1 ) .</sentence>
+<sentence id="5">This pathovivogram highlights the transcriptional patterns that distinguish WT from AP bacteria regardless of their growth habitat ( pathogram , Fig 2 .</sentence>
+<sentence id="6">CC4-CC6 and CC8-CC10 ) , and the transcriptional patterns that are shared by WT-vitro and AP-vitro bacteria but that differentiate them from their corresponding in vivo samples ( vivogram , Fig .</sentence>
+<sentence id="7">2 , CC1-CC3 ) .</sentence>
+<sentence id="8">Moreover , we identified a unique cluster , CC7 , that includes genes upregulated both in vivo and as a consequence of the covS mutation ( e.g. , those encoding M protein , streptolysin O , and nicotinamide adenine dinucleotide glycohydrolase ( NADGH ) , Fig .</sentence>
+<sentence id="9">2 , CC7 ) .</sentence>
+<sentence id="10">The patterns in clusters CC1-CC3 describe those gene sets whose transcription was turned on ( CC1-CC2 ) or off ( CC3 ) to drive the bacterial adaptation to the host environment , but are <scope type="neg" id="1"><cue type="neg" id="1">not</cue> primarily related to bacterial pathogenesis</scope> .</sentence>
+<sentence id="11">Many of these genes encode metabolic enzymes ( e.g. , carbohydrate metabolism , arginine degradation , and pyrimidine biosynthesis ) , ribosomal proteins ( mostly downregulated ) , and sugar or peptide transport systems , reflecting the transition from a carbohydrate-rich laboratory medium to a protein-rich , oxygen-poor subcutaneous tissue .</sentence>
+<sentence id="12">Such transition is bound to have major downstream effects on the bacterial virulence gene expression [ 38 ] , [ 39 ] , [ 40 ] .</sentence>
+<sentence id="13">While the expression patterns in clusters CC4 , CC5 , CC8 , and CC9 match the previously described in vitro differences between WT and AP strains [ 10 ] , [ 12 ] , [ 13 ] , [ 26 ] , [ 27 ] ( e.g. , downregulation of SpeB , CAMP , and EndoS genes ; upregulation of SpeA , SIC , and capsule genes ) , the combined comparative analysis of in vitro and in vivo samples revealed novel expression patterns exemplified by CC6 and CC10 .</sentence>
+<sentence id="14">These two clusters include genes whose expression has been repressed ( CC6 ) or induced ( CC10 ) by the AP mutation , but the repression or induction becomes observable only in vivo .</sentence>
+<sentence id="15">For example , the expression of genes in the SLS and Trx operons is induced in vivo only in WT bacteria , but is mostly repressed in AP bacteria ( Fig .</sentence>
+<sentence id="16">2 , CC6 ) both in vitro and in vivo .</sentence>
+<sentence id="17">Likewise , some genes are only induced in AP-vivo , including those encoding the toxin/enzyme streptokinase and a RofA/Nra-like transcriptional regulator ( Fig .</sentence>
+<sentence id="18">2 , CC10 ) .</sentence>
+<sentence id="19">Subsequent to the coexpression analysis , we calculated differential expression ratios between each pair of conditions ( Table S2 ) at different statistical significance cutoffs , starting by the commonly used significance threshold of twofold ratio and P value < 0.05 , and moving to thresholds that are more conservative .</sentence>
+<sentence id="20">At all significance cutoffs , the fewest observed transcriptional changes were those differentiating WT and AP bacteria in vitro compared to other pairs of conditions .</sentence>
+<sentence id="21">By contrast , the most dramatic transcriptional reprogramming was that exhibited by the WT bacteria in their attempt to adapt to the in vivo environment ( Table 2 ) .</sentence>
+<sentence id="22">Overall , at the least conservative statistical threshold ( P<0.05 ) , the transcription of 557 ( 23.9 % ) out of 2,329 genes probed in the microarrays was significantly perturbed ( up or down , at one or more conditions , Fig .</sentence>
+<sentence id="23">S3 ) and the only set of contiguous genes that underwent transcriptional changes at all tested conditions is the SpeB operon gene set ( CC4 in Fig .</sentence>
+<sentence id="24">2 ) .</sentence>
+<sentence id="25">However , the fold-change in SpeB operon transcription level largely varied across the four experimental conditions , ranging from a 2.2-fold to a 30-fold downregulation ( Table 3 ) .</sentence>
+<sentence id="26">Inspired by the recently described neighbor clustering method for microarray analysis [ 41 ] , we also mapped the significant ( P<0.05 ) differential expression ratios of different genes to their chromosomal loci ( Fig .</sentence>
+<sentence id="27">3 and Fig .</sentence>
+<sentence id="28">S4 ) to allow the visualization of coexpressed contiguous genes , including operons .</sentence>
+<sentence id="29">This mapping highlighted genes <scope type="spec" id="2"> that <cue type="spec" id="2">might</cue> otherwise have been overlooked by the CC or expression ratio methods</scope> .</sentence>
+<sentence id="30">Examples of neighbor clusters ( NCs ) enriched in differentially expressed genes are a locus involved in L-ascorbate utilization ( SPy0175-SPy0179 ) ; the citrate lyase locus ( SPy1186-SPy1191 ) ; the Trx chromosomal locus ( SPy1582-SPy1596 ) that includes the recently described , CovR-repressed two-component response regulator TrxR [ 42 ] ; and the well-studied Mga ( SPy2010-SPy2025 ) , SpeB ( SPy2037-SPy2042 ) , and capsule synthesis ( SPy2200-SPy2202 ) loci ( Fig .</sentence>
+<sentence id="31">3 and Fig .</sentence>
+<sentence id="32">S4 ) .</sentence>
+<sentence id="33">NC analysis also allowed us to visualize genomic clusters that are similarly regulated in vitro and in vivo , and those that are reciprocally regulated .</sentence>
+<sentence id="34">For example , in both the SLS operon and the Trx locus , we observed a striking difference between the effects of the covS mutation and the in vivo adaptation ( Fig .</sentence>
+<sentence id="35">4 , CC6 ) .</sentence>
+<sentence id="36">Genes of these two chromosomal clusters are significantly downregulated in AP compared to WT bacteria , but significantly upregulated in WT-vivo relative to WT-vitro conditions ( Fig .</sentence>
+<sentence id="37">4 , CC6 ) .</sentence>
+<sentence id="38">As a final step of our multifaceted data analysis approach , we tabulated significant transcriptional changes of individual genes that encode known regulators and well-studied virulence factors ( Table 3 ) .</sentence>
+<sentence id="39">Focusing on those genes highlights the pathogenesis-related changes and allows easy comparison of our data with those in the literature [ 11 ] , [ 12 ] , [ 13 ] , [ 16 ] , [ 27 ] , [ 37 ] .</sentence>

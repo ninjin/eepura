@@ -1,0 +1,9 @@
+<sentence id="0">Interleukin 2 signaling involves the phosphorylation of Stat proteins .</sentence>
+<sentence id="1">One of the most important cytokines involved in immune response regulation is interleukin 2 ( IL-2 ) , a potent activator of the proliferation and function of T lymphocytes and natural killer cells .</sentence>
+<sentence id="2"><scope type="neg" id="0">The mechanisms by which the effects of IL-2 are propagated within cells are <cue type="neg" id="0">not</cue> understood</scope> .</sentence>
+<sentence id="3">While the binding of IL-2 to its receptor was recently shown to lead to the activation of two kinases , Jak-1 and Jak-3 , subsequent steps in the signaling pathway to the nucleus that lead to the activation of specific genes had <scope type="neg" id="1"><cue type="neg" id="1">not</cue> been characterized</scope> .</sentence>
+<sentence id="4">Since many cytokines that activate Jak kinases also lead to the tyrosine phosphorylation and activation of members of the Stat family of transcription factors , the ability of IL-2 to trigger Stat phosphorylation was examined .</sentence>
+<sentence id="5">Exposure of activated human T lymphocytes or of a natural killer cell line ( NKL ) to IL-2 leads to the phosphorylation of Stat1 alpha , Stat1 beta , and Stat3 , as well as of two Stat-related proteins , p94 and p95 .</sentence>
+<sentence id="6">p94 and p95 share homology with Stat1 at the phosphorylation site and in the Src homology 2 ( SH2 ) domain , but otherwise are immunologically distinct from Stat1 .</sentence>
+<sentence id="7">These Stat proteins were found to translocate to the nucleus and to bind to a specific DNA sequence .</sentence>
+<sentence id="8">These findings <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> a mechanism by which IL-2 binding to its receptor <scope type="spec" id="3"> <cue type="spec" id="3">may</cue> activate specific genes involved in immune cell function</scope></scope> .</sentence>

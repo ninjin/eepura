@@ -1,0 +1,10 @@
+<sentence id="0">Synthetic lethal screens identify gene silencing processes in yeast and implicate the acetylated amino terminus of Sir3 in recognition of the nucleosome core .</sentence>
+<sentence id="1">Dot1 methylates histone H3 lysine 79 ( H3K79 ) on the nucleosome core and is involved in Sir protein-mediated silencing .</sentence>
+<sentence id="2">Previous studies <scope type="spec" id="0"> <cue type="spec" id="0">suggested</cue> that H3K79 methylation within euchromatin prevents nonspecific binding of the Sir proteins , which in turn facilitates binding of the Sir proteins in unmethylated silent chromatin</scope> .</sentence>
+<sentence id="3">However , <scope type="spec" id="1"> the mechanism by which the Sir protein binding is influenced by this modification is <cue type="spec" id="1">unclear</cue></scope> .</sentence>
+<sentence id="4">We performed genome-wide synthetic genetic array ( SGA ) analysis and identified interactions of DOT1 with SIR1 and POL32 .</sentence>
+<sentence id="5">The synthetic growth defects found by SGA analysis were attributed to the loss of mating type identity caused by a synthetic silencing defect .</sentence>
+<sentence id="6">By using epistasis analysis , DOT1 , SIR1 , and POL32 could be placed in different pathways of silencing .</sentence>
+<sentence id="7">Dot1 shared its silencing phenotypes with the NatA N-terminal acetyltransferase complex and the conserved N-terminal bromo adjacent homology ( BAH ) domain of Sir3 ( a substrate of NatA ) .</sentence>
+<sentence id="8">We classified all of these as affecting a common silencing process , and we show that mutations in this process lead to nonspecific binding of Sir3 to chromatin .</sentence>
+<sentence id="9">Our results <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> that the BAH domain of Sir3 binds to histone H3K79 and that acetylation of the BAH domain is required for the binding specificity of Sir3 for nucleosomes unmethylated at H3K79</scope> .</sentence>

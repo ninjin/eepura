@@ -1,0 +1,7 @@
+<sentence id="0">Human TAFII 105 is a cell type-specific TFIID subunit related to hTAFII130 .</sentence>
+<sentence id="1">We previously characterized Drosophila and human TAF subunits that make up the core TFIID complex found in all cells .</sentence>
+<sentence id="2">Here , we report that differentiated B cells contain a novel substoichiometric TAF of 105 kDa <scope type="neg" id="0"><cue type="neg" id="0">not</cue> found associated with TFIID isolated from other cell types</scope> .</sentence>
+<sentence id="3">The cDNA encoding hTAFII105 reveals a highly conserved C-terminal domain shared by hTAFII130 and oTAFII110 , while the N-terminal coactivator domain has diverged significantly .</sentence>
+<sentence id="4">All cells tested express TAFII105 mRNA , but only B cells contain significant levels of protein associated with TFIID .</sentence>
+<sentence id="5">Transient overexpression of hTAFII105 selectively squelches the transcription of some genes in B cells .</sentence>
+<sentence id="6">These properties <scope type="spec" id="1"> <cue type="spec" id="1">suggest</cue> that TAFII105 is a cell type-specific subunit of TFIID that <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> be responsible for mediating transcription by a subset of activators in B cells</scope></scope> .</sentence>

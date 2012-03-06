@@ -1,0 +1,36 @@
+<sentence id="0">Runx3 controls multiple aspects of the CTL differentiation program , in part through induction of Eomes</sentence>
+<sentence id="1">Because Runx3 is highly expressed in peripheral CD8+ T cells , and because of the T-bet-Runx3 cooperation we observed earlier in CD4+ T cells ( 15 ) , we examined the role of Runx3 in effector CTL differentiation .</sentence>
+<sentence id="2">We isolated CD8+ T cells from Runx3==-==/==- = = ( KO ) mice of the outbred ICR background and their WT Runx3+/+ littermates by positive selection with anti-CD8 magnetic beads ( Figs .</sentence>
+<sentence id="3">S1 and S2 , available at http://www.jem.org/cgi/content/full/jem.20081242/DC1). Strikingly , Runx3==-==/==- = = CD8+ T cells were strongly impaired in their ability to differentiate into effector CTLs , as judged by expression of perforin , granzyme B , and IFN-==gamma = = ( Fig .</sentence>
+<sentence id="4">3 ) .</sentence>
+<sentence id="5">Compared with WT T cells , perforin mRNA and protein expression were essentially undetectable in Runx3==-==/==- = = T cells at day 6 of culture ( Fig .</sentence>
+<sentence id="6">3 , A and B ) .</sentence>
+<sentence id="7">Runx3==-==/==- = = T cells also had <scope type="neg" id="0"><cue type="neg" id="0">no</cue> detectable Eomes expression</scope> ; in contrast , T-bet expression was unimpaired ( Fig .</sentence>
+<sentence id="8">3 A ) .</sentence>
+<sentence id="9">Furthermore , Runx3 was required for maximal production of IFN-==gamma = = , but <scope type="neg" id="1"><cue type="neg" id="1">not</cue> TNF or IL-2</scope> , by CD8+ T cells restimulated at day 6 ( Fig .</sentence>
+<sentence id="10">3 C ) .</sentence>
+<sentence id="11">We previously reported that Th1 cell differentiation was regulated through a feed-forward loop in which T-bet is up-regulated early and induces Runx3 , after which T-bet and Runx3 cooperate to induce IFN-==gamma = = and silence IL-4 , thus promoting stable differentiation toward the Th1 lineage ( 15 , 22 ) .</sentence>
+<sentence id="12">Because ( a ) Runx3 appeared necessary for Eomes induction ( Fig .</sentence>
+<sentence id="13">3 A ) , ( b ) the kinetics of Eomes expression paralleled those of perforin expression ( Fig .</sentence>
+<sentence id="14">2 ) , and ( c ) overexpression of Eo-VP16 in either WT or T-bet==-==deficient T cells led to an increase in both perforin and IFN-==gamma = = expression ( Fig .</sentence>
+<sentence id="15">2 , B and D ) , we asked <scope type="spec" id="2"> <cue type="spec" id="2">whether</cue> CTL differentiation was also <scope type="spec" id="3"> <cue type="spec" id="3">potentially</cue> regulated by a feed-forward loop involving these same two classes of Runx and T-box transcription factors</scope></scope> .</sentence>
+<sentence id="16">Specifically , we asked <scope type="spec" id="4"> <cue type="spec" id="4">whether</cue> Runx3 , which was necessary for Eomes induction , then cooperated with Eomes to regulate transcription of the effector CTL markers perforin , IFN-==gamma = = , and granzyme B.</scope></sentence>
+<sentence id="17">To test this hypothesis , we used chromatin immunoprecipitation ( ChIP ) assays to ask <scope type="spec" id="5"> <cue type="spec" id="5">whether</cue> Eomes and Runx3 bound regulatory regions of the Prf1 , Ifng , and Gzmb genes ( Fig</scope> .</sentence>
+<sentence id="18">3 D ) .</sentence>
+<sentence id="19">Both proteins associated with gene regulatory regions in differentiated CTLs .</sentence>
+<sentence id="20">Runx3 bound to the Prf1 and Gzmb transcription start sites ( TSS ) ; to a known IL-2 responsive enhancer located near = = -==1 kb of the Prf1 gene ( 23 ) ; to the distal CTL-specific DNase I hypersensitive site 9 in the Prf1 locus ( 24 ) ; to the Ifng promoter near the TSS , as previously reported for Th1 cells ( 10 ) ; and to several DNase I hypersensitive sites in the Ifng locus ( Fig .</sentence>
+<sentence id="21">3 D and not depicted ) ( 25 ) .</sentence>
+<sentence id="22">Eomes bound primarily to the Prf1 TSS and the = = -==1 kb enhancer ; this binding was substantially greater than that observed at the promoter of the Il2rb gene , a known direct target of Eomes ( 8 ) , and comparable to that observed at the Ifng TSS , a known target of T-box proteins in both Th1 and CD8+ T cells ( Fig .</sentence>
+<sentence id="23">3 D ) ( 17 ) .</sentence>
+<sentence id="24">To determine <scope type="spec" id="6"> <cue type="spec" id="6">whether</cue> Runx3 controlled the expression of CTL effector genes through its induction of Eomes</scope> , we retrovirally expressed Runx3 and Eo-VP16 in CD8+ T cells from Runx3==-==/==- = = mice .</sentence>
+<sentence id="25">Because of the limited number of CD8+ T cells in these mice , and because we saw <scope type="neg" id="7"><cue type="neg" id="7">no</cue> difference between Runx3==-==/==- = = CD8+CD4==- = = SP and CD8+CD4+ DP cells in our previous experiments</scope> , we used total Runx3==-==/==- = = CD8+ T cells <scope type="neg" id="8"><cue type="neg" id="8">without</cue> further fractionation as recipients for retroviral transduction</scope> .</sentence>
+<sentence id="26">Reconstitution of Runx3==-==/==- = = CD8+ T cells with Runx3 restored expression of Eomes as well as perforin , granzyme B , and IFN-==gamma = = ( Fig .</sentence>
+<sentence id="27">4 , A and B ) .</sentence>
+<sentence id="28">In addition , Runx3==-==/==- = = T cells showed a compensatory up-regulation of Runx1 , which was suppressed upon reconstitution with Runx3 , <scope type="spec" id="9"> <cue type="spec" id="9">indicating that</cue> Runx1 is a target of repression by Runx3</scope> .</sentence>
+<sentence id="29">Notably , Eo-VP16 did <scope type="neg" id="10"><cue type="neg" id="10">not</cue> up-regulate perforin expression when expressed in Runx3==-==/==- = = cells</scope> , even though it restored the capacity to induce IFN-==gamma = = expression upon TCR restimulation ( Fig .</sentence>
+<sentence id="30">4 , A and B ) .</sentence>
+<sentence id="31">This result <scope type="spec" id="11"> <cue type="spec" id="11">suggests</cue> strongly that perforin expression requires Runx3 and Eomes</scope> .</sentence>
+<sentence id="32">As expected from their defect in perforin and granzyme B expression , Runx3==-==/==- = = CD8+ T cells showed defective cytolytic activity in a mixed lymphocyte reaction ( 12 ) .</sentence>
+<sentence id="33">However , TCR-stimulated Runx3==-==/==- = = CD8+ cells were as effective as WT cells in killing tumor cells in a redirected CTL assay ( 12 ) .</sentence>
+<sentence id="34">Furthermore , CD8+ cells from the peritoneal cavity of Runx3==-==/==- = = mice immunized with certain tumor cells effectively killed these targets ( 13 ) .</sentence>
+<sentence id="35">Therefore , although activation of the perforin/granzyme B machinery is defective in Runx3==-==/==- = = CD8+ cells , these cells are <scope type="neg" id="12"><cue type="neg" id="12">not</cue> entirely devoid of cytolytic activity</scope> and could still effectively kill targets , <scope type="spec" id="13"> <cue type="spec" id="13">possibly</cue> by alternative mechanisms such as the Fas==-==Fas ligand pathway</scope> .</sentence>

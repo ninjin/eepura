@@ -1,0 +1,8 @@
+<sentence id="0">Results</sentence>
+<sentence id="1">Sequence analysis of clinical isolate 5628 reveals intact speB and covR/S but mutation in ropB M1T1 GAS clinical isolate 5628 was found on screening to lack SpeB activity by azocasein assay .</sentence>
+<sentence id="2"><scope type="neg" id="0"><cue type="neg" id="0">DNA</cue> sequencing was performed using primers listed in Table 1</scope> .</sentence>
+<sentence id="3"><scope type="neg" id="1"><cue type="neg" id="1">No</cue> mutations were found in the strain 5628 in the speB gene <scope type="neg" id="2"><cue type="neg" id="2">nor</cue> in the covR/S locus</scope></scope> , which has been previously linked to loss of SpeB expression [ 37 ] , [ 38 ] .</sentence>
+<sentence id="4">Further sequencing was performed on the previously described regulators luxS , rofA , ropA and ropB [ 24 ] , [ 39 ] - [ 41 ] .</sentence>
+<sentence id="5">This analysis revealed a point mutation in ropB , leading to truncation of RopB at amino acid 170 of the 280 amino acid protein ( Fig .</sentence>
+<sentence id="6">1A ) .</sentence>
+<sentence id="7">The truncation of RopB <scope type="spec" id="3"> <cue type="spec" id="3">suggested</cue> that this <scope type="spec" id="4"> <cue type="spec" id="4">may</cue> be the cause of lack of SpeB expression in this strain</scope></scope> .</sentence>

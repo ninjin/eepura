@@ -1,0 +1,16 @@
+<sentence id="0">Endopeptidase Activity of SeMac against Horse IgG1 and Human IgG</sentence>
+<sentence id="1">GAS Mac can cleave the heavy chain of human IgG at the lower hinge region between Fab and Fc fragments .</sentence>
+<sentence id="2">A catalytic triad of Cys94 , His262 , and Asp284 residues is critical for the enzymatic activity of GAS Mac [ 7 , 8 ] .</sentence>
+<sentence id="3">SeMac possesses <scope type="spec" id="0"> <cue type="spec" id="0">putative</cue> catalytic residues of Cys102 , His272 , and Asp294 ( Fig</scope> .</sentence>
+<sentence id="4">1 ) .</sentence>
+<sentence id="5">To determine <scope type="spec" id="1"> <cue type="spec" id="1">whether</cue> SeMac also is a cysteine endopeptidase targeting IgG , Cys102 and His272 or Asp294 of SeMac</scope> were replaced with Ser and Ala , respectively , by site-directed mutagenesis , and wild-type and mutant ( SeMacCys102Ser , SeMacHis272Ala and SeMacAsp294Ala ) SeMac proteins expressed in E. coli were tested for IgG endopeptidase activity using human IgG .</sentence>
+<sentence id="6">Wild-type SeMac cleaved the heavy chain of human IgG , while SeMacCys102Ser and SeMacHis272Ala completely lost the IgG endopeptidase activity , and SeMacAsp294Ala had dramatically lower enzymatic activity than the wild-type protein ( Fig .</sentence>
+<sentence id="7">4A ) .</sentence>
+<sentence id="8">The results <scope type="spec" id="2"> <cue type="spec" id="2">indicate that</cue> SeMac is a cysteine endopeptidase , which uses Cys102 , His272 and Asp294 as its catalytic triad to cleave human IgG</scope> .</sentence>
+<sentence id="9">Purified recombinant SeMac and GAS Mac were then tested for activity to cleave horse IgG .</sentence>
+<sentence id="10">While both proteins cleaved human IgG efficiently , only a small fraction of horse IgG was cleaved by <scope type="spec" id="3"> <cue type="spec" id="3">either</cue> protein ( Fig</scope> .</sentence>
+<sentence id="11">4B ) , <scope type="spec" id="4"> <cue type="spec" id="4">suggesting</cue> that SeMac or GAS Mac cannot digest all subgroups of horse IgG</scope> .</sentence>
+<sentence id="12">To test this possibility , available horse IgG1 and a mixture of IgG1 and IgG4 were treated with SeMac or GAS Mac .</sentence>
+<sentence id="13">SeMac or GAS Mac cleaved a small portion of the IgG1/IgG4 mixture , but <scope type="neg" id="5"><cue type="neg" id="5">not</cue> IgG4</scope> .</sentence>
+<sentence id="14">Therefore , the Mac proteins can cleave IgG1 but <scope type="neg" id="6"><cue type="neg" id="6">not</cue> IgG4</scope> .</sentence>
+<sentence id="15">Due to the unavailability of other purified subgroup IgG , it is <scope type="spec" id="7"> <cue type="spec" id="7">not known</cue> <scope type="spec" id="8"> <cue type="spec" id="8">whether</cue> SeMac cleaves the other IgG subgroups</scope></scope> .</sentence>

@@ -1,0 +1,11 @@
+<sentence id="0">Cdc34p ubiquitin-conjugating enzyme is a component of the tombusvirus replicase complex and ubiquitinates p33 replication protein .</sentence>
+<sentence id="1">To identify host proteins interacting with Tomato bushy stunt virus ( TBSV ) replication proteins in a genome-wide scale , we have used a yeast ( Saccharomyces cerevisiae ) proteome microarray carrying 4,088 purified proteins .</sentence>
+<sentence id="2">This approach led to the identification of 58 yeast proteins that interacted with p33 replication protein .</sentence>
+<sentence id="3">The identified host proteins included protein chaperones , ubiquitin-associated proteins , translation factors , RNA-modifying enzymes , and other proteins with yet-unknown functions .</sentence>
+<sentence id="4">We confirmed that 19 of the identified host proteins bound to p33 in vitro or in a split-ubiquitin-based two-hybrid assay .</sentence>
+<sentence id="5">Further analysis of Cdc34p E2 ubiquitin-conjugating enzyme , which is one of the host proteins interacting with p33 , revealed that Cdc34p is a novel component of the purified viral replicase .</sentence>
+<sentence id="6">Downregulation of Cdc34p expression in yeast , which supports replication of a TBSV replicon RNA ( repRNA ) , reduced repRNA accumulation and the activity of the tombusvirus replicase by up to fivefold .</sentence>
+<sentence id="7">Overexpression of wild-type Cdc34p , but <scope type="neg" id="0"><cue type="neg" id="0">not</cue> that of an E2-defective mutant of Cdc34p</scope> , increased repRNA accumulation , <scope type="spec" id="1"> <cue type="spec" id="1">suggesting</cue> a significant role for the ubiquitin-conjugating enzyme function of Cdc34p in TBSV replication</scope> .</sentence>
+<sentence id="8">Also , Cdc34p was able to ubiquitinate p33 in vitro .</sentence>
+<sentence id="9">In addition , we have shown that p33 becomes ubiquitinated in vivo .</sentence>
+<sentence id="10">We <scope type="spec" id="2"> <cue type="spec" id="2">propose</cue> that ubiquitination of p33 <scope type="spec" id="3"> <cue type="spec" id="3">likely</cue> alters its function or affects the recruitment of host factors during TBSV replication</scope></scope> .</sentence>

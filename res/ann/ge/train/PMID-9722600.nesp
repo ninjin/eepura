@@ -1,0 +1,10 @@
+<sentence id="0">Activation of E2F-mediated transcription by human T-cell leukemia virus type I Tax protein in a p16(INK4A)-negative T-cell line .</sentence>
+<sentence id="1">The human T-cell leukemia virus type I ( HTLV-I ) is a causative agent of adult T-cell leukemia .</sentence>
+<sentence id="2">Although <scope type="spec" id="0"> the exact mechanism by which HTLV-I contributes to leukemogenesis is still <cue type="spec" id="0">unclear</cue></scope> , <scope type="spec" id="1"> the Tax protein is <cue type="spec" id="1">thought</cue> to play a major role in this process</scope> .</sentence>
+<sentence id="3">This 40-kDa polypeptide is able to interact with the tumor suppressor p16(INK4A) .</sentence>
+<sentence id="4">Consequently , Tax can activate the signaling pathway that lead to the release of E2F that in turn induces expression of factors required for cell cycle progression .</sentence>
+<sentence id="5">In this paper , we demonstrate that Tax can also activate E2F-mediated transcription independently of p16(INK4A) .</sentence>
+<sentence id="6">Indeed , when Tax is coexpressed with the E2F-1 transcription factor in CEM T-cells , which <scope type="neg" id="2"><cue type="neg" id="2">lack</cue> expression of p16(INK4A)</scope> , it strongly potentiates the E2F-dependent activation of a reporter construct driven by a promoter containing E2F binding sites .</sentence>
+<sentence id="7">This stimulation is abrogated by mutations affecting the E2F-binding sites .</sentence>
+<sentence id="8">In addition , Tax also stimulates the transcription of the E2F-1 gene itself .</sentence>
+<sentence id="9">Using Tax mutants that <scope type="neg" id="3"><cue type="neg" id="3">fail</cue> to activate either ATF- or NF-kappaB-dependent promoters and different 5' truncation mutants of the E2F-1 promoter</scope> , we show that the Tax-dependent transcriptional control of the E2F1 gene involves , at least in part , the ATF binding site located in the E2F-1 promoter .</sentence>

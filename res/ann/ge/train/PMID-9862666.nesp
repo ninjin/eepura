@@ -1,0 +1,9 @@
+<sentence id="0">Nuclear factor of activated T cells and AP-1 are insufficient for IL-2 promoter activation : requirement for CD28 up-regulation of RE/AP .</sentence>
+<sentence id="1">IL-2 gene transcription in T cells requires both TCR and costimulatory signals .</sentence>
+<sentence id="2">IL-2 promoter activation in Jurkat T cells stimulated with superantigen presented by Raji B cells requires CD28 activation .</sentence>
+<sentence id="3">The addition of rCTLA4Ig , which blocks CD28 binding to its ligand , to the cultures decreased IL-2 promoter activation by > 80 % .</sentence>
+<sentence id="4">Interestingly , CTLA4Ig did not significantly inhibit the activation of either NF of activated T cells ( NFAT ) or AP-1 reporters .</sentence>
+<sentence id="5">Therefore , activation of NFAT and AP-1 is insufficient for IL-2 promoter activation .</sentence>
+<sentence id="6">In contrast , an RE/AP reporter was blocked by CTLA4Ig by > 90 % .</sentence>
+<sentence id="7">Thus , <scope type="spec" id="1"> the requirement for CD28 in IL-2 promoter activation <cue type="spec" id="1">appears</cue> to be due to RE/AP and <scope type="neg" id="0"><cue type="neg" id="0">not</cue> the NFAT or AP-1 sites</scope></scope> .</sentence>
+<sentence id="8">In addition , these data <scope type="spec" id="4"> <cue type="spec" id="4">suggest</cue> that <scope type="neg" id="2">transcriptional activation of RE/AP is <cue type="neg" id="2">not</cue> mediated by NFAT</scope> , because <scope type="neg" id="3">activation of a NFAT reporter is <cue type="neg" id="3">not</cue> affected by the addition of CTLA4Ig</scope></scope> .</sentence>

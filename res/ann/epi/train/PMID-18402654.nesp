@@ -1,0 +1,17 @@
+<sentence id="0">A yeast three-hybrid system that reconstitutes mammalian hypoxia inducible factor regulatory machinery .</sentence>
+<sentence id="1">BACKGROUND : Several human pathologies , including neoplasia and ischemic cardiovascular diseases , course with an unbalance between oxygen supply and demand ( hypoxia ) .</sentence>
+<sentence id="2">Cells within hypoxic regions respond with the induction of a specific genetic program , under the control of the Hypoxia Inducible Factor ( HIF ) , that mediates their adaptation to the <scope type="neg" id="0"><cue type="neg" id="0">lack</cue> of oxygen</scope> .</sentence>
+<sentence id="3">The activity of HIF is mainly regulated by the EGL-nine homolog ( EGLN ) enzymes that hydroxylate the alpha subunit of this transcription factor in an oxygen-dependent reaction .</sentence>
+<sentence id="4">Hydroxylated HIF is then recognized and ubiquitinilated by the product of the tumor suppressor gene , pVHL , leading to its proteosomal degradation .</sentence>
+<sentence id="5">Under hypoxia , the hydroxylation of HIF by the EGLNs is compromised due to the <scope type="neg" id="1"><cue type="neg" id="1">lack</cue> of oxygen</scope> , which is a reaction cosubstrate .</sentence>
+<sentence id="6">Thus , HIF escapes degradation and drives the transcription of its target genes .</sentence>
+<sentence id="7">Since <scope type="spec" id="2"> the progression of the aforementioned pathologies <cue type="spec" id="2">might</cue> be influenced by activation of HIF-target genes</scope> , development of small molecules with the ability to interfere with the HIF-regulatory machinery is of great interest .</sentence>
+<sentence id="8">RESULTS : Herein we describe a yeast three-hybrid system that reconstitutes mammalian HIF regulation by the EGLNs and VHL .</sentence>
+<sentence id="9">In this system , yeast growth , under specific nutrient restrictions , is driven by the interaction between the beta domain of VHL and a hydroxyproline-containing HIFalpha peptide .</sentence>
+<sentence id="10">In turn , this interaction is strictly dependent on EGLN activity that hydroxylates the HIFalpha peptide .</sentence>
+<sentence id="11">Importantly , this system accurately preserves the specificity of the hydroxylation reaction toward specific substrates .</sentence>
+<sentence id="12">We <scope type="spec" id="3"> <cue type="spec" id="3">propose</cue> that this system , in combination with a matched control , can be used as a simple and inexpensive assay to identify molecules that specifically modulate EGLN activity</scope> .</sentence>
+<sentence id="13">As a proof of principle we show that two known EGLN inhibitors , dimethyloxaloylglycine ( DMOG ) and 6-chlor-3-hydroxychinolin-2-carbonic acid-N-carboxymethylamide ( S956711 ) , have a profound and specific effect on the yeast HIF/EGLN/VHL system .</sentence>
+<sentence id="14">CONCLUSION : The system described in this work accurately reconstitutes HIF regulation while preserving EGLN substrate specificity .</sentence>
+<sentence id="15">Thus , it is a valuable tool to study HIF regulation , and particularly EGLN biochemistry , in a cellular context .</sentence>
+<sentence id="16">In addition , we demonstrate that this system can be used to identify specific inhibitors of the EGLN enzymes .</sentence>

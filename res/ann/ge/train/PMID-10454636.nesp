@@ -1,0 +1,12 @@
+<sentence id="0">Dopamine stimulates expression of the human immunodeficiency virus type 1 via NF-kappaB in cells of the immune system .</sentence>
+<sentence id="1">Recent studies have reported that lymphocytes produce , transport and bind dopamine present in plasma .</sentence>
+<sentence id="2">However , <scope type="neg" id="0">the action of dopamine on HIV-1 gene expression in cells of the immune system has <cue type="neg" id="0">not</cue> yet been examined</scope> .</sentence>
+<sentence id="3">Here , we have investigated the regulation of HIV-1 expression by dopamine in Jurkat T cells and in primary blood mononuclear cells ( PBMC ) .</sentence>
+<sentence id="4">HIV-1 replication was increased by dopamine , which correlated with the increased levels of HIV-1 transactivation .</sentence>
+<sentence id="5">Our transient expression data revealed that dopamine stimulated transcription through the NF-kappaB element present in the long terminal repeat .</sentence>
+<sentence id="6">The importance of NF-kappaB sites was confirmed by using vectors containing wild-type or mutant kappaB sites in a heterologous promoter .</sentence>
+<sentence id="7">Consistent with the role of NF-kappaB in mediating dopamine responsiveness , the proteasome inhibitor MG132 abolished dopamine-induced transcriptional activation .</sentence>
+<sentence id="8">We further explored the effect of dopamine in the presence of phorbol esters or tumor necrosis factor-alpha ( TNF-alpha ) known to activate NF-kappaB .</sentence>
+<sentence id="9">The combination of dopamine and TNF-alpha led to a stimulation of HIV-1 transcription and replication .</sentence>
+<sentence id="10">However , in contrast with TNF-alpha , dopamine treatment did <scope type="neg" id="1"><cue type="neg" id="1">not</cue> affect NF-kappaB DNA binding activity <scope type="neg" id="2"><cue type="neg" id="2">nor</cue> the concentrations of p50 , p65 and IkappaB-alpha proteins</scope></scope> , which <scope type="spec" id="3"> <cue type="spec" id="3">suggests</cue> a distinct NF-kappaB activation mechanism</scope> .</sentence>
+<sentence id="11">These results reveal a new link between the dopamine system , cytokine signaling pathway and regulation of gene expression via the involvement of NF-kappaB in T cells and PBMC .</sentence>

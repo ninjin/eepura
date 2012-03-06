@@ -1,0 +1,17 @@
+<sentence id="0">AprA Confers Protection against Diptericin</sentence>
+<sentence id="1">We have shown that AprA protects P. entomophila against the Imd-regulated immune response .</sentence>
+<sentence id="2">This immune pathway regulates the expression of several AMP genes , as well as many other immune genes .</sentence>
+<sentence id="3">Previous studies <scope type="spec" id="0"> <cue type="spec" id="0">indicated that</cue> Attacin A and Diptericin are the AMP genes most strongly induced in the gut following ingestion of infectious bacteria [ 7 ]</scope> .</sentence>
+<sentence id="4">It has also been <scope type="spec" id="1"> <cue type="spec" id="1">suggested</cue> that proteases homologous to AprA in other bacterial species degrade AMPs in vitro , thereby enabling pathogens to withstand the attack of the host immune system [ 20,21</scope> ] .</sentence>
+<sentence id="5">We confirmed that P. entomophila AprA rapidly degrades Cecropin A in vitro ( unpublished data ) .</sentence>
+<sentence id="6">To investigate a <scope type="spec" id="2"> <cue type="spec" id="2">possible</cue> in vivo</scope> role of AprA in the protection against AMPs synthesized in the gut , we compared survival to P. entomophila in imd-deficient flies over-expressing Attacin A or Diptericin ubiquitously under the control of the daughterless Gal4 driver ( daGal4 ) using the UAS-Gal4 system ( referred to as imd ; da>AMP , Figure S3B ) .</sentence>
+<sentence id="7">This strategy allowed us to study the contribution of each antibacterial peptide to the defense against a P. entomophila infection .</sentence>
+<sentence id="8">In a first set of experiments , we compared the survival rate of wild-type , imd , and imd ; da>Dpt or AttA flies to natural infection with P. entomophila .</sentence>
+<sentence id="9">Ubiquitous expression of Attacin A and Diptericin with the da-Gal4 driver greatly increased the resistance of imd mutant flies ( Figure 6A ) .</sentence>
+<sentence id="10">This experiment demonstrates that these AMPs can confer protection against P. entomophila and is in good agreement with a previous study showing that Attacin is the most potent AMP against Gram-negative bacteria [ 22 ] .</sentence>
+<sentence id="11">Importantly , it also reveals for the first time a major contribution of Diptericin to host defense , <scope type="neg" id="3">which was <cue type="neg" id="3">not</cue> previously detected using systemic injection of microbes [ 22</scope> ] .</sentence>
+<sentence id="12">To investigate the in vivo relationship between AMP activity and microbial persistence we next compared the numbers of bacteria of wild-type P. entomophila and aprA mutants in imd fly lines over-expressing Diptericin .</sentence>
+<sentence id="13">Figure 6B shows that the aprA mutant persisted less well than wild-type bacteria in imd flies over-expressing Diptericin .</sentence>
+<sentence id="14"><scope type="neg" id="4"><cue type="neg" id="4">This</cue> result clearly <scope type="spec" id="5"> <cue type="spec" id="5">indicates</cue> an in vivo action of AprA against Diptericin</scope></scope> .</sentence>
+<sentence id="15"><scope type="neg" id="6"><cue type="neg" id="6">No</cue> effect</scope> could be detected when Attacin A was over-expressed in agreement with the bacteriostatic mode of action of this AMP ( unpublished data ) .</sentence>
+<sentence id="16">Altogether , our results provide an in vivo demonstration that AprA functions in the protection of P. entomophila against Drosophila AMPs .</sentence>

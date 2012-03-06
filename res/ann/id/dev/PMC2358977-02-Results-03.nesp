@@ -1,0 +1,21 @@
+<sentence id="0">Construction of DeltasalKR</sentence>
+<sentence id="1">To test the role of SalK/SalR in the pathogenesis of SS2 , we constructed a homologous suicide plasmid , pUC::salKR with a SpcR cassette ( Fig .</sentence>
+<sentence id="2">3A ) , and electrotransformed the competent cells of 05ZYH33 .</sentence>
+<sentence id="3">Positive transformants were first screened on THB agar plates under the selective pressure of spectinomycin .</sentence>
+<sentence id="4">Colony PCR-based assays were performed to detect <scope type="spec" id="0"> <cue type="spec" id="0">whether</cue> salKR was still present in the genome or not</scope> .</sentence>
+<sentence id="5">One candidate mutant in which salKR <scope type="neg" id="1"><cue type="neg" id="1">failed</cue> to be amplified was obtained</scope> .</sentence>
+<sentence id="6">To check this <scope type="spec" id="2"> <cue type="spec" id="2">suspected</cue> mutant , Southern hybridization analyses were employed using probes of SpcR gene , an internal fragment of salKR , and pUC18 , respectively</scope> .</sentence>
+<sentence id="7">In wild type strain 05ZYH33 , the internal fragment of salKR probe hybridized with a single 4.0 kb Cla I fragment ( Fig .</sentence>
+<sentence id="8">3C , lane 1 ) , whereas the SpcR and pUC18 probes did <scope type="neg" id="3"><cue type="neg" id="3">not</cue> hybridized with the genomic DNA ( Fig</scope> .</sentence>
+<sentence id="9">3B and 3D , lane 1 ) .</sentence>
+<sentence id="10">In the <scope type="spec" id="4"> <cue type="spec" id="4">suspected</cue> mutant , a 3.6 kb restriction fragment hybridized with the SpcR probe ( Fig</scope> .</sentence>
+<sentence id="11">3B , lane 2 ) , while <scope type="neg" id="5"><cue type="neg" id="5">no</cue> hybridization signal was detected when the internal fragment of salKR and pUC18 served as the probes ( Fig</scope> .</sentence>
+<sentence id="12">3C and 3D , lane 2 ) .</sentence>
+<sentence id="13">In a single cross-over mutant which was set as the reference , both the SpcR and pUC18 probe hybridized with a 6.1 kb Cla I restriction fragment ( Fig .</sentence>
+<sentence id="14">3B and 3D , lane 3 ) , and the salKR probe hybridized with a 4.0 kb fragment ( Fig .</sentence>
+<sentence id="15">3C , lane 3 ) , <scope type="spec" id="6"> <cue type="spec" id="6">indicating that</cue> this strain had pUC::salKR integrated into its chromosome by a single cross-over event at the 3'-flanking region of the salKR genes ( Fig</scope> .</sentence>
+<sentence id="16">3A , III ) .</sentence>
+<sentence id="17">Additionally , the allelic replacement of the wild-type salKR genes by the SpcR cassette in the <scope type="spec" id="7"> <cue type="spec" id="7">suspected</cue> mutant was also confirmed by multiple-PCR analysis and sequencing with primers specific to genomic regions lying out the homologous left and right arms ( Fig</scope> .</sentence>
+<sentence id="18">3A and 3E ) .</sentence>
+<sentence id="19">All these results demonstrate that an isogenic knockout mutant of salKR ( namely DeltasalKR ) was successfully constructed .</sentence>
+<sentence id="20">RT-PCR experiments later also showed that <scope type="spec" id="11"> <scope type="neg" id="8"><cue type="neg" id="8">neither</cue> salK <scope type="neg" id="9"><cue type="neg" id="9">nor</cue> salR <cue type="spec" id="11">could</cue> be transcribed in DeltasalKR</scope></scope> <scope type="neg" id="10">( data <cue type="neg" id="10">not</cue> shown )</scope> , which further confirmed that salKR had been deleted from the bacterial chromosome</scope> .</sentence>

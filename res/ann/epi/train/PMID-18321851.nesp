@@ -1,0 +1,12 @@
+<sentence id="0">Cue1p is an activator of Ubc7p E2 activity in vitro and in vivo .</sentence>
+<sentence id="1">Ubc7p is a ubiquitin-conjugating enzyme ( E2 ) that functions with endoplasmic reticulum (ER)-resident ubiquitin ligases ( E3s ) to promote endoplasmic reticulum-associated degradation ( ERAD ) .</sentence>
+<sentence id="2">Ubc7p only functions in ERAD if bound to the ER surface by Cue1p , a membrane-anchored ER protein .</sentence>
+<sentence id="3"><scope type="spec" id="0"> The role of Cue1p was <cue type="spec" id="0">thought</cue> to involve passive concentration of Ubc7p at the surface of the ER</scope> .</sentence>
+<sentence id="4">However , our biochemical studies of Ubc7p <scope type="spec" id="1"> <cue type="spec" id="1">suggested</cue> that Cue1p <scope type="spec" id="2"> <cue type="spec" id="2">may</cue> , in addition , stimulate Ubc7p E2 activity</scope></scope> .</sentence>
+<sentence id="5">We have tested this idea and found it to be true both in vitro and in vivo .</sentence>
+<sentence id="6">Ubc7p bound to the soluble domain of Cue1p showed strongly enhanced in vitro ubiquitination activity , both in the presence and absence of E3 .</sentence>
+<sentence id="7">Cue1p also enhanced Ubc7p function in vivo , and this activation was separable from the established ER-anchoring role of Cue1p .</sentence>
+<sentence id="8">Finally , we tested in vivo activation of Ubc7p by Cue1p in an assay independent of the ER membrane and ERAD .</sentence>
+<sentence id="9">A chimeric E2 linking Ubc7p to the Cdc34p/Ubc3p localization domain complemented the cdc34-2 TS phenotype , and co-expression of the soluble Cue1p domain enhanced complementation by this chimeric Ubc7p E2 .</sentence>
+<sentence id="10">These studies reveal a previously unobserved stimulation of Ubc7p E2 activity by Cue1p that is critical for full ERAD and that functions independently of the well known Cue1p anchoring function .</sentence>
+<sentence id="11">Moreover , it <scope type="spec" id="3"> <cue type="spec" id="3">suggests</cue> a previously unappreciated mode for regulation of E2s by Cue1p-like interacting partners</scope> .</sentence>

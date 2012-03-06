@@ -1,0 +1,12 @@
+<sentence id="0">Cell specific expression of human Bruton 's agammaglobulinemia tyrosine kinase gene ( Btk ) is regulated by Sp1- and Spi-1/PU.1-family members .</sentence>
+<sentence id="1">Bruton 's agammaglobulinemia tyrosine kinase ( Btk ) is a cytoplasmic tyrosine kinase involved in the human disease X-linked agammaglobulinemia ( XLA ) .</sentence>
+<sentence id="2">The gene is expressed in all hematopoietic cells <scope type="neg" id="0"><cue type="neg" id="0">with the</cue> exception of T-cells and plasma cells</scope> .</sentence>
+<sentence id="3">For this expression pattern <scope type="spec" id="1"> the first 280 bp upstream of the major transcriptional start site <cue type="spec" id="1">seems</cue> to be sufficient</scope> .</sentence>
+<sentence id="4">In vitro footprinting analysis within this part of the promoter revealed two Sp1 binding sites as well as a PU-box .</sentence>
+<sentence id="5">The transcription factor Spi-1/PU.1 as well as the closely related factor Spi-B bound to the PU-box in B-cells .</sentence>
+<sentence id="6">In the erythroleukemia cell line K562 , due to the absence of Spi-B , only PU.1 bound to the Btk promoter .</sentence>
+<sentence id="7">Mutation of either site reduced the expression in transient transfection experiments .</sentence>
+<sentence id="8">However , mutation of the PU box had <scope type="neg" id="2"><cue type="neg" id="2">no</cue> effect in the T-cell line Jurkat</scope> , where <scope type="neg" id="3"><cue type="neg" id="3">none</cue> of the Spi-1 family members is expressed</scope> .</sentence>
+<sentence id="9">In addition Spi-B as well as PU.1 were able to transactivate Btk expression .</sentence>
+<sentence id="10">In fetal liver of PU.1-/- mice , which <scope type="neg" id="4"><cue type="neg" id="4">lack</cue> lymphoid and myeloid cells</scope> , expression of Btk was reduced two- to threefold but <scope type="neg" id="5"><cue type="neg" id="5">not</cue> abolished</scope> .</sentence>
+<sentence id="11">Collectively this study shows that expression of the Btk gene is regulated by the combined action of Sp1- and PU.1-family members .</sentence>

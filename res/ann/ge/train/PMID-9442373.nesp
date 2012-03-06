@@ -1,0 +1,15 @@
+<sentence id="0">Regulation of NF-kappa B activity by I kappa B alpha and I kappa B beta stability .</sentence>
+<sentence id="1">Transcription factor NF-kappa B must be released from cytoplasmic inhibitory molecules ( I kappa Bs ) in order to move to the nucleus and to activate its target genes .</sentence>
+<sentence id="2">Little is known about the mechanisms regulating the maintenance of constitutive nuclear NF-kappa B in some cell-types and of sustained nuclear NF-kappa B activity after stimulation .</sentence>
+<sentence id="3">Increased turnover has been implicated in the regulation of constitutive NF-kappa B activity in mature B cells .</sentence>
+<sentence id="4">We therefore compared the turnover of I kappa B alpha and I kappa B beta in mature B cells and HeLa cells .</sentence>
+<sentence id="5">Both proteins display a high turnover in B cells although I kappa B beta is considerably more stable than I kappa B alpha .</sentence>
+<sentence id="6">The half-life of both inhibitors is increased in HeLa cells .</sentence>
+<sentence id="7">In contrast , all other NF-kappa B/I kappa B molecules tested are relatively stable in both cell-types .</sentence>
+<sentence id="8">The elevated turnover of endogenous I kappa B alpha in Namalwa cells is inhibited by a proteasome inhibitor and thus <scope type="spec" id="0"> <cue type="spec" id="0">seems</cue> to be driven by the same degradation machinery as the slower turnover in non-B cells</scope> .</sentence>
+<sentence id="9">Furthermore , we investigated the processes involved in persistent activation of NF-kappa B. TNF-alpha signaling leads to a rapid depletion of cellular I kappa B beta pools .</sentence>
+<sentence id="10">I kappa B alpha is efficiently resynthesized whereas I kappa B beta levels stay low for a prolonged time .</sentence>
+<sentence id="11">NF-kappa B binding activity can be detected for several hours after stimulation .</sentence>
+<sentence id="12">We found that removal of the TNF-alpha containing medium causes a rapid decrease in nuclear NF-kappa B. A phosphoform of newly synthesized I kappa B alpha is visible when degradation by the proteasome is inhibited and new I kappa B alpha displays the same properties regarding phosphorylation and degradation in response to a second inducer .</sentence>
+<sentence id="13">There is <scope type="neg" id="1"><cue type="neg" id="1">no</cue> significant difference in the turnover of pre- and post-inductive I kappa B alpha</scope> .</sentence>
+<sentence id="14">These observations <scope type="spec" id="2"> <cue type="spec" id="2">suggest</cue> that resynthesis of I kappa B alpha and removal of the stimulus are obligatory steps for the inactivation of nuclear NF kappa B.</scope></sentence>

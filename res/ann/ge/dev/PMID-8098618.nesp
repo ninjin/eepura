@@ -1,0 +1,13 @@
+<sentence id="0">Activation of primary human T-lymphocytes through CD2 plus CD28 adhesion molecules induces long-term nuclear expression of NF-kappa B.</sentence>
+<sentence id="1">Stimulation of highly purified human T-cells via CD2 and CD28 adhesion molecules induces and maintains proliferation for more than 3 weeks .</sentence>
+<sentence id="2">This potent interleukin 2 (IL-2)-dependent activation does <scope type="neg" id="0"><cue type="neg" id="0">not</cue> require monocytes or accessory cells</scope> .</sentence>
+<sentence id="3">Long-lasting IL-2 receptivity is associated with high-level expression of the inducible IL-2 receptor alpha chain ( IL-2R alpha ) gene that is regulated at both transcriptional and posttranscriptional levels .</sentence>
+<sentence id="4">Increase of IL-2R alpha gene transcription involves the enhanced binding of the transcription factor NF-kappa B to its consensus sequence in the 5'-regulatory region of the IL-2R alpha gene .</sentence>
+<sentence id="5">To dissect the molecular basis for the unusually persistent transcription of the IL-2R alpha gene , we analyzed nuclear NF-kappa B binding to a radiolabeled IL-2R alpha kappa B-specific oligonucleotide probe during the time course of CD2 + CD28 activation .</sentence>
+<sentence id="6">Resting T-cell nuclear extracts contained KBF1/p50 homodimer .</sentence>
+<sentence id="7">After stimulation , two new kappa B-specific complexes were identified as NF-kappa B p50-p65 heterodimer and <scope type="spec" id="1"> <cue type="spec" id="1">putative</cue> <scope type="spec" id="2"> c-Rel homodimer <cue type="spec" id="2">or</cue> c-Rel-p65 heterodimer</scope></scope> .</sentence>
+<sentence id="8">Both inducible complexes persisted for at least 3 weeks .</sentence>
+<sentence id="9">Their relative levels were very similar for the duration of proliferation .</sentence>
+<sentence id="10">In parallel , CD2 + CD28 activation triggered a significant intracellular thiol decrease , <scope type="spec" id="3"> <cue type="spec" id="3">suggesting</cue> that oxygen radicals are involved in the signaling pathway of adhesion molecules</scope> .</sentence>
+<sentence id="11">Finally , micromolar amounts of pyrrolidine dithiocarbamate , an oxygen radical scavenger that efficiently blocked the nuclear appearance of NF-kappa B in T-lymphocytes , also inhibited IL-2 secretion , IL-2R alpha cell surface expression , and T-cell proliferation .</sentence>
+<sentence id="12">Together , these results <scope type="spec" id="4"> <cue type="spec" id="4">suggest</cue> that NF-kappa B plays an important role in long-term activation of human primary T-lymphocytes via CD2 + CD28</scope> .</sentence>

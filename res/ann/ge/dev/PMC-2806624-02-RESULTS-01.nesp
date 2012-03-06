@@ -1,0 +1,35 @@
+<sentence id="0">The role of RUNX1 and RUNX3 transcription factors in TGF-==beta====-==mediated iT reg cell generation</sentence>
+<sentence id="1">To investigate the role of RUNX transcription factors in the development of iT reg cells , we cultured naive CD4+ T cells , isolated from human PBMCs , in conditions that enable the development of iT reg cells .</sentence>
+<sentence id="2">Stimulation with anti-CD2/3/28 mAbs or TGF-==beta = = alone resulted in a minimal up-regulation of RUNX1 and RUNX3 mRNA ( Fig .</sentence>
+<sentence id="3">1 A ) .</sentence>
+<sentence id="4">In contrast , the combination of both TGF-==beta = = and anti-CD2/3/28 mAbs induced RUNX1 and RUNX3 mRNAs , as well as FOXP3 mRNA , within 48 h in naive CD4+ T cells .</sentence>
+<sentence id="5">This result <scope type="spec" id="0"> <cue type="spec" id="0">suggested</cue> further experiments to investigate <scope type="spec" id="1"> <cue type="spec" id="1">whether</cue> the up-regulation of RUNX1 and RUNX3 <scope type="spec" id="2"> <cue type="spec" id="2">might</cue> be a feature of iT reg cells during their development or even a prerequisite for their induction</scope></scope></scope> .</sentence>
+<sentence id="6">To test this hypothesis , RUNX1 and RUNX3 expression was knocked down in human naive CD4+ T cells by transfection of small interfering RNAs ( siRNAs ; Fig .</sentence>
+<sentence id="7">1 B ) .</sentence>
+<sentence id="8">Deficiency of RUNX1 or RUNX3 resulted in markedly reduced TGF-==beta====-==mediated induction of FOXP3 mRNA in naive CD4+ T cells compared with control cells transfected with scrambled siRNA .</sentence>
+<sentence id="9">The level of FOXP3 mRNA was further reduced when both RUNX1 and RUNX3 were knocked down in naive CD4+ T cells during their differentiation to iT reg cells ( Fig .</sentence>
+<sentence id="10">1 B ) .</sentence>
+<sentence id="11">The influence of RUNX1 and RUNX3 on the development of other T cell subsets and their specific transcription factor expression was further investigated .</sentence>
+<sentence id="12">Naive CD4+ T cells were cultured under Th1 , Th2 , T reg cell , and Th17 differentiation conditions and the mRNA expression of the predominant transcription factor for each cell type was subsequently analyzed .</sentence>
+<sentence id="13">We observed <scope type="neg" id="3"><cue type="neg" id="3">no</cue> change in GATA3 expression in Th2 cells</scope> , T-bet expression in Th1 cells , or RORC2 mRNA expression in Th17 cells in which RUNX1 and RUNX3 were knocked down compared with control cells .</sentence>
+<sentence id="14">On the contrary , FOXP3 mRNA was significantly decreased in RUNX1- and RUNX3-deficient T reg cells compared with control cells ( Fig .</sentence>
+<sentence id="15">1 C ) .</sentence>
+<sentence id="16">The effect of RUNX silencing on the expression level of intracellular FOXP3 during naive CD4+ T cell differentiation to iT reg was evaluated by flow cytometry .</sentence>
+<sentence id="17">FOXP3 was only slightly reduced after RUNX1 silencing .</sentence>
+<sentence id="18">Transfection of siRNA for RUNX3 had a stronger effect .</sentence>
+<sentence id="19">The most striking FOXP3 reduction was observed when RUNX1 and RUNX3 were silenced together ( Fig .</sentence>
+<sentence id="20">1 D ) .</sentence>
+<sentence id="21">Similar results were obtained in total CD4+ T cells ( Fig .</sentence>
+<sentence id="22">S1 and Fig .</sentence>
+<sentence id="23">S2 ) .</sentence>
+<sentence id="24">The increased impact of combined RUNX1 and RUNX3 knockdown <scope type="spec" id="4"> <cue type="spec" id="4">implies</cue> that RUNX1 and RUNX3 <scope type="spec" id="5"> <cue type="spec" id="5">might</cue> have redundant functions in the induction of FOXP3</scope></scope> .</sentence>
+<sentence id="25">In addition , the levels of IL-4 , IL-5 , IL-10 , IL-13 , and IFN-==gamma = = in control siRNA-transfected or RUNX1 and RUNX3 siRNA-transfected CD4+ T cells that were cultured with or <scope type="neg" id="6"><cue type="neg" id="6">without</cue> anti-CD2/3/28 mAb and TGF-==beta = = did <scope type="neg" id="7"><cue type="neg" id="7">not</cue> show any significant difference</scope> ( Fig</scope> .</sentence>
+<sentence id="26">S3 ) .</sentence>
+<sentence id="27">To determine <scope type="spec" id="8"> <cue type="spec" id="8">whether</cue> RUNX1 and RUNX3 are also expressed in human T reg cells in vivo</scope> , we isolated peripheral blood CD4+ CD127==- = = CD25high T reg cells and compared them with CD4+ CD127+ CD25==- = = T cells .</sentence>
+<sentence id="28">Circulating T reg cells expressed significantly higher levels of RUNX3 mRNA compared with CD4+CD25==- = = cells .</sentence>
+<sentence id="29">As expected , IL-10 , TGF-==beta = = , and FOXP3 mRNAs are also expressed in circulating T reg cells ( Fig .</sentence>
+<sentence id="30">2 A ) .</sentence>
+<sentence id="31">There was <scope type="neg" id="9"><cue type="neg" id="9">no</cue> difference in RUNX1 mRNA expression between these two cell subsets</scope> .</sentence>
+<sentence id="32">We also performed an analysis of human tonsils , which contain high numbers of FOXP3+ T reg cells ( Verhagen et al. , 2006 ) .</sentence>
+<sentence id="33">Staining of tonsil sections for FOXP3 and RUNX3 demonstrated in vivo coexpression of these two molecules in a subset of T reg cells , whereas there was low RUNX1 expression in all tonsil cells ( Fig .</sentence>
+<sentence id="34">2 B ) .</sentence>

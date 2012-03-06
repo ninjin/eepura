@@ -1,0 +1,15 @@
+<sentence id="0">SmpB control of biological processes</sentence>
+<sentence id="1"><scope type="spec" id="0"> SmpB is <cue type="spec" id="0">thought</cue> to be limited to trans-translation</scope> but has been shown to increase the translation of a single protein - the stationary phase sigma factor RpoS [ 19 ] .</sentence>
+<sentence id="2">The normal function of SmpB is in quality control to free ribosomes stalled on defective mRNAs [ 11 ] , [ 16 ] .</sentence>
+<sentence id="3">However , results from our global proteomics analysis <scope type="spec" id="1"> <cue type="spec" id="1">indicate that</cue> SmpB directly <scope type="spec" id="2"> <cue type="spec" id="2">or</cue> indirectly modulates the expression of at least 4 % of the entire Salmonella Typhimurium proteome determined from ANOVA analysis ( p<0.05 ) ( Table S1 )</scope></scope> .</sentence>
+<sentence id="4">The majority of genes encoding these proteins showed <scope type="neg" id="3"><cue type="neg" id="3">no</cue> changes in mRNA level</scope> thus it is interesting to <scope type="spec" id="4"> <cue type="spec" id="4">speculate</cue> an additional role for SmpB as a general post-transcriptional/translational regulator in Salmonella Typhimurium</scope> .</sentence>
+<sentence id="5">Few of the genes identified are regulated by RpoS again <scope type="spec" id="5"> <cue type="spec" id="5">suggesting</cue> that this is a direct translational effect and not indirect transcriptional</scope> .</sentence>
+<sentence id="6">The RpoS regulon in Salmonella Typhimurium has been initially characterized , identifying 13 conserved RpoS-regulated genes [ 48 ] .</sentence>
+<sentence id="7">From our global proteomics analysis we were able to observe gene products for 8 of the 13 conserved RpoS-regulated genes , of which only a single protein , YciF , was regulated by SmpB .</sentence>
+<sentence id="8">We note however that a more detailed and rigorous analysis is required to confirm the speculated global regulatory role of SmpB .</sentence>
+<sentence id="9">Examination of proteins modulated by SmpB revealed a number of SmpB regulated cellular processes .</sentence>
+<sentence id="10">SmpB regulates histidine biosynthesis in AMM-1 , affecting HisDGCBHAF .</sentence>
+<sentence id="11">Proteins involved in motility in Salmonella Typhimurium also showed down-regulation during growth in LB media .</sentence>
+<sentence id="12">This set of proteins included the chemotaxis proteins CheZ , CheY , CheW , CheA and Tsr as well as the flagellar proteins FliC , FliD , FliG and FljB .</sentence>
+<sentence id="13">This <scope type="spec" id="6"> <cue type="spec" id="6">suggests</cue> that a more thorough examination of the role of SmpB in the regulation of cell motility and histidine biosynthesis is warranted</scope> .</sentence>
+<sentence id="14">Western blot analysis of FliC relative protein levels validated results from the proteomics analysis ( Figure S2B ) .</sentence>
