@@ -19,7 +19,7 @@ Negation and speculation annotations were stripped using:
 Filenames were corrected for the `nesp` files since for some reason they
 violated the original BioNLP ST naming conventions by containing spaces:
 
-    #!/usr/bin/env bash
+    #!/bin/sh
     find res -name '* *.nesp' | while read f
     do
         mv "$f" `echo $f | sed -e 's| |_|g'`
