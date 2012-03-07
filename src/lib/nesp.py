@@ -77,9 +77,7 @@ class NESPSpans(object):
                 span, _type = self.data[elem][_id]
                 self.data[elem][_id] = ([trans[span[0]], trans[span[1]]], _type)
 
-    def to_standoff(self, text):
-        next_e_id = 1
-        next_tb_id = 1
+    def to_standoff(self, text, next_tb_id=1, next_e_id=1):
         # Note: We are assuming sanity all the way here
         for cue_id, cue_data in self.data['cue'].iteritems():
             cue_offsets, cue_type = cue_data
