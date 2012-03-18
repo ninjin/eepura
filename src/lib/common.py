@@ -18,7 +18,7 @@ class Textbound(object):
         self.comment = comment
 
     def __str__(self):
-        return 'T{}\t{} {} {}\t{}'.format(self.id, self.type, self.start,
+        return '{}\t{} {} {}\t{}'.format(self.id, self.type, self.start,
                 self.end, self.comment)
 
 
@@ -30,7 +30,7 @@ class Event(object):
         self.args = args
 
     def __str__(self):
-        return 'E{}\t{}:{}{}'.format(self.id, self.type, self.trigger,
+        return '{}\t{}:{}{}'.format(self.id, self.type, self.trigger,
                 (' ' + ' '.join('{}:{}'.format(k, v)
                     for k, v in self.args.iteritems())) if self.args else '')
 
@@ -42,4 +42,4 @@ class Modifier(object):
         self.target = target
 
     def __str__(self):
-        return 'M{}\t{} {}'.format(self.id, self.type, self.target)
+        return '{}\t{} {}'.format(self.id, self.type, self.target)

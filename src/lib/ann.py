@@ -13,13 +13,13 @@ Version:    2012-03-07
 from common import Textbound, Event, Modifier
 
 ### Constants
-ID_PREFIXES = set(('T', 'E', 'M'))
+ID_PREFIXES = set(('T', 'E', 'M', ))
 ###
 
 def parse_ann(ann_lines):
     for ann_line in ann_lines:
         if ann_line[0] in ID_PREFIXES:
-            ann_id = int(ann_line.split('\t')[0].lstrip(''.join(ID_PREFIXES)))
+            ann_id = ann_line.split('\t')[0]
             if ann_line.startswith('T'):
                 tb_data, tb_comment = ann_line.split('\t')[1:]
                 tb_type, tb_start, tb_end = tb_data.split(' ')
@@ -28,7 +28,7 @@ def parse_ann(ann_lines):
             elif ann_line.startswith('E'):
                 trigg_data, arg_data = ann_line.split('\t')[1].split(' ', 1)
                 trigg_type, trigg_id = trigg_data.split(':')
-                args = dict(a.split(':') for a in arg_data.split(' '))
+                args = dict(a.split(':') for a in arg_data.split(' ') if a)
                 yield Event(ann_id, trigg_type, trigg_id, args)
             elif ann_line.startswith('M'):
                 mod_type, mod_tgt = ann_line.split('\t')[1].split(' ')
