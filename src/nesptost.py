@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-assert False, 'XXX: Needs to be updated'
-
 '''
 "Enrich" annotation output with textual annotations converted from
 a BioScope-ish format.

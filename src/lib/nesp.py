@@ -93,8 +93,8 @@ class NESPSpans(object):
 
             # Trigger annotation
             cue_id = 'T{}'.format(next_tb_id)
-            yield Textbound(next_tb_id, event_type, cue_start, cue_end,
-                    text[cue_start:cue_end])
+            yield Textbound('T{}'.format(next_tb_id), event_type, cue_start,
+                    cue_end, text[cue_start:cue_end])
             next_tb_id += 1
             scope_id = 'T{}'.format(next_tb_id)
 
@@ -103,11 +103,11 @@ class NESPSpans(object):
                     }
 
             # Event annotation
-            yield Event(next_e_id, event_type, cue_id, args)
+            yield Event('E{}'.format(next_e_id), event_type, cue_id, args)
             next_e_id += 1
 
-            yield Textbound(next_tb_id, 'Span', scope_start, scope_end,
-                    text[scope_start:scope_end])
+            yield Textbound('T{}'.format(next_tb_id), 'Span', scope_start,
+                    scope_end, text[scope_start:scope_end])
             next_tb_id += 1
 
 
