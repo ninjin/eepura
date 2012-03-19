@@ -21,14 +21,18 @@ ARGPARSER.add_argument('nesp_file', type=FileType('r'), help='BioScope-ish outpu
 ARGPARSER.add_argument('txt_file', type=FileType('r'), help='text file')
 ARGPARSER.add_argument('a1_file', type=FileType('r'), help='a1 file')
 ARGPARSER.add_argument('-a', '--a2-file', type=FileType('r'), help='optional a2 file')
+ARGPARSER.add_argument('-t', '--start-tb-id', type=int, default=1,
+        help='start id number for texbounds')
+ARGPARSER.add_argument('-e', '--start-e-id', type=int, default=1,
+        help='start id number for events')
 ###
 
 def main(args):
     argp = ARGPARSER.parse_args(args[1:])
 
     # Read all event and textbound ids to find the highest used ids
-    next_tb_id = 1
-    next_e_id = 1
+    next_tb_id = argp.start_tb_id
+    next_e_id = argp.start_e_id
     for ann_line in chain(argp.a1_file,
             argp.a2_file if argp.a2_file is not None else tuple()):
         if not (ann_line.startswith('T') or ann_line.startswith('E')):

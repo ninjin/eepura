@@ -24,3 +24,14 @@ violated the original BioNLP ST naming conventions by containing spaces:
     do
         mv "$f" `echo $f | sed -e 's| |_|g'`
     done
+
+`nesp` files were converted into stand-off for visualisation and to fit into
+the framework using the `nesptost.py` script:
+
+    #!/bin/sh
+    for f in `find res/ann -name '*.nesp' | sed -e 's|\.nesp$||g'`
+    do
+        src/nesptost.py ${f}.{nesp,txt,a1} -t 1000 -e 1000 \
+            `if [ -f ${f}.a2 ]; then echo "-a ${f}.a2"; fi;` \
+            > ${f}.nesp.st
+    done
