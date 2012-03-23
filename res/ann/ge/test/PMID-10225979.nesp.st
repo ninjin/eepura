@@ -1,0 +1,3 @@
+T1000	Negation 799 802	not
+E1000	Negation:T1000 Scope:T1001
+T1001	Span 799 839	not other control transcription factors)

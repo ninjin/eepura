@@ -1,0 +1,3 @@
+T1000	Speculation 471 485	indicated that
+E1000	Speculation:T1000 Scope:T1001
+T1001	Span 471 1136	indicated that (i) constitutive c-fos transcript levels are significantly higher in patients subsequently responding to IFN-alpha therapy (p < 0.01) and positively correlated with the proportion of lymphocytes (r = 0.6895, p < 0.01) and negatively with the proportion of immature cells (r = -0.568, p < 0.01) contained in the pbmc preparations tested, (ii) constitutive mRNA levels of the hybrid bcr/abl, c-myc and p53 are positively correlated with each other, but failed to relate to disease parameters, and (iii) acute and chronic in vivo exposure to IFN-alpha is accompanied by upregulation of c-fos and downregulation of c-myc mRNA levels in responder patients
