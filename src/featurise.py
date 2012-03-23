@@ -26,7 +26,7 @@ ARGPARSER.add_argument('-v', '--verbose', action='store_true')
 
 # TODO: Embed different feature sets
 
-def _featurise_negated(_id, id_to_ann):
+def _featurise_negated(_id, id_to_ann, doc_base):
     e_ann = id_to_ann[_id]
     trigg_ann = id_to_ann[e_ann.trigger]
     # ^ does not occur in the train and dev sets, so it is relatively safe:
@@ -42,13 +42,31 @@ def _featurise_negated(_id, id_to_ann):
     for size in xrange(2, min(8, len(trigger_text) + 1)):
         yield 'TRIGGER-PREFIX-{}-{}'.format(size, trigger_text[:size])
 
+    # XXX: Not efficient! Re-done for every f-ing ann!
+    ee_anns = [a for a in id_to_ann.itervalues()]
+    nesp_path = doc_base + '.nesp.st'
+    from lib.ann import parse_ann
+    with open(nesp_path, 'r') as nesp_file:
+        # XXX: Remove the ugly hack to protect us from newlines!
+        nesp_anns = [a for a in parse_ann(l.rstrip('\n') for l in nesp_file if l.strip())]
+    from lib.heuristic import nesp_heuristic
+    from collections import defaultdict
+    mod_to_targets = defaultdict(set)
+    for mod_type, mod_id in nesp_heuristic(ee_anns, nesp_anns):
+        mod_to_targets[mod_type].add(mod_id)
+
+    # TODO: Choosing heuristic type! (also mark it in the feature text?)
+    for mod_type, mod_ids in mod_to_targets.iteritems():
+        if _id in mod_ids:
+            yield ('HEURISTIC-{}').upper().format(mod_type)
+
     # TODO: Feature, neighbour words
 
     # Event type, actually boosts us a bit, we'll come back to this later
     #yield 'EVENT-TYPE-{}'.format(e_ann.type)
 
-def _featurise_speculated(_id, id_to_ann):
-    for e in _featurise_negated(_id, id_to_ann):
+def _featurise_speculated(*args):
+    for e in _featurise_negated(*args):
         yield e
 
 def main(args):
@@ -57,7 +75,7 @@ def main(args):
     seen_negated = 0
     seen_speculated = 0
     for corpora_dir in argp.corpora_dir:
-        for doc_id, ann_it in read_corpora_dir(corpora_dir):
+        for doc_id, doc_base, ann_it in read_corpora_dir(corpora_dir):
             if argp.verbose:
                 print >> stderr, 'Reading document id: {}'.format(doc_id)
 
@@ -91,17 +109,17 @@ def main(args):
             seen_speculated += len(speculated)
 
             for e_ann_id in (a for a in ann_id_to_ann if a.startswith('E')):
-                neg_f_tup = _featurise_negated(e_ann_id, ann_id_to_ann)
                 argp.negation_features.write('{}\t{}\n'.format(
                     1 if e_ann_id in negated else 0,
                     ' '.join('{}:1'.format(f)
-                        for f in _featurise_negated(e_ann_id, ann_id_to_ann))
+                        for f in _featurise_negated(e_ann_id, ann_id_to_ann,
+                            doc_base))
                     ))
-                spec_f_tup = _featurise_speculated(e_ann_id, ann_id_to_ann)
                 argp.speculation_features.write('{}\t{}\n'.format(
                     1 if e_ann_id in speculated else 0,
                     ' '.join('{}:1'.format(f)
-                        for f in _featurise_speculated(e_ann_id, ann_id_to_ann))
+                        for f in _featurise_speculated(e_ann_id, ann_id_to_ann,
+                            doc_base))
                     ))
 
             if argp.verbose:

@@ -26,6 +26,7 @@ ARGPARSER.add_argument('event_extraction_output', nargs='?',
         type=FileType('r'), default=stdin)#XXX:
 ARGPARSER.add_argument('-o', '--output', type=FileType('w'),
         default=stdout)#XXX:
+# TODO: Add flags for choosing heuristics
 ###
 
 def main(args):

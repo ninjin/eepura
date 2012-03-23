@@ -27,10 +27,11 @@ def read_corpora_dir(dir_path):
         for txt_path in (path_join(root, f) for f in fnames
                 if f.endswith('.txt')):
             doc_id = _id(txt_path)
+            doc_base = splitext(txt_path)[0]
             ann_files = [f for f in (path_join(root, doc_id + ext)
                 for ext in ('.a1', '.a2', )) if exists(f)]
             if not ann_files:
                 # Ignore the .txt since it lacks annotations
                 continue
-            yield doc_id, parse_ann(l.rstrip('\n')
+            yield doc_id, doc_base, parse_ann(l.rstrip('\n')
                     for l in _read_files(*ann_files))
