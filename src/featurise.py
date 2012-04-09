@@ -51,14 +51,13 @@ def _featurise_negated(_id, id_to_ann, doc_base):
         nesp_anns = [a for a in parse_ann(l.rstrip('\n') for l in nesp_file if l.strip())]
     from lib.heuristic import nesp_heuristic
     from collections import defaultdict
-    mod_to_targets = defaultdict(set)
-    for mod_type, mod_id in nesp_heuristic(ee_anns, nesp_anns):
-        mod_to_targets[mod_type].add(mod_id)
-
-    # TODO: Choosing heuristic type! (also mark it in the feature text?)
-    for mod_type, mod_ids in mod_to_targets.iteritems():
-        if _id in mod_ids:
-            yield ('HEURISTIC-{}').upper().format(mod_type)
+    for mark in nesp_heuristic(ee_anns, nesp_anns):
+        if mark.target == _id:
+            heuristic_base = 'HEURISTIC-{}'.upper().format(mark.type)
+            yield heuristic_base
+            yield heuristic_base + '-' + mark.cue.comment.replace(' ', '^')
+            for span_token in mark.span.comment.split():
+                yield heuristic_base + '-' + span_token
 
     # TODO: Feature, neighbour words
 
