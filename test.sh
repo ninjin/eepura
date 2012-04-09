@@ -32,7 +32,8 @@ SPEC_DEV_PREDS=${WRK_DIR}/spec_dev.preds
 rm -rf ${WRK_DIR}
 mkdir ${WRK_DIR}
 
-TRAIN_BIN='ext/liblinear/train -q'
+#TRAIN_BIN='ext/liblinear/train -q'
+TRAIN_BIN='src/optimisec.py -j 64'
 PRED_BIN='ext/liblinear/predict'
 #TRAIN_BIN='src/randclassify.py train'
 #PRED_BIN='src/randclassify.py classify'
