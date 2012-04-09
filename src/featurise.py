@@ -26,7 +26,7 @@ ARGPARSER.add_argument('-v', '--verbose', action='store_true')
 
 # TODO: Embed different feature sets
 
-def _featurise_negated(_id, id_to_ann, doc_base):
+def _featurise_negated(_id, id_to_ann, doc_base, txt_doc):
     e_ann = id_to_ann[_id]
     trigg_ann = id_to_ann[e_ann.trigger]
     # ^ does not occur in the train and dev sets, so it is relatively safe:
@@ -59,10 +59,28 @@ def _featurise_negated(_id, id_to_ann, doc_base):
             for span_token in mark.span.comment.split():
                 yield heuristic_base + '-' + span_token
 
-    # TODO: Feature, neighbour words
-
     # Event type, actually boosts us a bit, we'll come back to this later
     #yield 'EVENT-TYPE-{}'.format(e_ann.type)
+
+    # Contextual features
+    sentence = txt_doc.sentence_by_offset(trigg_ann.start)
+
+    # BoW for the trigger context
+    trigger_token = sentence.token_by_offset(trigg_ann.start)
+    trigger_token_index = sentence.tokens.index(trigger_token)
+    pre_trigg_toks = sentence.tokens[:trigger_token_index]
+
+    for pre_trigg_tok in pre_trigg_toks[-3:]:
+        yield 'PRE-TRIGG-BOW:{}'.format(pre_trigg_tok.text.replace(' ', '^'))
+
+    # XXX: Hurts performance, as expected
+    #for sent_tok in sentence.tokens:
+    #    yield 'SENT-BOW:{}'.format(sent_tok.text.replace(' ', '^'))
+
+    post_trigg_toks = sentence.tokens[trigger_token_index + 1:]
+    post_trigg_toks.reverse()
+    for post_trigg_tok in post_trigg_toks[-3:]:
+        yield 'POST-TRIGG-BOW:{}'.format(post_trigg_tok.text.replace(' ', '^'))
 
 def _featurise_speculated(*args):
     for e in _featurise_negated(*args):
@@ -90,6 +108,13 @@ def main(args):
                     negated.add(ann.target)
                 elif ann.type == 'Speculation':
                     speculated.add(ann.target)
+
+            with open(doc_base + '.txt', 'r') as txt_file:
+                txt_data = txt_file.read()
+            with open(doc_base + '.tok', 'r') as tok_file:
+                tok_lines = (l.rstrip('\n') for l in tok_file)
+                from lib.tok import parse_txt_and_tok
+                txt_doc = parse_txt_and_tok(txt_data, tok_lines)
         
             # XXX: Old, remove
             '''
@@ -112,13 +137,13 @@ def main(args):
                     1 if e_ann_id in negated else 0,
                     ' '.join('{}:1'.format(f)
                         for f in _featurise_negated(e_ann_id, ann_id_to_ann,
-                            doc_base))
+                            doc_base, txt_doc))
                     ))
                 argp.speculation_features.write('{}\t{}\n'.format(
                     1 if e_ann_id in speculated else 0,
                     ' '.join('{}:1'.format(f)
                         for f in _featurise_speculated(e_ann_id, ann_id_to_ann,
-                            doc_base))
+                            doc_base, txt_doc))
                     ))
 
             if argp.verbose:
