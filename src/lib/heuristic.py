@@ -11,7 +11,7 @@ from itertools import chain
 
 from lib.common import Event, Textbound
 
-Marked = namedtuple('Marked', ('target', 'type', 'cue', 'span', ))
+Marked = namedtuple('Marked', ('target', 'type', 'cue', 'span', 'root', ))
 
 def _get_neg_and_spec_spans(nesp_anns):
     id_to_ann = {}
@@ -45,7 +45,7 @@ def _get_neg_and_spec_spans(nesp_anns):
 
     return neg_spans, spec_spans
 
-def nesp_heuristic(ee_anns, nesp_anns, root_internal=True):
+def nesp_heuristic(ee_anns, nesp_anns):
     neg_spans, spec_spans = _get_neg_and_spec_spans(nesp_anns)
 
     id_to_ann = {}
@@ -63,15 +63,12 @@ def nesp_heuristic(ee_anns, nesp_anns, root_internal=True):
                     and id_to_ann[a.trigger].start in span
                     and id_to_ann[a.trigger].end <= span.end]
 
-            if root_internal:
-                any_arg = True #XXX: Determine the optimal here
-                # Prune all events that are arguments of other events
-                # TODO: Chop this up
-                to_prune = set(chain(*[[v for k, v in a.args.iteritems()
-                        if any_arg or k in set(('Theme', ))]
-                    for a in events_in_span]))
-                events_in_span = [a for a in events_in_span
-                        if a.id not in to_prune]
+            any_arg = True #XXX: Determine the optimal here
+            # Prune all events that are arguments of other events
+            # TODO: Chop this up
+            non_root_marked_events = set(chain(*[[v for k, v in a.args.iteritems()
+                    if any_arg or k in set(('Theme', ))]
+                for a in events_in_span]))
                 
             for e_ann in events_in_span:
                 if e_ann.id not in marked_events:
@@ -79,5 +76,6 @@ def nesp_heuristic(ee_anns, nesp_anns, root_internal=True):
                     #print span
                     yield Marked(target=e_ann.id, type=span_type,
                             #XXX: CUE!
-                            cue=span.cue, span=span)
+                            cue=span.cue, span=span,
+                            root=e_ann.id not in non_root_marked_events)
                     marked_events.add(e_ann.id)

@@ -53,13 +53,15 @@ def _featurise_negated(_id, id_to_ann, doc_base, txt_doc):
     from collections import defaultdict
     for mark in nesp_heuristic(ee_anns, nesp_anns):
         if mark.target == _id:
-            heuristic_base = 'HEURISTIC-{}'.upper().format(mark.type)
+            heuristic_base = 'HEURISTIC-{}-{}'.upper().format(mark.type,
+                    'ROOT' if mark.root else 'NON-ROOT')
             yield heuristic_base
             yield heuristic_base + '-' + mark.cue.comment.replace(' ', '^')
             for span_token in mark.span.comment.split():
                 yield heuristic_base + '-' + span_token
 
     # Event type, actually boosts us a bit, we'll come back to this later
+    # XXX: Causes negation to spike with precision, hurts speculation
     #yield 'EVENT-TYPE-{}'.format(e_ann.type)
 
     # Contextual features
