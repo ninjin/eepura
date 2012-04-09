@@ -6,21 +6,18 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2012-03-23
 '''
 
+from collections import namedtuple
 from itertools import chain
 
 from lib.common import Event, Textbound
 
-
-class Span(object):
-    def __init__(self, start, end):
-        self.start = start
-        self.end = end
-
-    def __contains__(self, index):
-        return self.start <= index < self.end
-
+Marked = namedtuple('Marked', ('target', 'type', 'cue', 'span', ))
 
 def _get_neg_and_spec_spans(nesp_anns):
+    id_to_ann = {}
+    for ann in nesp_anns:
+        id_to_ann[ann.id] = ann
+
     negated_ids = set()
     speculated_ids = set()
     for e_ann in (a for a in nesp_anns if isinstance(a, Event)):
@@ -33,11 +30,18 @@ def _get_neg_and_spec_spans(nesp_anns):
     spec_spans = []
     for span_ann in (a for a in nesp_anns
             if isinstance(a, Textbound) and a.type == 'Span'):
-        span = Span(span_ann.start, span_ann.end)
+        #XXX: HORRIBLE HACK!
+        for cue_ann in (a for a in nesp_anns
+                if isinstance(a, Event)):
+            if cue_ann.args['Scope'] == span_ann.id:
+                break
+        else:
+            assert False
+        span_ann.cue = id_to_ann[cue_ann.trigger]
         if span_ann.id in negated_ids:
-            neg_spans.append(span)
+            neg_spans.append(span_ann)
         if span_ann.id in speculated_ids:
-            spec_spans.append(span)
+            spec_spans.append(span_ann)
 
     return neg_spans, spec_spans
 
@@ -71,5 +75,9 @@ def nesp_heuristic(ee_anns, nesp_anns, root_internal=True):
                 
             for e_ann in events_in_span:
                 if e_ann.id not in marked_events:
-                    yield (span_type, e_ann.id)
+                    # TODO: XXX: This is a hack, fix it later!
+                    #print span
+                    yield Marked(target=e_ann.id, type=span_type,
+                            #XXX: CUE!
+                            cue=span.cue, span=span)
                     marked_events.add(e_ann.id)

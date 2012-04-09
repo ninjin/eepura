@@ -41,10 +41,10 @@ def main(args):
     next_m_num = max(chain((int(a.id[1:]) for a in ee_anns
             if isinstance(a, Modifier)), (0, ))) + 1
 
-    for mod_type, mod_target in nesp_heuristic(ee_anns, nesp_anns,
+    for mark in nesp_heuristic(ee_anns, nesp_anns,
             root_internal=True):
         argp.output.write(unicode(Modifier('M{}'.format(next_m_num),
-            mod_type, mod_target)) + '\n')
+            mark.type, mark.target)) + '\n')
         next_m_num += 1
 
     return 0

@@ -21,6 +21,9 @@ class Textbound(object):
         return '{}\t{} {} {}\t{}'.format(self.id, self.type, self.start,
                 self.end, self.comment)
 
+    def __contains__(self, index):
+        return self.start <= index < self.end
+
 
 class Event(object):
     def __init__(self, _id, _type, trigger, args):
