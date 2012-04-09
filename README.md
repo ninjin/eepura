@@ -35,3 +35,22 @@ the framework using the `nesptost.py` script:
             `if [ -f ${f}.a2 ]; then echo "-a ${f}.a2"; fi;` \
             > ${f}.nesp.st
     done
+
+## Frequently Asked Questions (FAQ) ##
+
+* Q: Why the name `eepura`?
+* A: `eepura` was developed at the University of Tokyo and draws some
+    inspiration from Japanese. In Japanese C++ can be written shiipurasupurasu
+    (シープラスプラス) and due to the wonderful nature of the Japanese
+    language purasu (プラス) naturally becomes pura (プラ) for short, then due
+    to yet another wonderful aspect of Japanese it is not uncommon to drop
+    repeated patterns in expressions (happens with Japanese onomatopoeitic
+    expressions quite frequently, but that is a completely different story)
+    so informally C++ is shiipura (シープラ). Stroustrup intended the C++ name
+    to signify the extension of the C language, thus building a system that
+    enhances the output of existing event extraction systems would be...
+
+* Q: Is this really a FAQ?
+* A: Not really, no, mostly it is just a bunch of questions that might be
+    raised written while waiting for the model to be trained during
+    experiments
