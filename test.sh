@@ -61,8 +61,8 @@ results() {
     PREDS=$2
     #echo ${GOLD} ${PREDS}
     TP=`grep $'^2\t2$' <(paste <(cut -f 1 -d ' ' ${GOLD}) ${PREDS}) | wc -l`
-    FP=`grep $'^2\t1$' <(paste <(cut -f 1 -d ' ' ${GOLD}) ${PREDS}) | wc -l`
-    FN=`grep $'^1\t2$' <(paste <(cut -f 1 -d ' ' ${GOLD}) ${PREDS}) | wc -l`
+    FP=`grep $'^1\t2$' <(paste <(cut -f 1 -d ' ' ${GOLD}) ${PREDS}) | wc -l`
+    FN=`grep $'^2\t1$' <(paste <(cut -f 1 -d ' ' ${GOLD}) ${PREDS}) | wc -l`
     P=`echo "scale=3; if(${TP} + ${FP} != 0) { ${TP} / (${TP} + ${FP}) } else { 0 }" | bc`
     R=`echo "scale=3; if(${TP} + ${FN} != 0) { ${TP} / (${TP} + ${FN}) } else { 0 }" | bc`
     F=`echo "scale=3; if(${P} + ${R} != 0) { (2 * ${P} * ${R}) / (${P} + ${R}) } else { 0 }" | bc`
